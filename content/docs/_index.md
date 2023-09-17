@@ -1,6 +1,6 @@
 ---
-weight: 10
-title: "Documentation"
+weight: 1
+title: "Arxiv每日推送"
 description: ""
 icon: menu_book
 lead: ""
