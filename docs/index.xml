@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation on Label Convert Documentation</title>
-    <link>https://rapidai.github.io/LabelConvert/docs/</link>
-    <description>Recent content in Documentation on Label Convert Documentation</description>
+    <title>Arxiv每日推送 on Arxiv 每日推送</title>
+    <link>https://cuterwrite.top/arxiv-daily/docs/</link>
+    <description>Recent content in Arxiv每日推送 on Arxiv 每日推送</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Oct 2022 02:21:15 +0000</lastBuildDate><atom:link href="https://rapidai.github.io/LabelConvert/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 10 Oct 2022 02:21:15 +0000</lastBuildDate><atom:link href="https://cuterwrite.top/arxiv-daily/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Overview</title>
-      <link>https://rapidai.github.io/LabelConvert/docs/overview/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://rapidai.github.io/LabelConvert/docs/overview/</guid>
-      <description>Label Convert link A dataset format conversion tool for object detection and image segmentation, which supports mutual conversion between labelme, labelImg tools and YOLO, VOC, and COCO dataset formats.
-Installation link pip install label_convert Contributing linkPull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
-License linkApache 2.0</description>
-    </item>
-    
-    <item>
-      <title>Changelog</title>
-      <link>https://rapidai.github.io/LabelConvert/docs/changelog/</link>
+      <title>Arxiv 每日推送</title>
+      <link>https://cuterwrite.top/arxiv-daily/docs/readme/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://rapidai.github.io/LabelConvert/docs/changelog/</guid>
-      <description>2023-09-15 v0.0.3 update: link Add labelImg to publaynet format. </description>
+      <guid>https://cuterwrite.top/arxiv-daily/docs/readme/</guid>
+      <description>CONTRIBUTORS: 1CONTRIBUTORS1 FORKS159 STARS525 ISSUES: 0 OPENISSUES0 OPEN Updated on 2023.09.17 link Usage instructions: here
+Table of Contents Brain Simulation Spiking Neural Networks Neuromorphic Computing Neural Coding Brain Modelling and Simulation High Performance Computing for Neuroscience Neuroinformatics Neuromorphic Engineering Brain Simulation link Publish Date Title Authors PDF Code 2023-08-02 Digital Twin Brain: a simulation and assimilation platform for whole human brain Wenlian Lu et.al. 2308.01241 null 2023-07-27 Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy Transfer in Multi-UAV-aided IoT Network Ze Yu Zhao et.</description>
     </item>
     
   </channel>
