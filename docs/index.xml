@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Label Convert Documentation</title>
+    <link>https://rapidai.github.io/LabelConvert/docs/</link>
+    <description>Recent content in Documentation on Label Convert Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 02:21:15 +0000</lastBuildDate><atom:link href="https://rapidai.github.io/LabelConvert/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>https://rapidai.github.io/LabelConvert/docs/overview/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rapidai.github.io/LabelConvert/docs/overview/</guid>
+      <description>Label Convert link A dataset format conversion tool for object detection and image segmentation, which supports mutual conversion between labelme, labelImg tools and YOLO, VOC, and COCO dataset formats.
+Installation link pip install label_convert Contributing linkPull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+License linkApache 2.0</description>
+    </item>
+    
+    <item>
+      <title>Changelog</title>
+      <link>https://rapidai.github.io/LabelConvert/docs/changelog/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rapidai.github.io/LabelConvert/docs/changelog/</guid>
+      <description>2023-09-15 v0.0.3 update: link Add labelImg to publaynet format. </description>
+    </item>
+    
+  </channel>
+</rss>
