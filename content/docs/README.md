@@ -3,7 +3,7 @@ weight: 2
 date: "2023-09-15"
 draft: false
 author: "cuterwrite"
-title: "Arxiv 每日推送"
+title: "Arxiv 每日推送11"
 icon: "menu_book"
 toc: true
 description: ""
