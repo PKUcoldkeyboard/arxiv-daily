@@ -4,7 +4,7 @@ date: "2023-09-15"
 draft: false
 author: "cuterwrite"
 title: "Arxiv 每日推送"
-icon: "circle"
+icon: "menu_book"
 toc: true
 description: ""
 publishdate: "2023-09-15"
@@ -30,12 +30,13 @@ categories: [""]
     <li><a href=#Brain-Modelling-and-Simulation>Brain Modelling and Simulation</a></li>
     <li><a href=#High-Performance-Computing-for-Neuroscience>High Performance Computing for Neuroscience</a></li>
     <li><a href=#Neuroinformatics>Neuroinformatics</a></li>
-    <li><a href=#Neuromorphic-Engineering>Neuromorphic Engineering</a></li>
+    <li><a href=##Neuromorphic-Engineering>Neuromorphic Engineering</a></li>
   </ol>
 </details>
 
 ## Brain Simulation
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
@@ -51,6 +52,7 @@ categories: [""]
 |**2023-01-31**|**Tricking AI chips into Simulating the Human Brain: A Detailed Performance Analysis**|Lennart P. L. Landsmeer et.al.|[2301.13637](http://arxiv.org/abs/2301.13637)|**[link](https://github.com/llandsmeer/iotf)**|
 |**2023-01-25**|**Accelerating Brain Simulations with the Fast Multipole Method**|Hannah Nöttgen et.al.|[2301.10570](http://arxiv.org/abs/2301.10570)|null|
 |**2022-12-02**|**Bio-realistic and versatile artificial dendrites made of anti-ambipolar transistors**|Yifei Yang et.al.|[2212.01277](http://arxiv.org/abs/2212.01277)|null|
+{{< /table >}}
 
 <p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
 
