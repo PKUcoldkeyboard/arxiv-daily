@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-09-17"
+date: "2023-09-18"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-09-17"
+publishdate: "2023-09-18"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.09.17
+## Updated on 2023.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -40,6 +40,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**A Spiking Binary Neuron -- Detector of Causal Links**|Mikhail Kiselev et.al.|[2309.08476](http://arxiv.org/abs/2309.08476)|null|
+|**2023-09-15**|**Astrocyte-Integrated Dynamic Function Exchange in Spiking Neural Networks**|Murat Isik et.al.|[2309.08232](http://arxiv.org/abs/2309.08232)|null|
 |**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535](http://arxiv.org/abs/2309.07535)|null|
 |**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652](http://arxiv.org/abs/2309.06652)|null|
 |**2023-09-11**|**Neuromorphic Auditory Perception by Neural Spiketrum**|Huajin Tang et.al.|[2309.05430](http://arxiv.org/abs/2309.05430)|null|
@@ -53,7 +55,7 @@ categories: [""]
 |**2023-09-11**|**A high-performance deep reservoir computing experimentally demonstrated with ion-gating reservoirs**|Daiki Nishioka et.al.|[2309.03028](http://arxiv.org/abs/2309.03028)|null|
 |**2023-09-05**|**Neuromorphic nanocluster networks: Critical role of the substrate in nano-link formation**|Wenkai Wu et.al.|[2309.02299](http://arxiv.org/abs/2309.02299)|null|
 |**2023-09-05**|**Molecular dynamics simulation of nanofilament breakage in neuromorphic nanoparticle networks**|Wenkai Wu et.al.|[2309.02282](http://arxiv.org/abs/2309.02282)|null|
-|**2023-09-05**|**HW/SW Codesign for Robust and Efficient Binarized SNNs by Capacitor Minimization**|Mikail Yayla et.al.|[2309.02111](http://arxiv.org/abs/2309.02111)|null|
+|**2023-09-05**|**HW/SW Codesign for Robust and Efficient Binarized SNNs by Capacitor Minimization**|Mikail Yayla et.al.|[2309.02111](http://arxiv.org/abs/2309.02111)|**[link](https://github.com/myay/SPICE-Torch)**|
 |**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476](http://arxiv.org/abs/2309.00476)|null|
 |**2023-09-01**|**Spiking based Cellular Learning Automata (SCLA) algorithm for mobile robot motion formulation**|Vahid Pashaei Rad et.al.|[2309.00241](http://arxiv.org/abs/2309.00241)|null|
 |**2023-08-31**|**Artificial to Spiking Neural Networks Conversion for Scientific Machine Learning**|Qian Zhang et.al.|[2308.16372](http://arxiv.org/abs/2308.16372)|null|
@@ -142,6 +144,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Astrocyte-Integrated Dynamic Function Exchange in Spiking Neural Networks**|Murat Isik et.al.|[2309.08232](http://arxiv.org/abs/2309.08232)|null|
 |**2023-09-14**|**Reconfigurable neural spiking in bias field-free spin Hall nano oscillator**|Sourabh Manna et.al.|[2309.07641](http://arxiv.org/abs/2309.07641)|null|
 |**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652](http://arxiv.org/abs/2309.06652)|null|
 |**2023-09-12**|**In operando cryo-STEM of pulse-induced charge density wave switching in TaS $_2$**|James L Hart et.al.|[2309.06406](http://arxiv.org/abs/2309.06406)|null|
@@ -204,6 +207,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**|Jongmin Park et.al.|[2309.07926](http://arxiv.org/abs/2309.07926)|null|
 |**2023-09-14**|**Semi-orthogonal subspaces for value mediate a tradeoff between binding and generalization**|W. Jeffrey Johnston et.al.|[2309.07766](http://arxiv.org/abs/2309.07766)|null|
 |**2023-09-14**|**A DenseNet-based method for decoding auditory spatial attention with EEG**|Xiran Xu et.al.|[2309.07690](http://arxiv.org/abs/2309.07690)|**[link](https://github.com/xuxiran/asad_densenet)**|
 |**2023-09-14**|**Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement**|Sheng Ye et.al.|[2309.07640](http://arxiv.org/abs/2309.07640)|null|
