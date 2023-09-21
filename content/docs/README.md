@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-09-20"
+date: "2023-09-21"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-09-20"
+publishdate: "2023-09-21"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -40,6 +40,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Brain-inspired computing with fluidic iontronic nanochannels**|T. M. Kamsma et.al.|[2309.11438](http://arxiv.org/abs/2309.11438)|null|
 |**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225](http://arxiv.org/abs/2309.10225)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-09-18**|**Adaptive Reorganization of Neural Pathways for Continual Learning with Hybrid Spiking Neural Networks**|Bing Han et.al.|[2309.09550](http://arxiv.org/abs/2309.09550)|null|
 |**2023-09-18**|**Spiking-LEAF: A Learnable Auditory front-end for Spiking Neural Networks**|Zeyang Song et.al.|[2309.09469](http://arxiv.org/abs/2309.09469)|null|
@@ -149,6 +150,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Brain-inspired computing with fluidic iontronic nanochannels**|T. M. Kamsma et.al.|[2309.11438](http://arxiv.org/abs/2309.11438)|null|
 |**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225](http://arxiv.org/abs/2309.10225)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-09-15**|**Astrocyte-Integrated Dynamic Function Exchange in Spiking Neural Networks**|Murat Isik et.al.|[2309.08232](http://arxiv.org/abs/2309.08232)|null|
 |**2023-09-14**|**Reconfigurable neural spiking in bias field-free spin Hall nano oscillator**|Sourabh Manna et.al.|[2309.07641](http://arxiv.org/abs/2309.07641)|null|
@@ -213,6 +215,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028](http://arxiv.org/abs/2309.11028)|null|
 |**2023-09-15**|**Neural Metamaterial Networks for Nonlinear Material Design**|Yue Li et.al.|[2309.10600](http://arxiv.org/abs/2309.10600)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
 |**2023-09-19**|**From sound to meaning in the auditory cortex: A neuronal representation and classification analysis**|Kumar Neelabh et.al.|[2309.10385](http://arxiv.org/abs/2309.10385)|null|
