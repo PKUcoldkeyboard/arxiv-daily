@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-09-30"
+date: "2023-10-01"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-09-30"
+publishdate: "2023-10-01"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.09.30
+## Updated on 2023.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -235,7 +235,7 @@ categories: [""]
 |---|---|---|---|---|
 |**2023-09-28**|**Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects**|Hui Zheng et.al.|[2309.16457](http://arxiv.org/abs/2309.16457)|null|
 |**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848](http://arxiv.org/abs/2309.15848)|null|
-|**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729](http://arxiv.org/abs/2309.15729)|null|
+|**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729](http://arxiv.org/abs/2309.15729)|**[link](https://github.com/jxuanc/mindgpt)**|
 |**2023-09-27**|**Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations**|Hui Chen et.al.|[2309.15499](http://arxiv.org/abs/2309.15499)|null|
 |**2023-09-25**|**Hashing Neural Video Decomposition with Multiplicative Residuals in Space-Time**|Cheng-Hung Chan et.al.|[2309.14022](http://arxiv.org/abs/2309.14022)|null|
 |**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101](http://arxiv.org/abs/2309.13101)|null|
