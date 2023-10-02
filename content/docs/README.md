@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-10-01"
+date: "2023-10-02"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-10-01"
+publishdate: "2023-10-02"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -22,7 +22,7 @@ categories: [""]
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
 |**2023-07-27**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626](http://arxiv.org/abs/2307.14626)|null|
 |**2023-06-16**|**Towards fully integrated photonic backpropagation training and inference using on-chip nonlinear activation and gradient functions**|Farshid Ashtiani et.al.|[2307.10179](http://arxiv.org/abs/2307.10179)|null|
-|**2023-08-04**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|**[link](https://github.com/petersidajaya/neural-network-fyp)**|
+|**2023-09-29**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|**[link](https://github.com/petersidajaya/neural-network-fyp)**|
 |**2023-05-22**|**Powering AI at the Edge: A Robust, Memristor-based Binarized Neural Network with Near-Memory Computing and Miniaturized Solar Cell**|Fadi Jebali et.al.|[2305.12875](http://arxiv.org/abs/2305.12875)|null|
 |**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510](http://arxiv.org/abs/2305.02510)|**[link](https://github.com/ornl/superneuro)**|
 |**2023-05-03**|**Thermally-driven Multilevel Non-volatile Memory with Monolayer MoS2 for Neuro-inspired Artificial Learning**|Sameer Kumar Mallik et.al.|[2305.02259](http://arxiv.org/abs/2305.02259)|null|
@@ -40,6 +40,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang et.al.|[2309.16987](http://arxiv.org/abs/2309.16987)|null|
+|**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|null|
 |**2023-09-28**|**Feed-forward and recurrent inhibition for compressing and classifying high dynamic range biosignals in spiking neural network architectures**|Rachel Sava et.al.|[2309.16425](http://arxiv.org/abs/2309.16425)|null|
 |**2023-09-28**|**FireFly v2: Advancing Hardware Support for High-Performance Spiking Neural Network with a Spatiotemporal FPGA Accelerator**|Jindong Li et.al.|[2309.16158](http://arxiv.org/abs/2309.16158)|null|
 |**2023-09-27**|**Highly Efficient SNNs for High-speed Object Detection**|Nemin Qiu et.al.|[2309.15883](http://arxiv.org/abs/2309.15883)|null|
@@ -163,6 +165,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Stochastic syncing in sinusoidally driven atomic orbital memory**|Werner M. J. van Weerdenburg et.al.|[2309.17000](http://arxiv.org/abs/2309.17000)|null|
+|**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|null|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
 |**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761](http://arxiv.org/abs/2309.12761)|null|
@@ -233,6 +237,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**RECOMBINER: Robust and Enhanced Compression with Bayesian Implicit Neural Representations**|Jiajun He et.al.|[2309.17182](http://arxiv.org/abs/2309.17182)|null|
 |**2023-09-28**|**Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects**|Hui Zheng et.al.|[2309.16457](http://arxiv.org/abs/2309.16457)|null|
 |**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848](http://arxiv.org/abs/2309.15848)|null|
 |**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729](http://arxiv.org/abs/2309.15729)|**[link](https://github.com/jxuanc/mindgpt)**|
@@ -298,7 +303,7 @@ categories: [""]
 |**2023-07-23**|**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**|Yejia Zhang et.al.|[2307.12429](http://arxiv.org/abs/2307.12429)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-16**|**Neural Stream Functions**|Skylar Wolfgang Wurster et.al.|[2307.08142](http://arxiv.org/abs/2307.08142)|**[link](https://github.com/skywolf829/neuralstreamfunction)**|
-|**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|null|
+|**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|**[link](https://github.com/frschu/aligned_oblique_in_rnns)**|
 |**2023-07-14**|**Implicit Neural Feature Fusion Function for Multispectral and Hyperspectral Image Fusion**|ShangQi Deng et.al.|[2307.07288](http://arxiv.org/abs/2307.07288)|null|
 |**2023-07-22**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207](http://arxiv.org/abs/2307.06207)|**[link](https://github.com/bu-cisl/LCNF)**|
 |**2023-07-12**|**Learning Kernel-Modulated Neural Representation for Efficient Light Field Compression**|Jinglei Shi et.al.|[2307.06143](http://arxiv.org/abs/2307.06143)|null|
@@ -371,6 +376,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239](http://arxiv.org/abs/2309.17239)|**[link](https://github.com/booker-max/egvd)**|
 |**2023-09-27**|**High-Resolution Full-field Structural Microscopy of the Voltage Induced Filament Formation in Neuromorphic Devices**|Elliot Kisiel et.al.|[2309.15712](http://arxiv.org/abs/2309.15712)|null|
 |**2023-08-29**|**Infrared Nanoimaging of Hydrogenated Perovskite Nickelate Synaptic Devices**|Sampath Gamage et.al.|[2309.04486](http://arxiv.org/abs/2309.04486)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
