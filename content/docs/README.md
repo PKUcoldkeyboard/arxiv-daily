@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-10-10"
+date: "2023-10-11"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-10-10"
+publishdate: "2023-10-11"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -40,6 +40,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Energy-Efficient Visual Search by Eye Movement and Low-Latency Spiking Neural Network**|Yunhui Zhou et.al.|[2310.06578](http://arxiv.org/abs/2310.06578)|null|
+|**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
+|**2023-10-10**|**Spiking PointNet: Spiking Neural Networks for Point Clouds**|Dayong Ren et.al.|[2310.06232](http://arxiv.org/abs/2310.06232)|**[link](https://github.com/dayongren/spiking-pointnet)**|
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868](http://arxiv.org/abs/2310.05868)|null|
 |**2023-10-09**|**Investigating Continuous Learning in Spiking Neural Networks**|C. Tanner Fredieu et.al.|[2310.05343](http://arxiv.org/abs/2310.05343)|null|
 |**2023-10-08**|**Fully Spiking Neural Network for Legged Robots**|Xiaoyang Jiang et.al.|[2310.05022](http://arxiv.org/abs/2310.05022)|null|
@@ -257,6 +260,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Neural ring homomorphism preserves mandatory sets required for open convexity**|Neha Gupta et.al.|[2310.06323](http://arxiv.org/abs/2310.06323)|null|
+|**2023-10-09**|**Manifold-augmented Eikonal Equations: Geodesic Distances and Flows on Differentiable Manifolds**|Daniel Kelshaw et.al.|[2310.06157](http://arxiv.org/abs/2310.06157)|null|
 |**2023-10-09**|**Estimating Shape Distances on Neural Representations with Limited Samples**|Dean A. Pospisil et.al.|[2310.05742](http://arxiv.org/abs/2310.05742)|null|
 |**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation}**|Doyup Lee et.al.|[2310.05624](http://arxiv.org/abs/2310.05624)|null|
 |**2023-10-05**|**Tuning In to Neural Encoding: Linking Human Brain and Artificial Supervised Representations of Language**|Jingyuan Sun et.al.|[2310.04460](http://arxiv.org/abs/2310.04460)|null|
@@ -365,7 +370,7 @@ categories: [""]
 |**2023-01-31**|**Tricking AI chips into Simulating the Human Brain: A Detailed Performance Analysis**|Lennart P. L. Landsmeer et.al.|[2301.13637](http://arxiv.org/abs/2301.13637)|**[link](https://github.com/llandsmeer/iotf)**|
 |**2023-06-03**|**Adaptive whitening in neural populations with gain-modulating interneurons**|Lyndon R. Duong et.al.|[2301.11955](http://arxiv.org/abs/2301.11955)|**[link](https://github.com/lyndond/frame_whitening)**|
 |**2023-01-25**|**Accelerating Brain Simulations with the Fast Multipole Method**|Hannah Nöttgen et.al.|[2301.10570](http://arxiv.org/abs/2301.10570)|null|
-|**2022-12-03**|**Dynamics of bump attractors in neural circuits with emergent spatial correlations**|Hengyuan Ma et.al.|[2212.01663](http://arxiv.org/abs/2212.01663)|null|
+|**2023-10-10**|**self-organization of nonlinearly coupled neural fluctuations into synergistic population codes**|Hengyuan Ma et.al.|[2212.01663](http://arxiv.org/abs/2212.01663)|null|
 |**2023-07-12**|**BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation**|Yi Zeng et.al.|[2207.08533](http://arxiv.org/abs/2207.08533)|null|
 |**2022-06-20**|**Degeneracy in epilepsy: Multiple Routes to Hyperexcitable Brain Circuits and their Repair**|Tristan Manfred Stöber et.al.|[2206.09621](http://arxiv.org/abs/2206.09621)|null|
 |**2022-05-14**|**A Low-latency Communication Design for Brain Simulations**|Xin Du et.al.|[2205.07125](http://arxiv.org/abs/2205.07125)|null|
