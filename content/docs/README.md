@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-10-27"
+date: "2023-10-28"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-10-27"
+publishdate: "2023-10-28"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.10.27
+## Updated on 2023.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -43,7 +43,7 @@ categories: [""]
 |---|---|---|---|---|
 |**2023-10-25**|**WaLiN-GUI: a graphical and auditory tool for neuron-based encoding**|Simon F. Müller-Cleve et.al.|[2310.16983](http://arxiv.org/abs/2310.16983)|**[link](https://github.com/event-driven-robotics/walin-gui)**|
 |**2023-10-25**|**Neuromorphic weighted sum with magnetic skyrmions**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.16909](http://arxiv.org/abs/2310.16909)|null|
-|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745](http://arxiv.org/abs/2310.16745)|null|
+|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745](http://arxiv.org/abs/2310.16745)|**[link](https://github.com/githubofaliyev/snn-dse)**|
 |**2023-10-25**|**Agreeing to Stop: Reliable Latency-Adaptive Decision Making via Ensembles of Spiking Neural Networks**|Jiechen Chen et.al.|[2310.16675](http://arxiv.org/abs/2310.16675)|null|
 |**2023-10-25**|**SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence**|Wei Fang et.al.|[2310.16620](http://arxiv.org/abs/2310.16620)|**[link](https://github.com/fangwei123456/spikingjelly)**|
 |**2023-10-25**|**How can neuromorphic hardware attain brain-like functional capabilities?**|Wolfgang Maass et.al.|[2310.16444](http://arxiv.org/abs/2310.16444)|null|
