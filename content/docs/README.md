@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-10-29"
+date: "2023-10-30"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-10-29"
+publishdate: "2023-10-30"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -41,6 +41,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Concepts and Paradigms for Neuromorphic Programming**|Steven Abreu et.al.|[2310.18260](http://arxiv.org/abs/2310.18260)|null|
 |**2023-10-25**|**WaLiN-GUI: a graphical and auditory tool for neuron-based encoding**|Simon F. Müller-Cleve et.al.|[2310.16983](http://arxiv.org/abs/2310.16983)|**[link](https://github.com/event-driven-robotics/walin-gui)**|
 |**2023-10-25**|**Neuromorphic weighted sum with magnetic skyrmions**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.16909](http://arxiv.org/abs/2310.16909)|null|
 |**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745](http://arxiv.org/abs/2310.16745)|**[link](https://github.com/githubofaliyev/snn-dse)**|
@@ -201,6 +202,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Concepts and Paradigms for Neuromorphic Programming**|Steven Abreu et.al.|[2310.18260](http://arxiv.org/abs/2310.18260)|null|
 |**2023-10-25**|**WaLiN-GUI: a graphical and auditory tool for neuron-based encoding**|Simon F. Müller-Cleve et.al.|[2310.16983](http://arxiv.org/abs/2310.16983)|**[link](https://github.com/event-driven-robotics/walin-gui)**|
 |**2023-10-25**|**Neuromorphic weighted sum with magnetic skyrmions**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.16909](http://arxiv.org/abs/2310.16909)|null|
 |**2023-10-25**|**SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence**|Wei Fang et.al.|[2310.16620](http://arxiv.org/abs/2310.16620)|**[link](https://github.com/fangwei123456/spikingjelly)**|
@@ -292,7 +294,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-26**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519](http://arxiv.org/abs/2310.17519)|null|
+|**2023-10-26**|**Neural Stress Fields for Reduced-order Elastoplasticity and Fracture**|Zeshun Zong et.al.|[2310.17790](http://arxiv.org/abs/2310.17790)|null|
+|**2023-10-27**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519](http://arxiv.org/abs/2310.17519)|null|
 |**2023-10-25**|**Interpretable time series neural representation for classification purposes**|Etienne Le Naour et.al.|[2310.16696](http://arxiv.org/abs/2310.16696)|null|
 |**2023-10-25**|**Towards Information Theory-Based Discovery of Equivariances**|Hippolyte Charvin et.al.|[2310.16555](http://arxiv.org/abs/2310.16555)|null|
 |**2023-10-23**|**Neural representation in active inference: using generative models to interact with -- and understand -- the lived world**|Giovanni Pezzulo et.al.|[2310.14810](http://arxiv.org/abs/2310.14810)|null|
