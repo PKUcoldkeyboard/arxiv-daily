@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-11-19"
+date: "2023-11-20"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-11-19"
+publishdate: "2023-11-20"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.11.19
+## Updated on 2023.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -324,12 +324,13 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156](http://arxiv.org/abs/2311.10156)|null|
 |**2023-11-16**|**Dynamic CBCT Imaging using Prior Model-Free Spatiotemporal Implicit Neural Representation (PMF-STINR)**|Hua-Chieh Shao et.al.|[2311.10036](http://arxiv.org/abs/2311.10036)|null|
 |**2023-11-16**|**Soft Matching Distance: A metric on neural representations that captures single-neuron tuning**|Meenakshi Khosla et.al.|[2311.09466](http://arxiv.org/abs/2311.09466)|null|
 |**2023-11-15**|**Data Augmentations in Deep Weight Spaces**|Aviv Shamsian et.al.|[2311.08851](http://arxiv.org/abs/2311.08851)|null|
 |**2023-11-14**|**Neural Lattice Reduction: A Self-Supervised Geometric Deep Learning Approach**|Giovanni Luca Marchetti et.al.|[2311.08170](http://arxiv.org/abs/2311.08170)|null|
 |**2023-11-10**|**Improved Positional Encoding for Implicit Neural Representation based Compact Data Representation**|Bharath Bhushan Damodaran et.al.|[2311.06059](http://arxiv.org/abs/2311.06059)|null|
-|**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146](http://arxiv.org/abs/2311.05146)|**[link](https://github.com/rishavbb/owslr)**|
+|**2023-11-16**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146](http://arxiv.org/abs/2311.05146)|**[link](https://github.com/rishavbb/owslr)**|
 |**2023-11-08**|**Implicit Neural Representations for Breathing-compensated Volume Reconstruction in Robotic Ultrasound Aorta Screening**|Yordanka Velikova et.al.|[2311.04999](http://arxiv.org/abs/2311.04999)|null|
 |**2023-11-08**|**Euclidean, Projective, Conformal: Choosing a Geometric Algebra for Equivariant Transformers**|Pim de Haan et.al.|[2311.04744](http://arxiv.org/abs/2311.04744)|null|
 |**2023-11-05**|**Optimizing Implicit Neural Representations from Point Clouds via Energy-Based Models**|Ryutaro Yamauchi et.al.|[2311.02601](http://arxiv.org/abs/2311.02601)|null|
@@ -511,6 +512,7 @@ categories: [""]
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868](http://arxiv.org/abs/2310.05868)|null|
 |**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239](http://arxiv.org/abs/2309.17239)|**[link](https://github.com/booker-max/egvd)**|
 |**2023-09-27**|**High-Resolution Full-field Structural Microscopy of the Voltage Induced Filament Formation in Neuromorphic Devices**|Elliot Kisiel et.al.|[2309.15712](http://arxiv.org/abs/2309.15712)|null|
+|**2023-11-17**|**Intelligent machines work in unstructured environments by differential neuromorphic computing**|Shengbo Wang et.al.|[2309.08835](http://arxiv.org/abs/2309.08835)|null|
 |**2023-08-29**|**Infrared Nanoimaging of Hydrogenated Perovskite Nickelate Synaptic Devices**|Sampath Gamage et.al.|[2309.04486](http://arxiv.org/abs/2309.04486)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
