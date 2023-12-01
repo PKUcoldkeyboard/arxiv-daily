@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-11-30"
+date: "2023-12-01"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-11-30"
+publishdate: "2023-12-01"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.11.30
+## Updated on 2023.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -43,6 +43,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons**|Jay Sonawane et.al.|[2311.18577](http://arxiv.org/abs/2311.18577)|null|
+|**2023-11-30**|**Neuromorphic Incremental on-chip Learning with Hebbian Weight Consolidation**|Zifan Ning et.al.|[2311.18340](http://arxiv.org/abs/2311.18340)|null|
+|**2023-11-29**|**A computational model of behavioral adaptation to solve the credit assignment problem**|Roy E. Clymer et.al.|[2311.18134](http://arxiv.org/abs/2311.18134)|null|
 |**2023-11-28**|**65 GOPS/neuron Photonic Tensor Core with Thin-film Lithium Niobate Photonics**|Zhongjin Lin et.al.|[2311.16896](http://arxiv.org/abs/2311.16896)|null|
 |**2023-11-28**|**Spiking Neural Networks with Dynamic Time Steps for Vision Transformers**|Gourav Datta et.al.|[2311.16456](http://arxiv.org/abs/2311.16456)|null|
 |**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474](http://arxiv.org/abs/2311.15474)|null|
@@ -236,6 +239,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons**|Jay Sonawane et.al.|[2311.18577](http://arxiv.org/abs/2311.18577)|null|
 |**2023-11-28**|**65 GOPS/neuron Photonic Tensor Core with Thin-film Lithium Niobate Photonics**|Zhongjin Lin et.al.|[2311.16896](http://arxiv.org/abs/2311.16896)|null|
 |**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474](http://arxiv.org/abs/2311.15474)|null|
 |**2023-11-25**|**A Survey Examining Neuromorphic Architecture in Space and Challenges from Radiation**|Jonathan Naoukin et.al.|[2311.15006](http://arxiv.org/abs/2311.15006)|null|
@@ -345,6 +349,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311](http://arxiv.org/abs/2311.18311)|null|
 |**2023-11-29**|**Implicit-explicit Integrated Representations for Multi-view Video Compression**|Chen Zhu et.al.|[2311.17350](http://arxiv.org/abs/2311.17350)|null|
 |**2023-11-28**|**REF $^2$ -NeRF: Reflection and Refraction aware Neural Radiance Field**|Wooseok Kim et.al.|[2311.17116](http://arxiv.org/abs/2311.17116)|null|
 |**2023-11-28**|**I-MedSAM: Implicit Medical Image Segmentation with Segment Anything**|Xiaobao Wei et.al.|[2311.17081](http://arxiv.org/abs/2311.17081)|null|
