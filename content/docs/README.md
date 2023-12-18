@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-12-17"
+date: "2023-12-18"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-12-17"
+publishdate: "2023-12-18"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.12.17
+## Updated on 2023.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -43,6 +43,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Mutual synchronization in spin torque and spin Hall nano-oscillators**|Akash Kumar et.al.|[2312.09656](http://arxiv.org/abs/2312.09656)|null|
+|**2023-12-14**|**Biorealistic Response in Optoelectrically-Driven Flexible Halide-Perovskite Single-Crystal Memristors**|Ivan Matchenya et.al.|[2312.09314](http://arxiv.org/abs/2312.09314)|null|
 |**2023-12-14**|**Magnetization Reversal of 50-nm-wide Ni81Fe19 Nanostripes by Ultrashort Magnons in Yttrium Iron Garnet for Memory-Enhanced Magnonic Circuits**|Shreyas S. Joglekar et.al.|[2312.09177](http://arxiv.org/abs/2312.09177)|null|
 |**2023-12-14**|**Memlumor: a luminescent memory device for photonic neuromorphic computing**|Alexandr Marunchenko et.al.|[2312.09170](http://arxiv.org/abs/2312.09170)|null|
 |**2023-12-14**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084](http://arxiv.org/abs/2312.09084)|null|
@@ -258,6 +260,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Mutual synchronization in spin torque and spin Hall nano-oscillators**|Akash Kumar et.al.|[2312.09656](http://arxiv.org/abs/2312.09656)|null|
+|**2023-12-14**|**Biorealistic Response in Optoelectrically-Driven Flexible Halide-Perovskite Single-Crystal Memristors**|Ivan Matchenya et.al.|[2312.09314](http://arxiv.org/abs/2312.09314)|null|
 |**2023-12-14**|**Magnetization Reversal of 50-nm-wide Ni81Fe19 Nanostripes by Ultrashort Magnons in Yttrium Iron Garnet for Memory-Enhanced Magnonic Circuits**|Shreyas S. Joglekar et.al.|[2312.09177](http://arxiv.org/abs/2312.09177)|null|
 |**2023-12-14**|**Memlumor: a luminescent memory device for photonic neuromorphic computing**|Alexandr Marunchenko et.al.|[2312.09170](http://arxiv.org/abs/2312.09170)|null|
 |**2023-12-14**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084](http://arxiv.org/abs/2312.09084)|null|
@@ -379,7 +383,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-14**|**ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency Modulated Auto-Encoder in Urban Scenes**|Tianchen Deng et.al.|[2312.09076](http://arxiv.org/abs/2312.09076)|null|
+|**2023-12-14**|**Relightable Neural Assets**|Krishna Mullia et.al.|[2312.09398](http://arxiv.org/abs/2312.09398)|null|
+|**2023-12-15**|**ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency Modulated Auto-Encoder in Urban Scenes**|Tianchen Deng et.al.|[2312.09076](http://arxiv.org/abs/2312.09076)|null|
 |**2023-12-14**|**Symmetry Breaking and Equivariant Neural Networks**|Sékou-Oumar Kaba et.al.|[2312.09016](http://arxiv.org/abs/2312.09016)|null|
 |**2023-12-13**|**Representational constraints underlying similarity between task-optimized neural systems**|Tahereh Toosi et.al.|[2312.08545](http://arxiv.org/abs/2312.08545)|null|
 |**2023-12-12**|**Anatomically Constrained Implicit Face Models**|Prashanth Chandran et.al.|[2312.07538](http://arxiv.org/abs/2312.07538)|null|
