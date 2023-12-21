@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-12-20"
+date: "2023-12-21"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-12-20"
+publishdate: "2023-12-21"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -43,6 +43,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Energy-efficient Spiking Neural Network Equalization for IM/DD Systems with Optimized Neural Encoding**|Alexander von Bank et.al.|[2312.12909](http://arxiv.org/abs/2312.12909)|**[link](https://github.com/kit-cel/optispike)**|
+|**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|null|
 |**2023-12-18**|**Delving Deeper Into Astromorphic Transformers**|Md Zesun Ahmed Mia et.al.|[2312.10925](http://arxiv.org/abs/2312.10925)|null|
 |**2023-12-15**|**Mutual synchronization in spin torque and spin Hall nano-oscillators**|Akash Kumar et.al.|[2312.09656](http://arxiv.org/abs/2312.09656)|null|
 |**2023-12-14**|**Biorealistic Response in Optoelectrically-Driven Flexible Halide-Perovskite Single-Crystal Memristors**|Ivan Matchenya et.al.|[2312.09314](http://arxiv.org/abs/2312.09314)|null|
@@ -261,6 +263,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|null|
 |**2023-12-18**|**Delving Deeper Into Astromorphic Transformers**|Md Zesun Ahmed Mia et.al.|[2312.10925](http://arxiv.org/abs/2312.10925)|null|
 |**2023-12-15**|**Mutual synchronization in spin torque and spin Hall nano-oscillators**|Akash Kumar et.al.|[2312.09656](http://arxiv.org/abs/2312.09656)|null|
 |**2023-12-14**|**Biorealistic Response in Optoelectrically-Driven Flexible Halide-Perovskite Single-Crystal Memristors**|Ivan Matchenya et.al.|[2312.09314](http://arxiv.org/abs/2312.09314)|null|
@@ -385,7 +388,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-19**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841](http://arxiv.org/abs/2312.11841)|null|
+|**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285](http://arxiv.org/abs/2312.13285)|null|
+|**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277](http://arxiv.org/abs/2312.13277)|null|
+|**2023-12-20**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841](http://arxiv.org/abs/2312.11841)|null|
 |**2023-12-14**|**Relightable Neural Assets**|Krishna Mullia et.al.|[2312.09398](http://arxiv.org/abs/2312.09398)|null|
 |**2023-12-15**|**ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency Modulated Auto-Encoder in Urban Scenes**|Tianchen Deng et.al.|[2312.09076](http://arxiv.org/abs/2312.09076)|null|
 |**2023-12-14**|**Symmetry Breaking and Equivariant Neural Networks**|Sékou-Oumar Kaba et.al.|[2312.09016](http://arxiv.org/abs/2312.09016)|null|
