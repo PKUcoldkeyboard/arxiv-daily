@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2023-12-28"
+date: "2023-12-29"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2023-12-28"
+publishdate: "2023-12-29"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
