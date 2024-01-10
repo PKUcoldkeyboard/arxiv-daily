@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-01-08"
+date: "2024-01-10"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-01-08"
+publishdate: "2024-01-10"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.01.08
+## Updated on 2024.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -43,6 +43,12 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Multi-Neuron Representations of Hierarchical Concepts in Spiking Neural Networks**|Nancy A. Lynch et.al.|[2401.04628](http://arxiv.org/abs/2401.04628)|null|
+|**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491](http://arxiv.org/abs/2401.04491)|**[link](https://gitlab.com/tud-hpsn/public)**|
+|**2024-01-09**|**Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks**|Yufei Guo et.al.|[2401.04486](http://arxiv.org/abs/2401.04486)|null|
+|**2024-01-07**|**Web Neural Network with Complete DiGraphs**|Frank Li et.al.|[2401.04134](http://arxiv.org/abs/2401.04134)|null|
+|**2024-01-08**|**Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks**|Qi Xu et.al.|[2401.03719](http://arxiv.org/abs/2401.03719)|null|
+|**2024-01-06**|**Cavity magnonics with domain walls in insulating ferromagnetic wires**|Mircea Trif et.al.|[2401.03164](http://arxiv.org/abs/2401.03164)|null|
 |**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020](http://arxiv.org/abs/2401.02020)|**[link](https://github.com/zk-zhou/spikformer)**|
 |**2024-01-02**|**Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Network**|Yongqi Ding et.al.|[2401.01912](http://arxiv.org/abs/2401.01912)|null|
 |**2024-01-02**|**Spiker+: a framework for the generation of efficient Spiking Neural Networks FPGA accelerators for inference at the edge**|Alessio Carpegna et.al.|[2401.01141](http://arxiv.org/abs/2401.01141)|null|
@@ -274,6 +280,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491](http://arxiv.org/abs/2401.04491)|**[link](https://gitlab.com/tud-hpsn/public)**|
+|**2024-01-09**|**Analysis and design of rhythmic neuromorphic networks through dominance and bifurcations**|Omar Juarez-Alvarez et.al.|[2401.04324](http://arxiv.org/abs/2401.04324)|null|
+|**2024-01-06**|**Cavity magnonics with domain walls in insulating ferromagnetic wires**|Mircea Trif et.al.|[2401.03164](http://arxiv.org/abs/2401.03164)|null|
 |**2024-01-02**|**Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Network**|Yongqi Ding et.al.|[2401.01912](http://arxiv.org/abs/2401.01912)|null|
 |**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071](http://arxiv.org/abs/2312.16071)|null|
 |**2024-01-05**|**Astrocyte Regulated Neuromorphic Central Pattern Generator Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805](http://arxiv.org/abs/2312.15805)|null|
@@ -404,7 +413,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-04**|**Cool-Chic: Perceptually Tuned Low Complexity Overfitted Image Coder**|Théo Ladune et.al.|[2401.02156](http://arxiv.org/abs/2401.02156)|null|
+|**2024-01-04**|**Cool-Chic: Perceptually Tuned Low Complexity Overfitted Image Coder**|Théo Ladune et.al.|[2401.02156](http://arxiv.org/abs/2401.02156)|**[link](https://github.com/orange-opensource/cool-chic)**|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
 |**2024-01-01**|**Learn to integrate parts for whole through correlated neural variability**|Zhichao Zhu et.al.|[2401.00746](http://arxiv.org/abs/2401.00746)|**[link](https://github.com/brainsoupfactory/moment-neural-network)**|
 |**2023-12-28**|**Learning Spatially Collaged Fourier Bases for Implicit Neural Representation**|Jason Chun Lok Li et.al.|[2312.17018](http://arxiv.org/abs/2312.17018)|null|
