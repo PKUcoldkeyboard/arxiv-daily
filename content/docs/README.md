@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-01-17"
+date: "2024-01-18"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-01-17"
+publishdate: "2024-01-18"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -425,6 +425,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
+|**2024-01-16**|**Efficient Neural Representation of Volumetric Data using Coordinate-Based Networks**|Sudarshan Devkota et.al.|[2401.08840](http://arxiv.org/abs/2401.08840)|null|
 |**2024-01-15**|**Improved Implicity Neural Representation with Fourier Bases Reparameterized Training**|Kexuan Shi et.al.|[2401.07402](http://arxiv.org/abs/2401.07402)|null|
 |**2024-01-04**|**Cool-Chic: Perceptually Tuned Low Complexity Overfitted Image Coder**|Théo Ladune et.al.|[2401.02156](http://arxiv.org/abs/2401.02156)|**[link](https://github.com/orange-opensource/cool-chic)**|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
