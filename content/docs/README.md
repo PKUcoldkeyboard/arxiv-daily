@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-01-27"
+date: "2024-01-28"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-01-27"
+publishdate: "2024-01-28"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.01.27
+## Updated on 2024.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -19,7 +19,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-17**|**Inverse analysis of granular flows using differentiable graph neural network simulator**|Yongjin Choi et.al.|[2401.13695](http://arxiv.org/abs/2401.13695)|null|
+|**2024-01-17**|**Inverse analysis of granular flows using differentiable graph neural network simulator**|Yongjin Choi et.al.|[2401.13695](http://arxiv.org/abs/2401.13695)|**[link](https://github.com/geoelements/gns)**|
 |**2023-11-09**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|null|
 |**2023-10-11**|**ASV Station Keeping under Wind Disturbances using Neural Network Simulation Error Minimization Model Predictive Control**|Jalil Chavez-Galaviz et.al.|[2310.07892](http://arxiv.org/abs/2310.07892)|null|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
