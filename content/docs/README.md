@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-02-25"
+date: "2024-02-26"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-02-25"
+publishdate: "2024-02-26"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.02.25
+## Updated on 2024.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -501,7 +501,7 @@ categories: [""]
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-22**|**Contrastive Learning of Shared Spatiotemporal EEG Representations Across Individuals for Naturalistic Neuroscience**|Xinke Shen et.al.|[2402.14213](http://arxiv.org/abs/2402.14213)|null|
-|**2024-02-21**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
+|**2024-02-23**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
 |**2024-02-21**|**Improving Efficiency of Iso-Surface Extraction on Implicit Neural Representations Using Uncertainty Propagation**|Haoyu Li et.al.|[2402.13861](http://arxiv.org/abs/2402.13861)|null|
 |**2024-02-21**|**SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields**|Zhentao Huang et.al.|[2402.13510](http://arxiv.org/abs/2402.13510)|null|
 |**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226](http://arxiv.org/abs/2402.13226)|null|
