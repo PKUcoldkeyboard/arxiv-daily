@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-03-18"
+date: "2024-03-19"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-03-18"
+publishdate: "2024-03-19"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -46,6 +46,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Advancing Neuromorphic Computing: Mixed-Signal Design Techniques Leveraging Brain Code Units and Fundamental Code Units**|Murat Isik et.al.|[2403.11563](http://arxiv.org/abs/2403.11563)|null|
+|**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
+|**2024-03-15**|**X-ray Nano-imaging of a Heterogeneous Structural Phase Transition in V2O3**|Ziming Shao et.al.|[2403.10719](http://arxiv.org/abs/2403.10719)|null|
+|**2024-03-15**|**Spiking Neural Networks for Fast-Moving Object Detection on Neuromorphic Hardware Devices Using an Event-Based Camera**|Andreas Ziegler et.al.|[2403.10677](http://arxiv.org/abs/2403.10677)|null|
 |**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
 |**2024-03-12**|**Texture Recognition Using a Biologically Plausible Spiking Phase-Locked Loop Model for Spike Train Frequency Decomposition**|Michele Mastella et.al.|[2403.09723](http://arxiv.org/abs/2403.09723)|null|
 |**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274](http://arxiv.org/abs/2403.09274)|**[link](https://github.com/myuansun/eventrpg)**|
@@ -361,6 +365,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Advancing Neuromorphic Computing: Mixed-Signal Design Techniques Leveraging Brain Code Units and Fundamental Code Units**|Murat Isik et.al.|[2403.11563](http://arxiv.org/abs/2403.11563)|null|
+|**2024-03-15**|**X-ray Nano-imaging of a Heterogeneous Structural Phase Transition in V2O3**|Ziming Shao et.al.|[2403.10719](http://arxiv.org/abs/2403.10719)|null|
+|**2024-03-15**|**Spiking Neural Networks for Fast-Moving Object Detection on Neuromorphic Hardware Devices Using an Event-Based Camera**|Andreas Ziegler et.al.|[2403.10677](http://arxiv.org/abs/2403.10677)|null|
 |**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
 |**2024-03-14**|**Temporal Signal Processing with Nonlocal Optical Metasurfaces**|Michele Cotrufo et.al.|[2403.09087](http://arxiv.org/abs/2403.09087)|null|
 |**2024-03-13**|**Neuromorphic force-control in an industrial task: validating energy and latency benefits**|Camilo Amaya et.al.|[2403.08928](http://arxiv.org/abs/2403.08928)|null|
@@ -368,7 +375,7 @@ categories: [""]
 |**2024-03-13**|**Scalable On-Chip Optical Linear Processing Unit Using a Single Thin-Film Lithium Niobate Ring Modulator**|Zhaoang Deng et.al.|[2403.04216](http://arxiv.org/abs/2403.04216)|null|
 |**2024-03-05**|**Linear Codes for Hyperdimensional Computing**|Netanel Raviv et.al.|[2403.03278](http://arxiv.org/abs/2403.03278)|null|
 |**2024-03-05**|**Mem-elements based Neuromorphic Hardware for Neural Network Application**|Ankur Singh et.al.|[2403.03002](http://arxiv.org/abs/2403.03002)|null|
-|**2024-03-04**|**Analysis and Fully Memristor-based Reservoir Computing for Temporal Data Classification**|Ankur Singh et.al.|[2403.01827](http://arxiv.org/abs/2403.01827)|null|
+|**2024-03-16**|**Analysis and Fully Memristor-based Reservoir Computing for Temporal Data Classification**|Ankur Singh et.al.|[2403.01827](http://arxiv.org/abs/2403.01827)|null|
 |**2024-03-01**|**Event-Driven Learning for Spiking Neural Networks**|Wenjie Wei et.al.|[2403.00270](http://arxiv.org/abs/2403.00270)|null|
 |**2024-02-29**|**Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks**|Kade M. Heckel et.al.|[2402.18994](http://arxiv.org/abs/2402.18994)|**[link](https://github.com/kmheckel/spyx)**|
 |**2024-02-26**|**Single Neuromorphic Memristor closely Emulates Multiple Synaptic Mechanisms for Energy Efficient Neural Networks**|Christoph Weilenmann et.al.|[2402.16628](http://arxiv.org/abs/2402.16628)|null|
@@ -535,6 +542,11 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration**|Quentin Herau et.al.|[2403.11577](http://arxiv.org/abs/2403.11577)|null|
+|**2024-03-18**|**Inter-individual and inter-site neural code conversion and image reconstruction without shared stimuli**|Haibao Wang et.al.|[2403.11517](http://arxiv.org/abs/2403.11517)|null|
+|**2024-03-17**|**STAIR: Semantic-Targeted Active Implicit Reconstruction**|Liren Jin et.al.|[2403.11233](http://arxiv.org/abs/2403.11233)|null|
+|**2024-03-16**|**MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections**|Mude Hui et.al.|[2403.10815](http://arxiv.org/abs/2403.10815)|**[link](https://github.com/ucsc-vlaa/microdiffusion)**|
+|**2024-03-16**|**LIGHTCODE: Light Analytical and Neural Codes for Channels with Feedback**|Sravan Kumar Ankireddy et.al.|[2403.10751](http://arxiv.org/abs/2403.10751)|null|
 |**2024-03-15**|**SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians**|Hiba Dahmani et.al.|[2403.10427](http://arxiv.org/abs/2403.10427)|null|
 |**2024-03-15**|**Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder**|Jinseok Kim et.al.|[2403.10255](http://arxiv.org/abs/2403.10255)|null|
 |**2024-03-14**|**SketchINR: A First Look into Sketches as Implicit Neural Representations**|Hmrishav Bandyopadhyay et.al.|[2403.09344](http://arxiv.org/abs/2403.09344)|null|
