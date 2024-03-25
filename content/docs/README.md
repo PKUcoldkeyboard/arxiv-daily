@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-03-24"
+date: "2024-03-25"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-03-24"
+publishdate: "2024-03-25"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -46,6 +46,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192](http://arxiv.org/abs/2403.15192)|**[link](https://github.com/yimeng-fan/SFOD)**|
 |**2024-03-21**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302](http://arxiv.org/abs/2403.14302)|**[link](https://github.com/xyshi2000/spikingresformer)**|
 |**2024-03-20**|**Picosecond Femtojoule Resistive Switching in Nanoscale VO $_{2}$ Memristors**|S. W. Schmid et.al.|[2403.13530](http://arxiv.org/abs/2403.13530)|null|
 |**2024-03-20**|**Ultrahigh Frequency and Multi-channel Output in Skyrmion Based Nano-oscillator**|Abhishek Sharma et.al.|[2403.13478](http://arxiv.org/abs/2403.13478)|null|
@@ -53,7 +54,7 @@ categories: [""]
 |**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|null|
 |**2024-03-19**|**Topological Representations of Heterogeneous Learning Dynamics of Recurrent Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2403.12462](http://arxiv.org/abs/2403.12462)|null|
 |**2024-03-18**|**Advancing Neuromorphic Computing: Mixed-Signal Design Techniques Leveraging Brain Code Units and Fundamental Code Units**|Murat Isik et.al.|[2403.11563](http://arxiv.org/abs/2403.11563)|null|
-|**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
+|**2024-03-22**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
 |**2024-03-15**|**X-ray Nano-imaging of a Heterogeneous Structural Phase Transition in V2O3**|Ziming Shao et.al.|[2403.10719](http://arxiv.org/abs/2403.10719)|null|
 |**2024-03-15**|**Spiking Neural Networks for Fast-Moving Object Detection on Neuromorphic Hardware Devices Using an Event-Based Camera**|Andreas Ziegler et.al.|[2403.10677](http://arxiv.org/abs/2403.10677)|null|
 |**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
@@ -286,7 +287,7 @@ categories: [""]
 |**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476](http://arxiv.org/abs/2309.00476)|null|
 |**2023-09-01**|**Spiking based Cellular Learning Automata (SCLA) algorithm for mobile robot motion formulation**|Vahid Pashaei Rad et.al.|[2309.00241](http://arxiv.org/abs/2309.00241)|null|
 |**2023-08-31**|**Artificial to Spiking Neural Networks Conversion for Scientific Machine Learning**|Qian Zhang et.al.|[2308.16372](http://arxiv.org/abs/2308.16372)|null|
-|**2023-08-30**|**Fully Non-Linear Neuromorphic Computing with Linear Wave Scattering**|Clara C. Wanjura et.al.|[2308.16181](http://arxiv.org/abs/2308.16181)|null|
+|**2023-08-30**|**Fully Non-Linear Neuromorphic Computing with Linear Wave Scattering**|Clara C. Wanjura et.al.|[2308.16181](http://arxiv.org/abs/2308.16181)|**[link](https://github.com/ClaraWanjura/neuroscatter)**|
 |**2023-08-30**|**A Deep Dive into the Design Space of a Dynamically Reconfigurable Cryogenic Spiking Neuron**|Md Mazharul Islam et.al.|[2308.15754](http://arxiv.org/abs/2308.15754)|null|
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390](http://arxiv.org/abs/2308.15390)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150](http://arxiv.org/abs/2308.15150)|null|
@@ -498,7 +499,7 @@ categories: [""]
 |**2023-09-05**|**Neuromorphic nanocluster networks: Critical role of the substrate in nano-link formation**|Wenkai Wu et.al.|[2309.02299](http://arxiv.org/abs/2309.02299)|null|
 |**2023-09-05**|**Molecular dynamics simulation of nanofilament breakage in neuromorphic nanoparticle networks**|Wenkai Wu et.al.|[2309.02282](http://arxiv.org/abs/2309.02282)|null|
 |**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476](http://arxiv.org/abs/2309.00476)|null|
-|**2023-08-30**|**Fully Non-Linear Neuromorphic Computing with Linear Wave Scattering**|Clara C. Wanjura et.al.|[2308.16181](http://arxiv.org/abs/2308.16181)|null|
+|**2023-08-30**|**Fully Non-Linear Neuromorphic Computing with Linear Wave Scattering**|Clara C. Wanjura et.al.|[2308.16181](http://arxiv.org/abs/2308.16181)|**[link](https://github.com/ClaraWanjura/neuroscatter)**|
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390](http://arxiv.org/abs/2308.15390)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|**[link](https://github.com/zhangshimin1/tc-lif)**|
 |**2023-09-07**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
@@ -551,6 +552,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Brain-grounding of semantic vectors improves neural decoding of visual stimuli**|Shirin Vafaei et.al.|[2403.15176](http://arxiv.org/abs/2403.15176)|null|
+|**2024-03-22**|**Recent Trends in 3D Reconstruction of General Non-Rigid Scenes**|Raza Yunus et.al.|[2403.15064](http://arxiv.org/abs/2403.15064)|null|
+|**2024-03-21**|**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**|Qiushi Sun et.al.|[2403.14734](http://arxiv.org/abs/2403.14734)|null|
 |**2024-03-21**|**Toward Multi-class Anomaly Detection: Exploring Class-aware Unified Model against Inter-class Interference**|Xi Jiang et.al.|[2403.14213](http://arxiv.org/abs/2403.14213)|null|
 |**2024-03-21**|**Desiderata of evidence for representation in neuroscience**|Stephan Pohl et.al.|[2403.14046](http://arxiv.org/abs/2403.14046)|null|
 |**2024-03-20**|**MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems**|Haotian Wu et.al.|[2403.13615](http://arxiv.org/abs/2403.13615)|null|
@@ -572,10 +576,10 @@ categories: [""]
 |**2024-03-11**|**See Through Their Minds: Learning Transferable Neural Representation from Cross-Subject fMRI**|Yulong Liu et.al.|[2403.06361](http://arxiv.org/abs/2403.06361)|null|
 |**2024-03-10**|**Cracking the neural code for word recognition in convolutional neural networks**|Aakash Agrawal et.al.|[2403.06159](http://arxiv.org/abs/2403.06159)|null|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
-|**2024-03-04**|**Ice-Tide: Implicit Cryo-ET Imaging and Deformation Estimation**|Valentin Debarnot et.al.|[2403.02182](http://arxiv.org/abs/2403.02182)|null|
+|**2024-03-04**|**Ice-Tide: Implicit Cryo-ET Imaging and Deformation Estimation**|Valentin Debarnot et.al.|[2403.02182](http://arxiv.org/abs/2403.02182)|**[link](https://github.com/swing-research/implicit-cryo-electron-tomography)**|
 |**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771](http://arxiv.org/abs/2402.18771)|null|
 |**2024-02-28**|**NERV++: An Enhanced Implicit Neural Video Representation**|Ahmed Ghorbel et.al.|[2402.18305](http://arxiv.org/abs/2402.18305)|null|
-|**2024-03-08**|**Boosting Neural Representations for Videos with a Conditional Decoder**|Xinjie Zhang et.al.|[2402.18152](http://arxiv.org/abs/2402.18152)|null|
+|**2024-03-08**|**Boosting Neural Representations for Videos with a Conditional Decoder**|Xinjie Zhang et.al.|[2402.18152](http://arxiv.org/abs/2402.18152)|**[link](https://github.com/xinjie-q/boosting-nerv)**|
 |**2024-02-27**|**Mesh-Agnostic Decoders for Supercritical Airfoil Prediction and Inverse Design**|Runze Li et.al.|[2402.17299](http://arxiv.org/abs/2402.17299)|null|
 |**2024-02-26**|**Towards Decoding Brain Activity During Passive Listening of Speech**|Milán András Fodor et.al.|[2402.16996](http://arxiv.org/abs/2402.16996)|**[link](https://github.com/milaniusz/speech2brain2speech)**|
 |**2024-02-26**|**Neural Population Geometry and Optimal Coding of Tasks with Shared Latent Structure**|Albert J. Wakhloo et.al.|[2402.16770](http://arxiv.org/abs/2402.16770)|null|
@@ -613,7 +617,7 @@ categories: [""]
 |**2024-01-24**|**Can GPT-3.5 Generate and Code Discharge Summaries?**|Matúš Falis et.al.|[2401.13512](http://arxiv.org/abs/2401.13512)|**[link](https://github.com/edinburghclinicalnlp/chatgpt_icd_coding)**|
 |**2024-01-23**|**A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy**|Xia Li et.al.|[2401.12878](http://arxiv.org/abs/2401.12878)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
-|**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517](http://arxiv.org/abs/2401.12517)|null|
+|**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517](http://arxiv.org/abs/2401.12517)|**[link](https://github.com/mlvlab/DDMI)**|
 |**2024-01-21**|**Continuous Field Reconstruction from Sparse Observations with Implicit Neural Networks**|Xihaier Luo et.al.|[2401.11611](http://arxiv.org/abs/2401.11611)|null|
 |**2024-01-20**|**HOSC: A Periodic Activation Function for Preserving Sharp Features in Implicit Neural Representations**|Danzel Serrano et.al.|[2401.10967](http://arxiv.org/abs/2401.10967)|null|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
@@ -789,7 +793,7 @@ categories: [""]
 |**2023-07-25**|**Strivec: Sparse Tri-Vector Radiance Fields**|Quankai Gao et.al.|[2307.13226](http://arxiv.org/abs/2307.13226)|**[link](https://github.com/zerg-overmind/strivec)**|
 |**2023-07-22**|**Extracting Molecular Properties from Natural Language with Multimodal Contrastive Learning**|Romain Lacombe et.al.|[2307.12996](http://arxiv.org/abs/2307.12996)|null|
 |**2023-07-24**|**On Privileged and Convergent Bases in Neural Network Representations**|Davis Brown et.al.|[2307.12941](http://arxiv.org/abs/2307.12941)|null|
-|**2023-07-23**|**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**|Yejia Zhang et.al.|[2307.12429](http://arxiv.org/abs/2307.12429)|null|
+|**2023-07-23**|**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**|Yejia Zhang et.al.|[2307.12429](http://arxiv.org/abs/2307.12429)|**[link](https://github.com/charzharr/miccai23-swipe-implicit-segmentation)**|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-16**|**Neural Stream Functions**|Skylar Wolfgang Wurster et.al.|[2307.08142](http://arxiv.org/abs/2307.08142)|**[link](https://github.com/skywolf829/neuralstreamfunction)**|
 |**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|**[link](https://github.com/frschu/aligned_oblique_in_rnns)**|
