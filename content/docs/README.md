@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-03-26"
+date: "2024-03-27"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-03-26"
+publishdate: "2024-03-27"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -46,6 +46,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Magnonic inverse-design processor**|Noura Zenbaa et.al.|[2403.17724](http://arxiv.org/abs/2403.17724)|null|
+|**2024-03-26**|**Random-coupled Neural Network**|Haoran Liu et.al.|[2403.17512](http://arxiv.org/abs/2403.17512)|null|
+|**2024-03-25**|**Enhancing Graph Representation Learning with Attention-Driven Spiking Neural Networks**|Huifeng Yin et.al.|[2403.17040](http://arxiv.org/abs/2403.17040)|null|
 |**2024-03-25**|**Understanding the Functional Roles of Modelling Components in Spiking Neural Networks**|Huifeng Yin et.al.|[2403.16674](http://arxiv.org/abs/2403.16674)|null|
 |**2024-03-25**|**QKFormer: Hierarchical Spiking Transformer using Q-K Attention**|Chenlin Zhou et.al.|[2403.16552](http://arxiv.org/abs/2403.16552)|**[link](https://github.com/zhouchenlin2096/qkformer)**|
 |**2024-03-24**|**Artificial Neural Microcircuits as Building Blocks: Concept and Challenges**|Andrew Walter et.al.|[2403.16327](http://arxiv.org/abs/2403.16327)|null|
@@ -377,6 +380,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Magnonic inverse-design processor**|Noura Zenbaa et.al.|[2403.17724](http://arxiv.org/abs/2403.17724)|null|
+|**2024-03-26**|**Random-coupled Neural Network**|Haoran Liu et.al.|[2403.17512](http://arxiv.org/abs/2403.17512)|null|
 |**2024-03-20**|**Picosecond Femtojoule Resistive Switching in Nanoscale VO $_{2}$ Memristors**|S. W. Schmid et.al.|[2403.13530](http://arxiv.org/abs/2403.13530)|null|
 |**2024-03-20**|**Ultrahigh Frequency and Multi-channel Output in Skyrmion Based Nano-oscillator**|Abhishek Sharma et.al.|[2403.13478](http://arxiv.org/abs/2403.13478)|null|
 |**2024-03-19**|**Interlayer Dzyaloshinskii-Moriya interaction in synthetic ferrimagnets**|Shen Li et.al.|[2403.12642](http://arxiv.org/abs/2403.12642)|null|
@@ -557,10 +562,14 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920](http://arxiv.org/abs/2403.17920)|null|
+|**2024-03-26**|**Neural category**|Neha Gupta et.al.|[2403.17558](http://arxiv.org/abs/2403.17558)|null|
+|**2024-03-26**|**Properties of graphs of neural codes**|Suhith K N et.al.|[2403.17548](http://arxiv.org/abs/2403.17548)|null|
+|**2024-03-25**|**GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction**|Mulin Yu et.al.|[2403.16964](http://arxiv.org/abs/2403.16964)|null|
 |**2024-03-23**|**DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes**|Hao Yan et.al.|[2403.15679](http://arxiv.org/abs/2403.15679)|null|
 |**2024-03-22**|**Brain-grounding of semantic vectors improves neural decoding of visual stimuli**|Shirin Vafaei et.al.|[2403.15176](http://arxiv.org/abs/2403.15176)|null|
 |**2024-03-22**|**Recent Trends in 3D Reconstruction of General Non-Rigid Scenes**|Raza Yunus et.al.|[2403.15064](http://arxiv.org/abs/2403.15064)|null|
-|**2024-03-21**|**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**|Qiushi Sun et.al.|[2403.14734](http://arxiv.org/abs/2403.14734)|null|
+|**2024-03-21**|**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**|Qiushi Sun et.al.|[2403.14734](http://arxiv.org/abs/2403.14734)|**[link](https://github.com/qiushisun/ncisurvey)**|
 |**2024-03-21**|**Toward Multi-class Anomaly Detection: Exploring Class-aware Unified Model against Inter-class Interference**|Xi Jiang et.al.|[2403.14213](http://arxiv.org/abs/2403.14213)|null|
 |**2024-03-21**|**Desiderata of evidence for representation in neuroscience**|Stephan Pohl et.al.|[2403.14046](http://arxiv.org/abs/2403.14046)|null|
 |**2024-03-20**|**MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems**|Haotian Wu et.al.|[2403.13615](http://arxiv.org/abs/2403.13615)|null|
