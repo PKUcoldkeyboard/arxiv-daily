@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-03-27"
+date: "2024-03-28"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-03-27"
+publishdate: "2024-03-28"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -46,6 +46,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**A survey on learning models of spiking neural membrane systems and spiking neural networks**|Prithwineel Paul et.al.|[2403.18609](http://arxiv.org/abs/2403.18609)|null|
+|**2024-03-27**|**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**|Hanqing Fu et.al.|[2403.18607](http://arxiv.org/abs/2403.18607)|null|
+|**2024-03-27**|**FTBC: Forward Temporal Bias Correction for Optimizing ANN-SNN Conversion**|Xiaofeng Wu et.al.|[2403.18388](http://arxiv.org/abs/2403.18388)|null|
+|**2024-03-27**|**Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification**|Qingyu Wang et.al.|[2403.18228](http://arxiv.org/abs/2403.18228)|null|
 |**2024-03-26**|**Magnonic inverse-design processor**|Noura Zenbaa et.al.|[2403.17724](http://arxiv.org/abs/2403.17724)|null|
 |**2024-03-26**|**Random-coupled Neural Network**|Haoran Liu et.al.|[2403.17512](http://arxiv.org/abs/2403.17512)|null|
 |**2024-03-25**|**Enhancing Graph Representation Learning with Attention-Driven Spiking Neural Networks**|Huifeng Yin et.al.|[2403.17040](http://arxiv.org/abs/2403.17040)|null|
@@ -918,7 +922,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-23**|**Radical-Cylon: A Heterogeneous Data Pipeline for Scientific Computing**|Arup Kumar Sarker et.al.|[2403.15721](http://arxiv.org/abs/2403.15721)|null|
+|**2024-03-27**|**Design and Implementation of an Analysis Pipeline for Heterogeneous Data**|Arup Kumar Sarker et.al.|[2403.15721](http://arxiv.org/abs/2403.15721)|null|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-02-19**|**Designing and Prototyping Extensions to MPI in MPICH**|Hui Zhou et.al.|[2402.12274](http://arxiv.org/abs/2402.12274)|null|
