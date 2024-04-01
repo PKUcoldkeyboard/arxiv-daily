@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-03-31"
+date: "2024-04-01"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-03-31"
+publishdate: "2024-04-01"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.03.31
+## Updated on 2024.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -46,6 +46,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Prospects for non-linear memristors as so-far missing core hardware element for transferless data computing and storage**|Heidemarie Schmidt et.al.|[2403.20051](http://arxiv.org/abs/2403.20051)|null|
+|**2024-03-28**|**Towards Reverse-Engineering the Brain: Brain-Derived Neuromorphic Computing Approach with Photonic, Electronic, and Ionic Dynamicity in 3D integrated circuits**|S. J. Ben Yoo et.al.|[2403.19724](http://arxiv.org/abs/2403.19724)|null|
 |**2024-03-27**|**A survey on learning models of spiking neural membrane systems and spiking neural networks**|Prithwineel Paul et.al.|[2403.18609](http://arxiv.org/abs/2403.18609)|null|
 |**2024-03-27**|**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**|Hanqing Fu et.al.|[2403.18607](http://arxiv.org/abs/2403.18607)|null|
 |**2024-03-27**|**FTBC: Forward Temporal Bias Correction for Optimizing ANN-SNN Conversion**|Xiaofeng Wu et.al.|[2403.18388](http://arxiv.org/abs/2403.18388)|null|
@@ -384,6 +386,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Prospects for non-linear memristors as so-far missing core hardware element for transferless data computing and storage**|Heidemarie Schmidt et.al.|[2403.20051](http://arxiv.org/abs/2403.20051)|null|
+|**2024-03-28**|**Towards Reverse-Engineering the Brain: Brain-Derived Neuromorphic Computing Approach with Photonic, Electronic, and Ionic Dynamicity in 3D integrated circuits**|S. J. Ben Yoo et.al.|[2403.19724](http://arxiv.org/abs/2403.19724)|null|
 |**2024-03-26**|**Magnonic inverse-design processor**|Noura Zenbaa et.al.|[2403.17724](http://arxiv.org/abs/2403.17724)|null|
 |**2024-03-26**|**Random-coupled Neural Network**|Haoran Liu et.al.|[2403.17512](http://arxiv.org/abs/2403.17512)|null|
 |**2024-03-20**|**Picosecond Femtojoule Resistive Switching in Nanoscale VO $_{2}$ Memristors**|S. W. Schmid et.al.|[2403.13530](http://arxiv.org/abs/2403.13530)|null|
@@ -566,6 +570,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-28**|**Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM**|Tongyan Hua et.al.|[2403.19473](http://arxiv.org/abs/2403.19473)|null|
 |**2024-03-28**|**D'OH: Decoder-Only random Hypernetworks for Implicit Neural Representations**|Cameron Gordon et.al.|[2403.19163](http://arxiv.org/abs/2403.19163)|null|
 |**2024-03-26**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920](http://arxiv.org/abs/2403.17920)|null|
@@ -734,7 +739,7 @@ categories: [""]
 |**2023-10-23**|**Neural representation in active inference: using generative models to interact with -- and understand -- the lived world**|Giovanni Pezzulo et.al.|[2310.14810](http://arxiv.org/abs/2310.14810)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
 |**2023-10-22**|**Partition Speeds Up Learning Implicit Neural Representations Based on Exponential-Increase Hypothesis**|Ke Liu et.al.|[2310.14184](http://arxiv.org/abs/2310.14184)|**[link](https://github.com/1999kevin/inr-partition)**|
-|**2023-10-20**|**Visual Grounding Helps Learn Word Meanings in Low-Data Regimes**|Chengxu Zhuang et.al.|[2310.13257](http://arxiv.org/abs/2310.13257)|null|
+|**2023-10-20**|**Visual Grounding Helps Learn Word Meanings in Low-Data Regimes**|Chengxu Zhuang et.al.|[2310.13257](http://arxiv.org/abs/2310.13257)|**[link](https://github.com/EvLab-MIT/LexiContrastiveGrd)**|
 |**2023-10-19**|**SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes**|Ziyi Yang et.al.|[2310.13030](http://arxiv.org/abs/2310.13030)|**[link](https://github.com/ingra14m/sire-ir)**|
 |**2023-10-17**|**Learning Lens Blur Fields**|Esther Y. H. Lin et.al.|[2310.11535](http://arxiv.org/abs/2310.11535)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
@@ -778,7 +783,7 @@ categories: [""]
 |**2023-09-13**|**Batch Implicit Neural Representation for MRI Parallel Reconstruction**|Hao Li et.al.|[2309.06067](http://arxiv.org/abs/2309.06067)|null|
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937](http://arxiv.org/abs/2309.04937)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
-|**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008](http://arxiv.org/abs/2309.03008)|null|
+|**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008](http://arxiv.org/abs/2309.03008)|**[link](https://github.com/llukmancerkezi/roster)**|
 |**2023-09-06**|**Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian**|Zixiong Wang et.al.|[2309.01793](http://arxiv.org/abs/2309.01793)|null|
 |**2023-08-30**|**Active Neural Mapping**|Zike Yan et.al.|[2308.16246](http://arxiv.org/abs/2308.16246)|null|
 |**2023-08-29**|**CAPS: A Practical Partition Index for Filtered Similarity Search**|Gaurav Gupta et.al.|[2308.15014](http://arxiv.org/abs/2308.15014)|**[link](https://github.com/gaurav16gupta/constrainedann)**|
@@ -1000,6 +1005,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Vulnerabilities of smart contracts and mitigation schemes: A Comprehensive Survey**|Wejdene Haouari et.al.|[2403.19805](http://arxiv.org/abs/2403.19805)|null|
 |**2024-03-12**|**Communication Optimization for Distributed Training: Architecture, Advances, and Opportunities**|Yunze Wei et.al.|[2403.07585](http://arxiv.org/abs/2403.07585)|null|
 |**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|**[link](https://github.com/picsart-ai-research/social-reward)**|
 |**2024-02-09**|**ForestColl: Efficient Collective Communications on Heterogeneous Network Fabrics**|Liangyu Zhao et.al.|[2402.06787](http://arxiv.org/abs/2402.06787)|null|
