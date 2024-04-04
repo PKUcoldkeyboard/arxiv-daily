@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-04-03"
+date: "2024-04-04"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-04-03"
+publishdate: "2024-04-04"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -46,8 +46,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Spin-NeuroMem: A Low-Power Neuromorphic Associative Memory Design Based on Spintronic Devices**|Siqing Fu et.al.|[2404.02463](http://arxiv.org/abs/2404.02463)|null|
+|**2024-04-02**|**A Fully-Configurable Open-Source Software-Defined Digital Quantized Spiking Neural Core Architecture**|Shadi Matinizadeh et.al.|[2404.02248](http://arxiv.org/abs/2404.02248)|null|
 |**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897](http://arxiv.org/abs/2404.01897)|null|
-|**2024-04-02**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
+|**2024-04-03**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
 |**2024-04-02**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685](http://arxiv.org/abs/2404.01685)|null|
 |**2024-04-01**|**Information Processing in Hybrid Photonic Electrical Reservoir Computing**|Prabhav Gaur et.al.|[2404.01479](http://arxiv.org/abs/2404.01479)|null|
 |**2024-04-01**|**Parallel Proportional Fusion of Spiking Quantum Neural Network for Optimizing Image Classification**|Zuyu Xu et.al.|[2404.01359](http://arxiv.org/abs/2404.01359)|null|
@@ -393,7 +395,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-02**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
+|**2024-04-03**|**Spin-NeuroMem: A Low-Power Neuromorphic Associative Memory Design Based on Spintronic Devices**|Siqing Fu et.al.|[2404.02463](http://arxiv.org/abs/2404.02463)|null|
+|**2024-04-02**|**A Fully-Configurable Open-Source Software-Defined Digital Quantized Spiking Neural Core Architecture**|Shadi Matinizadeh et.al.|[2404.02248](http://arxiv.org/abs/2404.02248)|null|
+|**2024-04-03**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
 |**2024-04-02**|**Neuromorphic Wireless Device-Edge Co-Inference via the Directed Information Bottleneck**|Yuzhen Ke et.al.|[2404.01804](http://arxiv.org/abs/2404.01804)|null|
 |**2024-04-01**|**Information Processing in Hybrid Photonic Electrical Reservoir Computing**|Prabhav Gaur et.al.|[2404.01479](http://arxiv.org/abs/2404.01479)|null|
 |**2024-03-30**|**Continual Learning for Autonomous Robots: A Prototype-based Approach**|Elvin Hajizada et.al.|[2404.00418](http://arxiv.org/abs/2404.00418)|null|
@@ -581,6 +585,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
+|**2024-04-03**|**A Differentiable Integer Linear Programming Solver for Explanation-Based Natural Language Inference**|Mokanarangan Thayaparan et.al.|[2404.02625](http://arxiv.org/abs/2404.02625)|null|
+|**2024-04-02**|**Unmasking Correlations in Nuclear Cross Sections with Graph Neural Networks**|Sinjini Mitra et.al.|[2404.02332](http://arxiv.org/abs/2404.02332)|null|
 |**2024-04-02**|**Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining**|Xiang Chen et.al.|[2404.01547](http://arxiv.org/abs/2404.01547)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-28**|**Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM**|Tongyan Hua et.al.|[2403.19473](http://arxiv.org/abs/2403.19473)|null|
