@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-04-10"
+date: "2024-04-11"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-04-10"
+publishdate: "2024-04-11"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -406,6 +406,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Quantum graph models for transport in filamentary switching**|Alison A. Silva et.al.|[2404.06628](http://arxiv.org/abs/2404.06628)|null|
 |**2024-04-09**|**A Large-Scale Simulation Method for Neuromorphic Circuits**|Amir Shahhosseini et.al.|[2404.06255](http://arxiv.org/abs/2404.06255)|null|
 |**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858](http://arxiv.org/abs/2404.05858)|null|
 |**2024-04-08**|**Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications**|Dayanand Kumar et.al.|[2404.05701](http://arxiv.org/abs/2404.05701)|null|
@@ -603,10 +604,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|null|
+|**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|**[link](https://github.com/wookyounghan/jdec)**|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236](http://arxiv.org/abs/2404.05236)|null|
 |**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/abs/2404.04878)|null|
-|**2024-04-05**|**Rethinking Non-Negative Matrix Factorization with Implicit Neural Representations**|Krishna Subramani et.al.|[2404.04439](http://arxiv.org/abs/2404.04439)|null|
+|**2024-04-05**|**Rethinking Non-Negative Matrix Factorization with Implicit Neural Representations**|Krishna Subramani et.al.|[2404.04439](http://arxiv.org/abs/2404.04439)|**[link](https://github.com/subramanikrishna/in-nmf)**|
 |**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
 |**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
 |**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
@@ -972,7 +973,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|null|
+|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|**[link](https://github.com/kamping-site/kamping)**|
 |**2024-04-08**|**Design and Implementation of an Analysis Pipeline for Heterogeneous Data**|Arup Kumar Sarker et.al.|[2403.15721](http://arxiv.org/abs/2403.15721)|null|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
@@ -1001,7 +1002,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|null|
+|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|**[link](https://github.com/kamping-site/kamping)**|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-03-09**|**XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows**|Jinlong Li et.al.|[2403.05910](http://arxiv.org/abs/2403.05910)|**[link](https://github.com/xfluids/xfluids)**|
