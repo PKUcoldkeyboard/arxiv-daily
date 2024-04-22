@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-04-21"
+date: "2024-04-22"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-04-21"
+publishdate: "2024-04-22"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.04.21
+## Updated on 2024.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -412,6 +412,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Sup3r: A Semi-Supervised Algorithm for increasing Sparsity, Stability, and Separability in Hierarchy Of Time-Surfaces architectures**|Marco Rasetto et.al.|[2404.12402](http://arxiv.org/abs/2404.12402)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
 |**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597](http://arxiv.org/abs/2404.10597)|null|
 |**2024-04-14**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331](http://arxiv.org/abs/2404.09331)|null|
@@ -664,7 +665,7 @@ categories: [""]
 |**2024-03-10**|**Cracking the neural code for word recognition in convolutional neural networks**|Aakash Agrawal et.al.|[2403.06159](http://arxiv.org/abs/2403.06159)|null|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
 |**2024-03-04**|**Ice-Tide: Implicit Cryo-ET Imaging and Deformation Estimation**|Valentin Debarnot et.al.|[2403.02182](http://arxiv.org/abs/2403.02182)|**[link](https://github.com/swing-research/implicit-cryo-electron-tomography)**|
-|**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771](http://arxiv.org/abs/2402.18771)|null|
+|**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771](http://arxiv.org/abs/2402.18771)|**[link](https://github.com/oppo-us-research/naruto)**|
 |**2024-02-28**|**NERV++: An Enhanced Implicit Neural Video Representation**|Ahmed Ghorbel et.al.|[2402.18305](http://arxiv.org/abs/2402.18305)|null|
 |**2024-03-08**|**Boosting Neural Representations for Videos with a Conditional Decoder**|Xinjie Zhang et.al.|[2402.18152](http://arxiv.org/abs/2402.18152)|**[link](https://github.com/xinjie-q/boosting-nerv)**|
 |**2024-02-27**|**Mesh-Agnostic Decoders for Supercritical Airfoil Prediction and Inverse Design**|Runze Li et.al.|[2402.17299](http://arxiv.org/abs/2402.17299)|null|
