@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-04-23"
+date: "2024-04-24"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-04-23"
+publishdate: "2024-04-24"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -48,6 +48,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks**|Julia Gygax et.al.|[2404.14964](http://arxiv.org/abs/2404.14964)|null|
 |**2024-04-22**|**Bistable Organic Electrochemical Transistors: Enthalpy vs. Entropy**|Lukas M. Bongartz et.al.|[2404.14362](http://arxiv.org/abs/2404.14362)|null|
 |**2024-04-22**|**Multi-mem behavior at reduced voltages in La $_{1/2}$Sr$_{1/2}$Mn$_{1/2}$Co$_{1/2}$O$_{3-x}$ perovskite modified with Sm:CeO$_2$**|Wilson Román Acevedo et.al.|[2404.14231](http://arxiv.org/abs/2404.14231)|null|
 |**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
@@ -416,6 +417,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks**|Julia Gygax et.al.|[2404.14964](http://arxiv.org/abs/2404.14964)|null|
 |**2024-04-22**|**Bistable Organic Electrochemical Transistors: Enthalpy vs. Entropy**|Lukas M. Bongartz et.al.|[2404.14362](http://arxiv.org/abs/2404.14362)|null|
 |**2024-04-22**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325](http://arxiv.org/abs/2404.14325)|null|
 |**2024-04-22**|**Multi-mem behavior at reduced voltages in La $_{1/2}$Sr$_{1/2}$Mn$_{1/2}$Co$_{1/2}$O$_{3-x}$ perovskite modified with Sm:CeO$_2$**|Wilson Román Acevedo et.al.|[2404.14231](http://arxiv.org/abs/2404.14231)|null|
@@ -622,6 +624,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**|Yu-Jie Liang et.al.|[2404.15174](http://arxiv.org/abs/2404.15174)|null|
+|**2024-04-23**|**HOIN: High-Order Implicit Neural Representations**|Yang Chen et.al.|[2404.14674](http://arxiv.org/abs/2404.14674)|null|
 |**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|null|
 |**2024-04-20**|**NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature**|Qiujie Dong et.al.|[2404.13420](http://arxiv.org/abs/2404.13420)|null|
 |**2024-04-16**|**RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans**|Mark C. Eid et.al.|[2404.10766](http://arxiv.org/abs/2404.10766)|null|
@@ -1006,7 +1010,7 @@ categories: [""]
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-02-19**|**Designing and Prototyping Extensions to MPI in MPICH**|Hui Zhou et.al.|[2402.12274](http://arxiv.org/abs/2402.12274)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
-|**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
+|**2024-04-23**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543](http://arxiv.org/abs/2401.16543)|null|
 |**2024-01-02**|**High-dimensional FGM-ResNet modelling of turbulent spray combustion: Effects of evaporation non-adiabacity and scalar correlation**|Dong Wang et.al.|[2401.01045](http://arxiv.org/abs/2401.01045)|null|
@@ -1035,7 +1039,7 @@ categories: [""]
 |**2024-03-09**|**XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows**|Jinlong Li et.al.|[2403.05910](http://arxiv.org/abs/2403.05910)|**[link](https://github.com/xfluids/xfluids)**|
 |**2024-03-04**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR**|Jad El Karchi et.al.|[2403.02518](http://arxiv.org/abs/2403.02518)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
-|**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
+|**2024-04-23**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-29**|**Frustrated with MPI+Threads? Try MPIxThreads!**|Hui Zhou et.al.|[2401.16551](http://arxiv.org/abs/2401.16551)|null|
 |**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543](http://arxiv.org/abs/2401.16543)|null|
