@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-05-02"
+date: "2024-05-03"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-05-02"
+publishdate: "2024-05-03"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -48,6 +48,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419](http://arxiv.org/abs/2405.01419)|null|
+|**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305](http://arxiv.org/abs/2405.01305)|null|
 |**2024-05-01**|**Weight Sparsity Complements Activity Sparsity in Neuromorphic Language Models**|Rishav Mukherji et.al.|[2405.00433](http://arxiv.org/abs/2405.00433)|null|
 |**2024-05-01**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318](http://arxiv.org/abs/2405.00318)|**[link](https://github.com/jegp/nrf)**|
 |**2024-04-30**|**Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks**|Lorenzo Pes et.al.|[2404.19419](http://arxiv.org/abs/2404.19419)|null|
@@ -435,6 +437,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419](http://arxiv.org/abs/2405.01419)|null|
+|**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305](http://arxiv.org/abs/2405.01305)|null|
 |**2024-05-01**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318](http://arxiv.org/abs/2405.00318)|**[link](https://github.com/jegp/nrf)**|
 |**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|null|
 |**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719](http://arxiv.org/abs/2404.17719)|null|
