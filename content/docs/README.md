@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-05-09"
+date: "2024-05-10"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-05-09"
+publishdate: "2024-05-10"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -50,6 +50,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**A minimal dynamical system and analog circuit for non-associative learning**|Matthew Smart et.al.|[2405.05770](http://arxiv.org/abs/2405.05770)|null|
+|**2024-05-08**|**2D ferroelectrics and ferroelectrics with 2D: materials and device prospects**|Chloe Leblanc et.al.|[2405.05432](http://arxiv.org/abs/2405.05432)|null|
 |**2024-05-04**|**Consciousness Driven Spike Timing Dependent Plasticity**|Sushant Yadav et.al.|[2405.04546](http://arxiv.org/abs/2405.04546)|null|
 |**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
 |**2024-05-06**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289](http://arxiv.org/abs/2405.04289)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
@@ -447,6 +449,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**A minimal dynamical system and analog circuit for non-associative learning**|Matthew Smart et.al.|[2405.05770](http://arxiv.org/abs/2405.05770)|null|
+|**2024-05-08**|**2D ferroelectrics and ferroelectrics with 2D: materials and device prospects**|Chloe Leblanc et.al.|[2405.05432](http://arxiv.org/abs/2405.05432)|null|
 |**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
 |**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
 |**2024-05-06**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289](http://arxiv.org/abs/2405.04289)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
@@ -671,6 +675,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858](http://arxiv.org/abs/2405.05858)|null|
+|**2024-05-09**|**NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM**|Yiping Xie et.al.|[2405.05807](http://arxiv.org/abs/2405.05807)|null|
+|**2024-05-08**|**How Inverse Conditional Flows Can Serve as a Substitute for Distributional Regression**|Lucas Kook et.al.|[2405.05429](http://arxiv.org/abs/2405.05429)|null|
 |**2024-05-06**|**One nose but two nostrils: Learn to align with sparse connections between two olfactory cortices**|Bo Liu et.al.|[2405.03602](http://arxiv.org/abs/2405.03602)|null|
 |**2024-05-06**|**3D LiDAR Mapping in Dynamic Environments Using a 4D Implicit Neural Representation**|Xingguang Zhong et.al.|[2405.03388](http://arxiv.org/abs/2405.03388)|**[link](https://github.com/prbonn/4dndf)**|
 |**2024-05-06**|**Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner**|Tong Nie et.al.|[2405.03185](http://arxiv.org/abs/2405.03185)|null|
@@ -1062,7 +1069,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-04**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|null|
+|**2024-05-08**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|null|
 |**2024-05-03**|**Performance Analysis of an Optimization Algorithm for Metamaterial Design on the Integrated High-Performance Computing and Quantum Systems**|Seongmin Kim et.al.|[2405.02211](http://arxiv.org/abs/2405.02211)|null|
 |**2024-05-01**|**A Communication Avoiding and Reducing Algorithm for Symmetric Eigenproblem for Very Small Matrices**|Takahiro Katagiri et.al.|[2405.00326](http://arxiv.org/abs/2405.00326)|null|
 |**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|**[link](https://github.com/kamping-site/kamping)**|
@@ -1094,7 +1101,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-04**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|null|
+|**2024-05-08**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|null|
 |**2024-05-03**|**Performance Analysis of an Optimization Algorithm for Metamaterial Design on the Integrated High-Performance Computing and Quantum Systems**|Seongmin Kim et.al.|[2405.02211](http://arxiv.org/abs/2405.02211)|null|
 |**2024-05-01**|**A Communication Avoiding and Reducing Algorithm for Symmetric Eigenproblem for Very Small Matrices**|Takahiro Katagiri et.al.|[2405.00326](http://arxiv.org/abs/2405.00326)|null|
 |**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|**[link](https://github.com/kamping-site/kamping)**|
