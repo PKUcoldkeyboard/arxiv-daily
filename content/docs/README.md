@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-05-28"
+date: "2024-05-29"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-05-28"
+publishdate: "2024-05-29"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -50,6 +50,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Mutual Information Analysis of Neuromorphic Coding for Distributed Wireless Spiking Neural Networks**|Pietro Savazzi et.al.|[2405.18019](http://arxiv.org/abs/2405.18019)|null|
+|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|null|
 |**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851](http://arxiv.org/abs/2405.16851)|null|
 |**2024-05-26**|**High-Performance Temporal Reversible Spiking Neural Networks with $O(L)$ Training Memory and $O(1)$ Inference Cost**|JiaKui Hu et.al.|[2405.16466](http://arxiv.org/abs/2405.16466)|null|
 |**2024-05-25**|**Spiking Neural Network Phase Encoding for Cognitive Computing**|Lei Zhang et.al.|[2405.16023](http://arxiv.org/abs/2405.16023)|null|
@@ -701,12 +703,16 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Towards a Sampling Theory for Implicit Neural Representations**|Mahrokh Najaf et.al.|[2405.18410](http://arxiv.org/abs/2405.18410)|null|
+|**2024-05-28**|**A Grid-Free Fluid Solver based on Gaussian Spatial Representation**|Jingrui Xing et.al.|[2405.18133](http://arxiv.org/abs/2405.18133)|null|
+|**2024-05-28**|**Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations**|Ting Wang et.al.|[2405.17818](http://arxiv.org/abs/2405.17818)|null|
+|**2024-05-28**|**Shaping the distribution of neural responses with interneurons in a recurrent circuit model**|David Lipshutz et.al.|[2405.17745](http://arxiv.org/abs/2405.17745)|null|
 |**2024-05-27**|**PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance**|Haohan Weng et.al.|[2405.16890](http://arxiv.org/abs/2405.16890)|null|
 |**2024-05-27**|**UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation**|Runzhao Yang et.al.|[2405.16850](http://arxiv.org/abs/2405.16850)|null|
 |**2024-05-27**|**Extreme Compression of Adaptive Neural Images**|Leo Hoshikawa et.al.|[2405.16807](http://arxiv.org/abs/2405.16807)|null|
-|**2024-05-27**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
+|**2024-05-28**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
 |**2024-05-27**|**Transport of Algebraic Structure to Latent Embeddings**|Samuel Pfrommer et.al.|[2405.16763](http://arxiv.org/abs/2405.16763)|null|
-|**2024-05-26**|**ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling**|Francesca Babiloni et.al.|[2405.16570](http://arxiv.org/abs/2405.16570)|null|
+|**2024-05-28**|**ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling**|Francesca Babiloni et.al.|[2405.16570](http://arxiv.org/abs/2405.16570)|null|
 |**2024-05-25**|**N-BVH: Neural ray queries with bounding volume hierarchies**|Philippe Weier et.al.|[2405.16237](http://arxiv.org/abs/2405.16237)|**[link](https://github.com/WeiPhil/nbvh)**|
 |**2024-05-24**|**CPT-Interp: Continuous sPatial and Temporal Motion Modeling for 4D Medical Image Interpolation**|Xia Li et.al.|[2405.15385](http://arxiv.org/abs/2405.15385)|null|
 |**2024-05-22**|**NeurCross: A Self-Supervised Neural Approach for Representing Cross Fields in Quad Mesh Generation**|Qiujie Dong et.al.|[2405.13745](http://arxiv.org/abs/2405.13745)|null|
