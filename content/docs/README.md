@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-06-05"
+date: "2024-06-06"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-06-05"
+publishdate: "2024-06-06"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -52,16 +52,21 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470](http://arxiv.org/abs/2406.03470)|null|
+|**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287](http://arxiv.org/abs/2406.03287)|**[link](https://github.com/xingrun-xing/spikelm)**|
+|**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054](http://arxiv.org/abs/2406.03054)|null|
+|**2024-06-05**|**When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron**|Xuerui Qiu et.al.|[2406.03046](http://arxiv.org/abs/2406.03046)|**[link](https://github.com/bollossom/iclr_tiny_snn)**|
+|**2024-06-05**|**Rethinking Spiking Neural Networks as State Space Models**|Malyaban Bal et.al.|[2406.02923](http://arxiv.org/abs/2406.02923)|null|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
 |**2024-06-04**|**Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity**|Jiangrong Shen et.al.|[2406.01883](http://arxiv.org/abs/2406.01883)|null|
 |**2024-06-03**|**Pattern Formation in a Spiking Neural-Field of Renewal Neurons**|Gregory Dumont et.al.|[2406.01167](http://arxiv.org/abs/2406.01167)|null|
 |**2024-06-03**|**Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning**|Yaxin Li et.al.|[2406.01072](http://arxiv.org/abs/2406.01072)|null|
 |**2024-06-01**|**Pedestrian intention prediction in Adverse Weather Conditions with Spiking Neural Networks and Dynamic Vision Sensors**|Mustafa Sakhai et.al.|[2406.00473](http://arxiv.org/abs/2406.00473)|null|
-|**2024-06-01**|**Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks**|Lihao Wang et.al.|[2406.00405](http://arxiv.org/abs/2406.00405)|null|
+|**2024-06-05**|**Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks**|Lihao Wang et.al.|[2406.00405](http://arxiv.org/abs/2406.00405)|**[link](https://github.com/wangtianyi1874/stclif)**|
 |**2024-06-01**|**Understanding the Convergence in Balanced Resonate-and-Fire Neurons**|Saya Higuchi et.al.|[2406.00389](http://arxiv.org/abs/2406.00389)|null|
 |**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239](http://arxiv.org/abs/2406.00239)|null|
 |**2024-05-31**|**Flexible and Efficient Surrogate Gradient Modeling with Forward Gradient Injection**|Sebastian Otte et.al.|[2406.00177](http://arxiv.org/abs/2406.00177)|null|
-|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
+|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|**[link](https://github.com/DingJianhao/stable-snn)**|
 |**2024-05-30**|**Comparing Quantum Annealing and Spiking Neuromorphic Computing for Sampling Binary Sparse Coding QUBO Problems**|Kyle Henke et.al.|[2405.20525](http://arxiv.org/abs/2405.20525)|null|
 |**2024-05-30**|**Enhancing Adversarial Robustness in SNNs with Sparse Gradients**|Yujia Liu et.al.|[2405.20355](http://arxiv.org/abs/2405.20355)|null|
 |**2024-05-30**|**Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface**|Puneet Kumar Shaw et.al.|[2405.19927](http://arxiv.org/abs/2405.19927)|null|
@@ -488,11 +493,12 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Exploiting Chaotic Dynamics as Deep Neural Networks**|Shuhong Liu et.al.|[2406.02580](http://arxiv.org/abs/2406.02580)|null|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
 |**2024-06-04**|**Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity**|Jiangrong Shen et.al.|[2406.01883](http://arxiv.org/abs/2406.01883)|null|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
 |**2024-06-01**|**Real-Time State Modulation and Acquisition Circuit in Neuromorphic Memristive Systems**|Shengbo Wang et.al.|[2406.00378](http://arxiv.org/abs/2406.00378)|null|
-|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
+|**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|**[link](https://github.com/DingJianhao/stable-snn)**|
 |**2024-05-30**|**Comparing Quantum Annealing and Spiking Neuromorphic Computing for Sampling Binary Sparse Coding QUBO Problems**|Kyle Henke et.al.|[2405.20525](http://arxiv.org/abs/2405.20525)|null|
 |**2024-05-30**|**Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface**|Puneet Kumar Shaw et.al.|[2405.19927](http://arxiv.org/abs/2405.19927)|null|
 |**2024-05-31**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687](http://arxiv.org/abs/2405.19687)|**[link](https://github.com/ridgerchu/sad)**|
@@ -729,6 +735,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Neural Representations of Dynamic Visual Stimuli**|Jacob Yeung et.al.|[2406.02659](http://arxiv.org/abs/2406.02659)|null|
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
 |**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|null|
 |**2024-06-03**|**MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild**|Zeren Jiang et.al.|[2406.01595](http://arxiv.org/abs/2406.01595)|null|
@@ -1080,7 +1087,7 @@ categories: [""]
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-29**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
-|**2024-05-21**|**Robustly encoding certainty in a metastable neural circuit model**|Heather L Cihak et.al.|[2405.13182](http://arxiv.org/abs/2405.13182)|null|
+|**2024-05-21**|**Robustly encoding certainty in a metastable neural circuit model**|Heather L Cihak et.al.|[2405.13182](http://arxiv.org/abs/2405.13182)|**[link](https://github.com/cihakh/RobustCertaintyEncoding)**|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370](http://arxiv.org/abs/2405.02370)|null|
 |**2024-02-22**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|**[link](https://github.com/brainpy/brainpy-iclr24-reproducibility)**|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
