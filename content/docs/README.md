@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-06-24"
+date: "2024-06-25"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-06-24"
+publishdate: "2024-06-25"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -53,6 +53,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Emerging NeoHebbian Dynamics in Forward-Forward Learning: Implications for Neuromorphic Computing**|Erik B. Terres-Escudero et.al.|[2406.16479](http://arxiv.org/abs/2406.16479)|**[link](https://github.com/erikberter/hebbian_ffa)**|
 |**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112](http://arxiv.org/abs/2406.15112)|null|
 |**2024-06-21**|**Thickness-dependent properties of transparent conductive oxides for epsilon-near-zero applications**|Jacek Gosciniak et.al.|[2406.15081](http://arxiv.org/abs/2406.15081)|null|
 |**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034](http://arxiv.org/abs/2406.15034)|null|
@@ -520,6 +521,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Emerging NeoHebbian Dynamics in Forward-Forward Learning: Implications for Neuromorphic Computing**|Erik B. Terres-Escudero et.al.|[2406.16479](http://arxiv.org/abs/2406.16479)|**[link](https://github.com/erikberter/hebbian_ffa)**|
 |**2024-06-21**|**Thickness-dependent properties of transparent conductive oxides for epsilon-near-zero applications**|Jacek Gosciniak et.al.|[2406.15081](http://arxiv.org/abs/2406.15081)|null|
 |**2024-06-19**|**Hardware Realization of Neuromorphic Computing with a 4-Port Photonic Reservoir for Modulation Format Identification**|Enes Şeker et.al.|[2406.13549](http://arxiv.org/abs/2406.13549)|null|
 |**2024-06-19**|**Measurement of the Crystallization and Phase Transition of Niobium Dioxide Thin-Films for Neuromorphic Computing Applications Using a Tube Furnace Optical Transmission System**|Zachary R. Robinson et.al.|[2406.13523](http://arxiv.org/abs/2406.13523)|null|
@@ -776,7 +778,7 @@ categories: [""]
 |**2024-06-21**|**CoCPF: Coordinate-based Continuous Projection Field for Ill-Posed Inverse Problem in Imaging**|Zixuan Chen et.al.|[2406.14976](http://arxiv.org/abs/2406.14976)|null|
 |**2024-06-19**|**INFusion: Diffusion Regularized Implicit Neural Representations for 2D and 3D accelerated MRI reconstruction**|Yamin Arefeen et.al.|[2406.13895](http://arxiv.org/abs/2406.13895)|null|
 |**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625](http://arxiv.org/abs/2406.13625)|null|
-|**2024-06-18**|**What makes two models think alike?**|Jeanne Salle et.al.|[2406.12620](http://arxiv.org/abs/2406.12620)|null|
+|**2024-06-24**|**What Makes Two Language Models Think Alike?**|Jeanne Salle et.al.|[2406.12620](http://arxiv.org/abs/2406.12620)|null|
 |**2024-06-16**|**Latent Communication in Artificial Neural Networks**|Luca Moschella et.al.|[2406.11014](http://arxiv.org/abs/2406.11014)|null|
 |**2024-06-18**|**$S^3$ -- Semantic Signal Separation**|Márton Kardos et.al.|[2406.09556](http://arxiv.org/abs/2406.09556)|**[link](https://github.com/x-tabdeveloping/turftopic)**|
 |**2024-06-13**|**CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**|Sachin Shah et.al.|[2406.09409](http://arxiv.org/abs/2406.09409)|null|
