@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-06-30"
+date: "2024-07-01"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-06-30"
+publishdate: "2024-07-01"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -19,6 +19,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
 |**2024-06-25**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
 |**2024-06-02**|**Adaptive Robotic Arm Control with a Spiking Recurrent Neural Network on a Digital Accelerator**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
@@ -53,7 +54,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230](http://arxiv.org/abs/2406.19230)|null|
+|**2024-06-28**|**Directly Training Temporal Spiking Neural Network with Sparse Surrogate Gradient**|Yang Li et.al.|[2406.19645](http://arxiv.org/abs/2406.19645)|null|
+|**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230](http://arxiv.org/abs/2406.19230)|**[link](https://github.com/Lvchangze/snn)**|
 |**2024-06-26**|**Physics-based Modeling and Simulation of Nanoparticle Networks**|Torben Hemke et.al.|[2406.18666](http://arxiv.org/abs/2406.18666)|null|
 |**2024-06-26**|**On Reducing Activity with Distillation and Regularization for Energy Efficient Spiking Neural Networks**|Thomas Louis et.al.|[2406.18350](http://arxiv.org/abs/2406.18350)|null|
 |**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617](http://arxiv.org/abs/2406.17617)|null|
@@ -109,7 +111,7 @@ categories: [""]
 |**2024-05-29**|**CHANI: Correlation-based Hawkes Aggregation of Neurons with bio-Inspiration**|Sophie Jaffard et.al.|[2405.18828](http://arxiv.org/abs/2405.18828)|**[link](https://github.com/SophieJaffard/CHANI)**|
 |**2024-05-28**|**Emergence and long-term maintenance of modularity in spiking neural networks with plasticity**|Raphäel Bergoin et.al.|[2405.18587](http://arxiv.org/abs/2405.18587)|null|
 |**2024-05-28**|**Mutual Information Analysis of Neuromorphic Coding for Distributed Wireless Spiking Neural Networks**|Pietro Savazzi et.al.|[2405.18019](http://arxiv.org/abs/2405.18019)|null|
-|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|null|
+|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|**[link](https://github.com/GuoLab-UESTC/MMHT)**|
 |**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851](http://arxiv.org/abs/2405.16851)|**[link](https://github.com/pkuxmq/grsnn)**|
 |**2024-05-26**|**High-Performance Temporal Reversible Spiking Neural Networks with $O(L)$ Training Memory and $O(1)$ Inference Cost**|JiaKui Hu et.al.|[2405.16466](http://arxiv.org/abs/2405.16466)|null|
 |**2024-05-25**|**Spiking Neural Network Phase Encoding for Cognitive Computing**|Lei Zhang et.al.|[2405.16023](http://arxiv.org/abs/2405.16023)|null|
@@ -256,7 +258,7 @@ categories: [""]
 |**2024-02-08**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423](http://arxiv.org/abs/2402.05423)|**[link](https://github.com/chenngzz/mtsa-snn)**|
 |**2024-02-07**|**Nonlinear behavior of area dependent interface type resistive switching devices**|Sahitya Yarragolla et.al.|[2402.04848](http://arxiv.org/abs/2402.04848)|null|
 |**2024-02-09**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxuan Liu et.al.|[2402.04798](http://arxiv.org/abs/2402.04798)|null|
-|**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|null|
+|**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|**[link](https://github.com/huuyulong/complementary-lif)**|
 |**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596](http://arxiv.org/abs/2402.04596)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886](http://arxiv.org/abs/2402.02886)|null|
@@ -528,6 +530,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Versatile CMOS Analog LIF Neuron for Memristor-Integrated Neuromorphic Circuits**|Nikhil Garg et.al.|[2406.19667](http://arxiv.org/abs/2406.19667)|null|
+|**2024-06-28**|**Directly Training Temporal Spiking Neural Network with Sparse Surrogate Gradient**|Yang Li et.al.|[2406.19645](http://arxiv.org/abs/2406.19645)|null|
 |**2024-06-26**|**Physics-based Modeling and Simulation of Nanoparticle Networks**|Torben Hemke et.al.|[2406.18666](http://arxiv.org/abs/2406.18666)|null|
 |**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617](http://arxiv.org/abs/2406.17617)|null|
 |**2024-06-24**|**Optical Control of Adaptive Nanoscale Domain Networks**|Marc Zajac et.al.|[2406.17067](http://arxiv.org/abs/2406.17067)|null|
@@ -1158,6 +1162,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
 |**2024-06-25**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
 |**2024-05-21**|**Robustly encoding certainty in a metastable neural circuit model**|Heather L Cihak et.al.|[2405.13182](http://arxiv.org/abs/2405.13182)|**[link](https://github.com/cihakh/RobustCertaintyEncoding)**|
@@ -1340,6 +1345,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**FRED: Flexible REduction-Distribution Interconnect and Communication Implementation for Wafer-Scale Distributed Training of DNN Models**|Saeed Rashidi et.al.|[2406.19580](http://arxiv.org/abs/2406.19580)|null|
 |**2024-06-14**|**Faster Convergence on Heterogeneous Federated Edge Learning: An Adaptive Sidelink-Assisted Data Multicasting Approach**|Gang Hu et.al.|[2406.09776](http://arxiv.org/abs/2406.09776)|null|
 |**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594](http://arxiv.org/abs/2406.04594)|null|
 |**2024-05-31**|**Understanding the Throughput Bounds of Reconfigurable Datacenter Networks**|Vamsi Addanki et.al.|[2405.20869](http://arxiv.org/abs/2405.20869)|null|
