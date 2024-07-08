@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-07-07"
+date: "2024-07-08"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-07-07"
+publishdate: "2024-07-08"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -54,7 +54,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-02**|**Roadmap to Neuromorphic Computing with Emerging Technologies**|Adnan Mehonic et.al.|[2407.02353](http://arxiv.org/abs/2407.02353)|null|
+|**2024-07-05**|**Enhancing learning in artificial neural networks through cellular heterogeneity and neuromodulatory signaling**|Alejandro Rodriguez-Garcia et.al.|[2407.04525](http://arxiv.org/abs/2407.04525)|null|
+|**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076](http://arxiv.org/abs/2407.04076)|null|
+|**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930](http://arxiv.org/abs/2407.03930)|null|
+|**2024-07-05**|**Roadmap to Neuromorphic Computing with Emerging Technologies**|Adnan Mehonic et.al.|[2407.02353](http://arxiv.org/abs/2407.02353)|null|
 |**2024-07-01**|**Phase jumps in Josephson junctions with time-dependent spin-orbit coupling**|David Monroe et.al.|[2407.01847](http://arxiv.org/abs/2407.01847)|null|
 |**2024-07-01**|**Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network**|Hyunseok Oh et.al.|[2407.01645](http://arxiv.org/abs/2407.01645)|**[link](https://github.com/snuhcs/snn_signgd)**|
 |**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931](http://arxiv.org/abs/2407.00931)|null|
@@ -537,8 +540,11 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**Predictive Coding Networks and Inference Learning: Tutorial and Survey**|Björn van Zwol et.al.|[2407.04117](http://arxiv.org/abs/2407.04117)|null|
+|**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076](http://arxiv.org/abs/2407.04076)|null|
+|**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930](http://arxiv.org/abs/2407.03930)|null|
 |**2024-07-03**|**Inverse stochastic resonance in adaptive small-world neural networks**|Marius E. Yamakou et.al.|[2407.03151](http://arxiv.org/abs/2407.03151)|null|
-|**2024-07-02**|**Roadmap to Neuromorphic Computing with Emerging Technologies**|Adnan Mehonic et.al.|[2407.02353](http://arxiv.org/abs/2407.02353)|null|
+|**2024-07-05**|**Roadmap to Neuromorphic Computing with Emerging Technologies**|Adnan Mehonic et.al.|[2407.02353](http://arxiv.org/abs/2407.02353)|null|
 |**2024-07-01**|**Phase jumps in Josephson junctions with time-dependent spin-orbit coupling**|David Monroe et.al.|[2407.01847](http://arxiv.org/abs/2407.01847)|null|
 |**2024-07-01**|**Large-Amplitude, Easy-Plane Spin-Orbit Torque Oscillators Driven by Out-of-Plane Spin Current: A Micromagnetic Study**|Daniel Kubler et.al.|[2407.00895](http://arxiv.org/abs/2407.00895)|null|
 |**2024-06-30**|**HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641](http://arxiv.org/abs/2407.00641)|null|
@@ -803,10 +809,11 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation**|Youshen xiao et.al.|[2407.03663](http://arxiv.org/abs/2407.03663)|null|
 |**2024-07-03**|**IM-MoCo: Self-supervised MRI Motion Correction using Motion-Guided Implicit Neural Representations**|Ziad Al-Haj Hemidi et.al.|[2407.02974](http://arxiv.org/abs/2407.02974)|**[link](https://github.com/mdl-uzl/miccai24_immoco)**|
 |**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744](http://arxiv.org/abs/2407.02744)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
-|**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
+|**2024-07-04**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
 |**2024-07-01**|**Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction**|Yiqun Lin et.al.|[2407.01090](http://arxiv.org/abs/2407.01090)|**[link](https://github.com/xmed-lab/dif-gaussian)**|
 |**2024-06-29**|**Enhancing Accuracy and Parameter-Efficiency of Neural Representations for Network Parameterization**|Hongjun Choi et.al.|[2407.00356](http://arxiv.org/abs/2407.00356)|null|
 |**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299](http://arxiv.org/abs/2406.19299)|null|
@@ -1029,7 +1036,7 @@ categories: [""]
 |**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311](http://arxiv.org/abs/2311.18311)|null|
 |**2023-11-29**|**Implicit-explicit Integrated Representations for Multi-view Video Compression**|Chen Zhu et.al.|[2311.17350](http://arxiv.org/abs/2311.17350)|**[link](https://github.com/zc-lynen/mv-ierv)**|
 |**2023-11-30**|**REF $^2$ -NeRF: Reflection and Refraction aware Neural Radiance Field**|Wooseok Kim et.al.|[2311.17116](http://arxiv.org/abs/2311.17116)|**[link](https://github.com/Woo-Seok-Kim/ref-square-NeRF)**|
-|**2023-11-28**|**I-MedSAM: Implicit Medical Image Segmentation with Segment Anything**|Xiaobao Wei et.al.|[2311.17081](http://arxiv.org/abs/2311.17081)|null|
+|**2023-11-28**|**I-MedSAM: Implicit Medical Image Segmentation with Segment Anything**|Xiaobao Wei et.al.|[2311.17081](http://arxiv.org/abs/2311.17081)|**[link](https://github.com/ucwxb/i-medsam)**|
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
 |**2023-11-26**|**GS-IR: 3D Gaussian Splatting for Inverse Rendering**|Zhihao Liang et.al.|[2311.16473](http://arxiv.org/abs/2311.16473)|**[link](https://github.com/lzhnb/gs-ir)**|
 |**2023-11-28**|**Reduced-order modeling for parameterized PDEs via implicit neural representations**|Tianshu Wen et.al.|[2311.16410](http://arxiv.org/abs/2311.16410)|null|
@@ -1132,7 +1139,7 @@ categories: [""]
 |**2023-08-21**|**INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping**|Chulong Zhang et.al.|[2308.09473](http://arxiv.org/abs/2308.09473)|null|
 |**2023-08-17**|**On the Evaluation of Neural Code Translation: Taxonomy and Benchmark**|Mingsheng Jiao et.al.|[2308.08961](http://arxiv.org/abs/2308.08961)|**[link](https://github.com/polyeval/g-transeval)**|
 |**2023-08-24**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741](http://arxiv.org/abs/2308.08741)|null|
-|**2023-08-15**|**End-to-End Open Vocabulary Keyword Search With Multilingual Neural Representations**|Bolaji Yusuf et.al.|[2308.08027](http://arxiv.org/abs/2308.08027)|null|
+|**2023-08-15**|**End-to-End Open Vocabulary Keyword Search With Multilingual Neural Representations**|Bolaji Yusuf et.al.|[2308.08027](http://arxiv.org/abs/2308.08027)|**[link](https://github.com/bolajiy/golden-retriever)**|
 |**2023-08-14**|**Semantic Similarity Loss for Neural Source Code Summarization**|Chia-Yi Su et.al.|[2308.07429](http://arxiv.org/abs/2308.07429)|**[link](https://github.com/apcl-research/funcom-useloss)**|
 |**2023-08-12**|**Neural Latent Aligner: Cross-trial Alignment for Learning Representations of Complex, Naturalistic Neural Data**|Cheol Jun Cho et.al.|[2308.06443](http://arxiv.org/abs/2308.06443)|null|
 |**2023-08-11**|**Bayesian Neural System Identification with Response Variability**|Nan Wu et.al.|[2308.05990](http://arxiv.org/abs/2308.05990)|null|
