@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-07-16"
+date: "2024-07-17"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-07-16"
+publishdate: "2024-07-17"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -55,6 +55,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Restricted Boltzmann Machine for Modeling Complex Physical Systems: A Case Study in Artificial Spin Ice**|Rehana Begum Popy et.al.|[2407.11165](http://arxiv.org/abs/2407.11165)|null|
 |**2024-07-13**|**Time-Integrated Spike-Timing-Dependent-Plasticity**|William Gebhardt et.al.|[2407.10028](http://arxiv.org/abs/2407.10028)|null|
 |**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260](http://arxiv.org/abs/2407.09260)|null|
 |**2024-07-12**|**Multistate ferroelectric diodes with high electroresistance based on van der Waals heterostructures**|Soumya Sarkar et.al.|[2407.09175](http://arxiv.org/abs/2407.09175)|null|
@@ -558,6 +559,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Restricted Boltzmann Machine for Modeling Complex Physical Systems: A Case Study in Artificial Spin Ice**|Rehana Begum Popy et.al.|[2407.11165](http://arxiv.org/abs/2407.11165)|null|
 |**2024-07-15**|**Correlations Are Ruining Your Gradient Descent**|Nasir Ahmad et.al.|[2407.10780](http://arxiv.org/abs/2407.10780)|null|
 |**2024-07-12**|**Multistate ferroelectric diodes with high electroresistance based on van der Waals heterostructures**|Soumya Sarkar et.al.|[2407.09175](http://arxiv.org/abs/2407.09175)|null|
 |**2024-07-11**|**A Comprehensive Convolutional Neural Network Architecture Design using Magnetic Skyrmion and Domain Wall**|Saumya Gupta et.al.|[2407.08469](http://arxiv.org/abs/2407.08469)|null|
