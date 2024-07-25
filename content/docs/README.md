@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-07-24"
+date: "2024-07-25"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-07-24"
+publishdate: "2024-07-25"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -55,6 +55,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective**|Ali Safa et.al.|[2407.17305](http://arxiv.org/abs/2407.17305)|null|
+|**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010](http://arxiv.org/abs/2407.17010)|null|
 |**2024-07-23**|**Phase Symmetry Breaking of Counterpropagating Light in Microresonators for Switches and Logic Gates**|Alekhya Ghosh et.al.|[2407.16625](http://arxiv.org/abs/2407.16625)|null|
 |**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398](http://arxiv.org/abs/2407.16398)|null|
 |**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152](http://arxiv.org/abs/2407.15152)|null|
@@ -570,6 +572,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010](http://arxiv.org/abs/2407.17010)|null|
 |**2024-07-23**|**Phase Symmetry Breaking of Counterpropagating Light in Microresonators for Switches and Logic Gates**|Alekhya Ghosh et.al.|[2407.16625](http://arxiv.org/abs/2407.16625)|null|
 |**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398](http://arxiv.org/abs/2407.16398)|null|
 |**2024-07-19**|**Transformation of Analog to Digital Resistive Switching in Cu Implanted ITO/NiO/Ag Device for Neuromorphic Applications**|Sourav Bhakta et.al.|[2407.14437](http://arxiv.org/abs/2407.14437)|null|
@@ -856,7 +859,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|null|
+|**2024-07-24**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|**[link](https://github.com/yunfeilu0112/fcnr)**|
 |**2024-07-23**|**Energy-information trade-off makes the cortical critical power law the optimal coding**|Tsuyoshi Tatsukawa et.al.|[2407.16215](http://arxiv.org/abs/2407.16215)|null|
 |**2024-07-23**|**Uncertainty-Aware Deep Neural Representations for Visual Analysis of Vector Field Data**|Atul Kumar et.al.|[2407.16119](http://arxiv.org/abs/2407.16119)|null|
 |**2024-07-22**|**Attention Beats Linear for Fast Implicit Neural Representation Generation**|Shuyi Zhang et.al.|[2407.15355](http://arxiv.org/abs/2407.15355)|**[link](https://github.com/roninton/anr)**|
@@ -1339,6 +1342,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
 |**2024-06-25**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
@@ -1380,6 +1384,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
 |**2024-07-08**|**High-order accurate entropy stable schemes for compressible Euler equations with van der Waals equation of state on adaptive moving meshes**|Shangting Li et.al.|[2407.05568](http://arxiv.org/abs/2407.05568)|null|
@@ -1443,7 +1448,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-21**|**STrack: A Reliable Multipath Transport for AI/ML Clusters**|Yanfang Le et.al.|[2407.15266](http://arxiv.org/abs/2407.15266)|null|
+|**2024-07-23**|**STrack: A Reliable Multipath Transport for AI/ML Clusters**|Yanfang Le et.al.|[2407.15266](http://arxiv.org/abs/2407.15266)|null|
 |**2024-07-12**|**Enabling Elastic Model Serving with MultiWorld**|Myungjin Lee et.al.|[2407.08980](http://arxiv.org/abs/2407.08980)|**[link](https://github.com/cisco-open/pymultiworld)**|
 |**2024-07-10**|**Inference Performance Optimization for Large Language Models on CPUs**|Pujiang He et.al.|[2407.07304](http://arxiv.org/abs/2407.07304)|**[link](https://github.com/intel/xfastertransformer)**|
 |**2024-06-30**|**Challenging the Need for Packet Spraying in Large-Scale Distributed Training**|Vamsi Addanki et.al.|[2407.00550](http://arxiv.org/abs/2407.00550)|null|
