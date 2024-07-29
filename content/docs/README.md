@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-07-28"
+date: "2024-07-29"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-07-28"
+publishdate: "2024-07-29"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -55,13 +55,15 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838](http://arxiv.org/abs/2407.18838)|null|
+|**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625](http://arxiv.org/abs/2407.18625)|null|
 |**2024-07-25**|**The Emergence of Mem-Emitters**|Victor Lopez-Richard et.al.|[2407.18164](http://arxiv.org/abs/2407.18164)|null|
 |**2024-07-24**|**Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs**|Maryam Abbasihafshejani et.al.|[2407.17672](http://arxiv.org/abs/2407.17672)|null|
 |**2024-07-24**|**Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective**|Ali Safa et.al.|[2407.17305](http://arxiv.org/abs/2407.17305)|null|
 |**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010](http://arxiv.org/abs/2407.17010)|null|
 |**2024-07-23**|**Phase Symmetry Breaking of Counterpropagating Light in Microresonators for Switches and Logic Gates**|Alekhya Ghosh et.al.|[2407.16625](http://arxiv.org/abs/2407.16625)|null|
 |**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398](http://arxiv.org/abs/2407.16398)|**[link](https://github.com/deanbrand/QSNN)**|
-|**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152](http://arxiv.org/abs/2407.15152)|null|
+|**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152](http://arxiv.org/abs/2407.15152)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
 |**2024-07-20**|**Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime**|Xiaoguang Diao et.al.|[2407.14883](http://arxiv.org/abs/2407.14883)|null|
 |**2024-07-19**|**Transformation of Analog to Digital Resistive Switching in Cu Implanted ITO/NiO/Ag Device for Neuromorphic Applications**|Sourav Bhakta et.al.|[2407.14437](http://arxiv.org/abs/2407.14437)|null|
 |**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097](http://arxiv.org/abs/2407.14097)|**[link](https://github.com/AnonymousSquirrel316/FFA_OOD)**|
@@ -574,6 +576,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625](http://arxiv.org/abs/2407.18625)|null|
+|**2024-07-25**|**Stochastic Instabilities of the Diffusive Memristor**|Amir Akther et.al.|[2407.18368](http://arxiv.org/abs/2407.18368)|null|
 |**2024-07-25**|**The Emergence of Mem-Emitters**|Victor Lopez-Richard et.al.|[2407.18164](http://arxiv.org/abs/2407.18164)|null|
 |**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010](http://arxiv.org/abs/2407.17010)|null|
 |**2024-07-23**|**Phase Symmetry Breaking of Counterpropagating Light in Microresonators for Switches and Logic Gates**|Alekhya Ghosh et.al.|[2407.16625](http://arxiv.org/abs/2407.16625)|null|
@@ -862,6 +866,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Revisit Event Generation Model: Self-Supervised Learning of Event-to-Video Reconstruction with Implicit Neural Representations**|Zipeng Wang et.al.|[2407.18500](http://arxiv.org/abs/2407.18500)|null|
 |**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046](http://arxiv.org/abs/2407.18046)|null|
 |**2024-07-24**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|**[link](https://github.com/yunfeilu0112/fcnr)**|
 |**2024-07-23**|**Energy-information trade-off makes the cortical critical power law the optimal coding**|Tsuyoshi Tatsukawa et.al.|[2407.16215](http://arxiv.org/abs/2407.16215)|null|
@@ -952,7 +957,7 @@ categories: [""]
 |**2024-05-13**|**How Inverse Conditional Flows Can Serve as a Substitute for Distributional Regression**|Lucas Kook et.al.|[2405.05429](http://arxiv.org/abs/2405.05429)|null|
 |**2024-05-06**|**One nose but two nostrils: Learn to align with sparse connections between two olfactory cortices**|Bo Liu et.al.|[2405.03602](http://arxiv.org/abs/2405.03602)|null|
 |**2024-05-06**|**3D LiDAR Mapping in Dynamic Environments Using a 4D Implicit Neural Representation**|Xingguang Zhong et.al.|[2405.03388](http://arxiv.org/abs/2405.03388)|**[link](https://github.com/prbonn/4dndf)**|
-|**2024-05-06**|**Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner**|Tong Nie et.al.|[2405.03185](http://arxiv.org/abs/2405.03185)|null|
+|**2024-05-06**|**Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner**|Tong Nie et.al.|[2405.03185](http://arxiv.org/abs/2405.03185)|**[link](https://github.com/tongnie/traffic_dynamics)**|
 |**2024-05-04**|**Leveraging the Human Ventral Visual Stream to Improve Neural Network Robustness**|Zhenan Shao et.al.|[2405.02564](http://arxiv.org/abs/2405.02564)|**[link](https://github.com/shaox192/NeuralGuidance)**|
 |**2024-05-03**|**Implicit Neural Representations for Robust Joint Sparse-View CT Reconstruction**|Jiayang Shi et.al.|[2405.02509](http://arxiv.org/abs/2405.02509)|null|
 |**2024-05-01**|**Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods**|Xia Li et.al.|[2405.00430](http://arxiv.org/abs/2405.00430)|null|
@@ -999,7 +1004,7 @@ categories: [""]
 |**2024-03-20**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
 |**2024-03-18**|**3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration**|Quentin Herau et.al.|[2403.11577](http://arxiv.org/abs/2403.11577)|null|
 |**2024-03-18**|**Inter-individual and inter-site neural code conversion and image reconstruction without shared stimuli**|Haibao Wang et.al.|[2403.11517](http://arxiv.org/abs/2403.11517)|null|
-|**2024-03-17**|**STAIR: Semantic-Targeted Active Implicit Reconstruction**|Liren Jin et.al.|[2403.11233](http://arxiv.org/abs/2403.11233)|null|
+|**2024-03-17**|**STAIR: Semantic-Targeted Active Implicit Reconstruction**|Liren Jin et.al.|[2403.11233](http://arxiv.org/abs/2403.11233)|**[link](https://github.com/dmar-bonn/stair)**|
 |**2024-03-16**|**MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections**|Mude Hui et.al.|[2403.10815](http://arxiv.org/abs/2403.10815)|**[link](https://github.com/ucsc-vlaa/microdiffusion)**|
 |**2024-03-16**|**LIGHTCODE: Light Analytical and Neural Codes for Channels with Feedback**|Sravan Kumar Ankireddy et.al.|[2403.10751](http://arxiv.org/abs/2403.10751)|null|
 |**2024-03-15**|**SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians**|Hiba Dahmani et.al.|[2403.10427](http://arxiv.org/abs/2403.10427)|null|
@@ -1346,7 +1351,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-25**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
+|**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
@@ -1389,7 +1394,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-25**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
+|**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
