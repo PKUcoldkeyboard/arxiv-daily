@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-08-03"
+date: "2024-08-04"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-08-03"
+publishdate: "2024-08-04"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.08.03
+## Updated on 2024.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -55,6 +55,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611](http://arxiv.org/abs/2408.00611)|null|
+|**2024-08-01**|**Low-Power Vibration-Based Predictive Maintenance for Industry 4.0 using Neural Networks: A Survey**|Alexandru Vasilache et.al.|[2408.00516](http://arxiv.org/abs/2408.00516)|null|
+|**2024-08-01**|**Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion**|Yanchen Li et.al.|[2408.00280](http://arxiv.org/abs/2408.00280)|null|
 |**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
 |**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947](http://arxiv.org/abs/2407.20947)|null|
 |**2024-07-31**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708](http://arxiv.org/abs/2407.20708)|**[link](https://github.com/biclab/spikeyolo)**|
@@ -586,6 +589,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611](http://arxiv.org/abs/2408.00611)|null|
 |**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
 |**2024-07-30**|**Exploring Liquid Neural Networks on Loihi-2**|Wiktoria Agata Pawlak et.al.|[2407.20590](http://arxiv.org/abs/2407.20590)|null|
 |**2024-07-30**|**Neuromorphic on-chip reservoir computing with spiking neural network architectures**|Samip Karki et.al.|[2407.20547](http://arxiv.org/abs/2407.20547)|null|
