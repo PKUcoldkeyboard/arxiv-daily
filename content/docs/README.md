@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-08-04"
+date: "2024-08-05"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-08-04"
+publishdate: "2024-08-05"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -55,6 +55,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**General-purpose Dataflow Model with Neuromorphic Primitives**|Weihao Zhang et.al.|[2408.01090](http://arxiv.org/abs/2408.01090)|null|
 |**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611](http://arxiv.org/abs/2408.00611)|null|
 |**2024-08-01**|**Low-Power Vibration-Based Predictive Maintenance for Industry 4.0 using Neural Networks: A Survey**|Alexandru Vasilache et.al.|[2408.00516](http://arxiv.org/abs/2408.00516)|null|
 |**2024-08-01**|**Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion**|Yanchen Li et.al.|[2408.00280](http://arxiv.org/abs/2408.00280)|null|
@@ -589,6 +590,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**General-purpose Dataflow Model with Neuromorphic Primitives**|Weihao Zhang et.al.|[2408.01090](http://arxiv.org/abs/2408.01090)|null|
 |**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611](http://arxiv.org/abs/2408.00611)|null|
 |**2024-07-31**|**Multiple sliding ferroelectricity of rhombohedral-stacked InSe for reconfigurable photovoltaics and imaging applications**|Qingrong Liang et.al.|[2407.21270](http://arxiv.org/abs/2407.21270)|null|
 |**2024-07-30**|**Exploring Liquid Neural Networks on Loihi-2**|Wiktoria Agata Pawlak et.al.|[2407.20590](http://arxiv.org/abs/2407.20590)|null|
