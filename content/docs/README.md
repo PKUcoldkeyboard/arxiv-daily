@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-08-18"
+date: "2024-08-19"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-08-18"
+publishdate: "2024-08-19"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -56,6 +56,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
+|**2024-08-16**|**Leaky-Integrate-Fire Neuron via Synthetic Antiferromagnetic Coupling and Spin-Orbit Torque**|Badsha Sekh et.al.|[2408.08525](http://arxiv.org/abs/2408.08525)|null|
 |**2024-08-14**|**Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors**|Marwan Besrour et.al.|[2408.07734](http://arxiv.org/abs/2408.07734)|null|
 |**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517](http://arxiv.org/abs/2408.07517)|**[link](https://github.com/IGITUGraz/SE-adlif)**|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388](http://arxiv.org/abs/2408.07388)|null|
@@ -84,7 +86,7 @@ categories: [""]
 |**2024-07-30**|**Exploring Liquid Neural Networks on Loihi-2**|Wiktoria Agata Pawlak et.al.|[2407.20590](http://arxiv.org/abs/2407.20590)|null|
 |**2024-07-30**|**Neuromorphic on-chip reservoir computing with spiking neural network architectures**|Samip Karki et.al.|[2407.20547](http://arxiv.org/abs/2407.20547)|null|
 |**2024-07-30**|**Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies**|Mingkun Xu et.al.|[2407.20508](http://arxiv.org/abs/2407.20508)|null|
-|**2024-07-29**|**Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification**|Yingfu Xu et.al.|[2407.20421](http://arxiv.org/abs/2407.20421)|null|
+|**2024-07-29**|**Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification**|Yingfu Xu et.al.|[2407.20421](http://arxiv.org/abs/2407.20421)|**[link](https://github.com/yingfuxu/ann_vs_snn_evflow)**|
 |**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099](http://arxiv.org/abs/2407.20099)|**[link](https://github.com/KemingWu/RSC-SNN)**|
 |**2024-07-28**|**Rouser: Robust SNN training using adaptive threshold learning**|Sanaz Mahmoodi Takaghaj et.al.|[2407.19566](http://arxiv.org/abs/2407.19566)|null|
 |**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838](http://arxiv.org/abs/2407.18838)|null|
@@ -99,7 +101,7 @@ categories: [""]
 |**2024-07-20**|**Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime**|Xiaoguang Diao et.al.|[2407.14883](http://arxiv.org/abs/2407.14883)|null|
 |**2024-07-19**|**Transformation of Analog to Digital Resistive Switching in Cu Implanted ITO/NiO/Ag Device for Neuromorphic Applications**|Sourav Bhakta et.al.|[2407.14437](http://arxiv.org/abs/2407.14437)|null|
 |**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097](http://arxiv.org/abs/2407.14097)|**[link](https://github.com/AnonymousSquirrel316/FFA_OOD)**|
-|**2024-07-19**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073](http://arxiv.org/abs/2407.14073)|null|
+|**2024-07-19**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073](http://arxiv.org/abs/2407.14073)|**[link](https://github.com/ruokaiyin/loas)**|
 |**2024-07-18**|**Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons**|Gauthier Boeshertz et.al.|[2407.13534](http://arxiv.org/abs/2407.13534)|null|
 |**2024-07-18**|**Neuromorphic Circuit Simulation with Memristors: Design and Evaluation Using MemTorch for MNIST and CIFAR**|Julio Souto et.al.|[2407.13410](http://arxiv.org/abs/2407.13410)|null|
 |**2024-07-18**|**Optical control of multiple resistance levels in graphene for memristic applications**|Harsimran Kaur Mann et.al.|[2407.13387](http://arxiv.org/abs/2407.13387)|null|
@@ -608,6 +610,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Leaky-Integrate-Fire Neuron via Synthetic Antiferromagnetic Coupling and Spin-Orbit Torque**|Badsha Sekh et.al.|[2408.08525](http://arxiv.org/abs/2408.08525)|null|
+|**2024-08-15**|**Photonic KAN: a Kolmogorov-Arnold network inspired efficient photonic neuromorphic architecture**|Yiwei Peng et.al.|[2408.08407](http://arxiv.org/abs/2408.08407)|null|
 |**2024-08-14**|**Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors**|Marwan Besrour et.al.|[2408.07734](http://arxiv.org/abs/2408.07734)|null|
 |**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517](http://arxiv.org/abs/2408.07517)|**[link](https://github.com/IGITUGraz/SE-adlif)**|
 |**2024-08-13**|**The Potential of Combined Learning Strategies to Enhance Energy Efficiency of Spiking Neuromorphic Systems**|Ali Shiri Sichani et.al.|[2408.07150](http://arxiv.org/abs/2408.07150)|null|
@@ -913,6 +917,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|null|
+|**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616](http://arxiv.org/abs/2408.08616)|**[link](https://github.com/hvcl/inr-diffusion)**|
 |**2024-08-12**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486](http://arxiv.org/abs/2408.06486)|null|
 |**2024-08-12**|**Uncertainty-Informed Volume Visualization using Implicit Neural Representation**|Shanu Saklani et.al.|[2408.06018](http://arxiv.org/abs/2408.06018)|null|
 |**2024-08-10**|**Residual-INR: Communication Efficient On-Device Learning Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2408.05617](http://arxiv.org/abs/2408.05617)|**[link](https://github.com/sharc-lab/residual-inr)**|
