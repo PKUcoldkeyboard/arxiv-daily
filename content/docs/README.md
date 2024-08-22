@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-08-21"
+date: "2024-08-22"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-08-21"
+publishdate: "2024-08-22"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -56,6 +56,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Spin-wave assisted synchronization in 2D arrays of spin torque oscillators**|Fangzhou Ai et.al.|[2408.11343](http://arxiv.org/abs/2408.11343)|null|
+|**2024-08-17**|**Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks**|Yongqi Ding et.al.|[2408.11067](http://arxiv.org/abs/2408.11067)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900](http://arxiv.org/abs/2408.10900)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces et.al.|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-18**|**Transient current responses of organic electrochemical transistors by vertical ionic diffusion and electrolyte resistance**|Juan Bisquert et.al.|[2408.09507](http://arxiv.org/abs/2408.09507)|null|
@@ -615,6 +617,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Spin-wave assisted synchronization in 2D arrays of spin torque oscillators**|Fangzhou Ai et.al.|[2408.11343](http://arxiv.org/abs/2408.11343)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces et.al.|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-18**|**Transient current responses of organic electrochemical transistors by vertical ionic diffusion and electrolyte resistance**|Juan Bisquert et.al.|[2408.09507](http://arxiv.org/abs/2408.09507)|null|
 |**2024-08-16**|**Leaky-Integrate-Fire Neuron via Synthetic Antiferromagnetic Coupling and Spin-Orbit Torque**|Badsha Sekh et.al.|[2408.08525](http://arxiv.org/abs/2408.08525)|null|
@@ -927,7 +930,7 @@ categories: [""]
 |**2024-08-20**|**Manifold Transform by Recurrent Cortical Circuit Enhances Robust Encoding of Familiar Stimuli**|Weifan Wang et.al.|[2408.10873](http://arxiv.org/abs/2408.10873)|null|
 |**2024-08-19**|**Neural Representation of Shape-Dependent Laplacian Eigenfunctions**|Yue Chang et.al.|[2408.10099](http://arxiv.org/abs/2408.10099)|null|
 |**2024-08-17**|**Cognitive LLMs: Towards Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**|Siyu Wu et.al.|[2408.09176](http://arxiv.org/abs/2408.09176)|null|
-|**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|null|
+|**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|**[link](https://github.com/florentinbieder/neonatal-development-inr)**|
 |**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616](http://arxiv.org/abs/2408.08616)|**[link](https://github.com/hvcl/inr-diffusion)**|
 |**2024-08-12**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486](http://arxiv.org/abs/2408.06486)|null|
 |**2024-08-12**|**Uncertainty-Informed Volume Visualization using Implicit Neural Representation**|Shanu Saklani et.al.|[2408.06018](http://arxiv.org/abs/2408.06018)|null|
