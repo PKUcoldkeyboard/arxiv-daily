@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-08-22"
+date: "2024-08-23"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-08-22"
+publishdate: "2024-08-23"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -19,6 +19,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Topological Representational Similarity Analysis in Brains and Beyond**|Baihan Lin et.al.|[2408.11948](http://arxiv.org/abs/2408.11948)|null|
+|**2024-08-21**|**HDN:Hybrid Deep-learning and Non-line-of-sight Reconstruction Framework for Photoacoustic Brain Imaging**|Pengcheng Wan et.al.|[2408.11885](http://arxiv.org/abs/2408.11885)|null|
 |**2024-08-10**|**IVISIT: An Interactive Visual Simulation Tool for system simulation, visualization, optimization, and parameter management**|Andreas Knoblauch et.al.|[2408.03341](http://arxiv.org/abs/2408.03341)|null|
 |**2024-06-17**|**Brain Dialogue Interface (BDI): A User-Friendly fMRI Model for Interactive Brain Decoding**|Heng Huang et.al.|[2407.09509](http://arxiv.org/abs/2407.09509)|null|
 |**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
@@ -56,6 +58,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Adaptive Spiking Neural Networks with Hybrid Coding**|Huaxu He et.al.|[2408.12407](http://arxiv.org/abs/2408.12407)|**[link](https://github.com/hhx0320/asnn)**|
+|**2024-08-22**|**AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network**|Donghwa Kang et.al.|[2408.12293](http://arxiv.org/abs/2408.12293)|null|
+|**2024-08-22**|**Perpendicular-anisotropy artificial spin ice with spontaneous ordering: a platform for neuromorphic computing with flexible timescales**|Aleksandr Kurenkov et.al.|[2408.12182](http://arxiv.org/abs/2408.12182)|null|
 |**2024-08-21**|**Spin-wave assisted synchronization in 2D arrays of spin torque oscillators**|Fangzhou Ai et.al.|[2408.11343](http://arxiv.org/abs/2408.11343)|null|
 |**2024-08-17**|**Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks**|Yongqi Ding et.al.|[2408.11067](http://arxiv.org/abs/2408.11067)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900](http://arxiv.org/abs/2408.10900)|null|
@@ -617,6 +622,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Perpendicular-anisotropy artificial spin ice with spontaneous ordering: a platform for neuromorphic computing with flexible timescales**|Aleksandr Kurenkov et.al.|[2408.12182](http://arxiv.org/abs/2408.12182)|null|
 |**2024-08-21**|**Spin-wave assisted synchronization in 2D arrays of spin torque oscillators**|Fangzhou Ai et.al.|[2408.11343](http://arxiv.org/abs/2408.11343)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces et.al.|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-18**|**Transient current responses of organic electrochemical transistors by vertical ionic diffusion and electrolyte resistance**|Juan Bisquert et.al.|[2408.09507](http://arxiv.org/abs/2408.09507)|null|
@@ -927,6 +933,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Topological Representational Similarity Analysis in Brains and Beyond**|Baihan Lin et.al.|[2408.11948](http://arxiv.org/abs/2408.11948)|null|
 |**2024-08-20**|**Manifold Transform by Recurrent Cortical Circuit Enhances Robust Encoding of Familiar Stimuli**|Weifan Wang et.al.|[2408.10873](http://arxiv.org/abs/2408.10873)|null|
 |**2024-08-19**|**Neural Representation of Shape-Dependent Laplacian Eigenfunctions**|Yue Chang et.al.|[2408.10099](http://arxiv.org/abs/2408.10099)|null|
 |**2024-08-17**|**Cognitive LLMs: Towards Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**|Siyu Wu et.al.|[2408.09176](http://arxiv.org/abs/2408.09176)|null|
@@ -1346,6 +1353,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**HDN:Hybrid Deep-learning and Non-line-of-sight Reconstruction Framework for Photoacoustic Brain Imaging**|Pengcheng Wan et.al.|[2408.11885](http://arxiv.org/abs/2408.11885)|null|
 |**2024-06-17**|**Brain Dialogue Interface (BDI): A User-Friendly fMRI Model for Interactive Brain Decoding**|Heng Huang et.al.|[2407.09509](http://arxiv.org/abs/2407.09509)|null|
 |**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
