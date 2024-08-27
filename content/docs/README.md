@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-08-26"
+date: "2024-08-27"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-08-26"
+publishdate: "2024-08-27"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -58,6 +58,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437](http://arxiv.org/abs/2408.14437)|null|
+|**2024-08-26**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996](http://arxiv.org/abs/2408.13996)|null|
+|**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379](http://arxiv.org/abs/2408.13379)|null|
 |**2024-08-23**|**Towards Neuromorphic Processing for Next-Generation MU-MIMO Detection**|G. N. Katsaros et.al.|[2408.13128](http://arxiv.org/abs/2408.13128)|null|
 |**2024-08-23**|**Robust Iterative Value Conversion: Deep Reinforcement Learning for Neurochip-driven Edge Robots**|Yuki Kadokawa et.al.|[2408.13018](http://arxiv.org/abs/2408.13018)|null|
 |**2024-08-22**|**When In-memory Computing Meets Spiking Neural Networks -- A Perspective on Device-Circuit-System-and-Algorithm Co-design**|Abhishek Moitra et.al.|[2408.12767](http://arxiv.org/abs/2408.12767)|null|
@@ -625,6 +628,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437](http://arxiv.org/abs/2408.14437)|null|
 |**2024-08-23**|**Towards Neuromorphic Processing for Next-Generation MU-MIMO Detection**|G. N. Katsaros et.al.|[2408.13128](http://arxiv.org/abs/2408.13128)|null|
 |**2024-08-22**|**Perpendicular-anisotropy artificial spin ice with spontaneous ordering: a platform for neuromorphic computing with flexible timescales**|Aleksandr Kurenkov et.al.|[2408.12182](http://arxiv.org/abs/2408.12182)|null|
 |**2024-08-21**|**Spin-wave assisted synchronization in 2D arrays of spin torque oscillators**|Fangzhou Ai et.al.|[2408.11343](http://arxiv.org/abs/2408.11343)|null|
@@ -937,6 +941,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-25**|**FreqINR: Frequency Consistency for Implicit Neural Representation with Adaptive DCT Frequency Loss**|Meiyi Wei et.al.|[2408.13716](http://arxiv.org/abs/2408.13716)|null|
 |**2024-08-21**|**Topological Representational Similarity Analysis in Brains and Beyond**|Baihan Lin et.al.|[2408.11948](http://arxiv.org/abs/2408.11948)|null|
 |**2024-08-20**|**Manifold Transform by Recurrent Cortical Circuit Enhances Robust Encoding of Familiar Stimuli**|Weifan Wang et.al.|[2408.10873](http://arxiv.org/abs/2408.10873)|null|
 |**2024-08-19**|**Neural Representation of Shape-Dependent Laplacian Eigenfunctions**|Yue Chang et.al.|[2408.10099](http://arxiv.org/abs/2408.10099)|null|
@@ -1450,7 +1455,7 @@ categories: [""]
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
-|**2024-06-25**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
+|**2024-08-26**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
 |**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
 |**2024-07-31**|**Understanding GPU Triggering APIs for MPI+X Communication**|Patrick G. Bridges et.al.|[2406.05594](http://arxiv.org/abs/2406.05594)|null|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
@@ -1497,7 +1502,7 @@ categories: [""]
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
 |**2024-07-08**|**High-order accurate entropy stable schemes for compressible Euler equations with van der Waals equation of state on adaptive moving meshes**|Shangting Li et.al.|[2407.05568](http://arxiv.org/abs/2407.05568)|null|
 |**2024-06-26**|**Composing Distributed Computations Through Task and Kernel Fusion**|Rohan Yadav et.al.|[2406.18109](http://arxiv.org/abs/2406.18109)|null|
-|**2024-06-25**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
+|**2024-08-26**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
 |**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
