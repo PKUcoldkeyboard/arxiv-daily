@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-08-28"
+date: "2024-08-29"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-08-28"
+publishdate: "2024-08-29"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -58,10 +58,12 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks**|Xiao Li et.al.|[2408.15663](http://arxiv.org/abs/2408.15663)|null|
+|**2024-08-28**|**FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture**|Tenglong Li et.al.|[2408.15578](http://arxiv.org/abs/2408.15578)|null|
 |**2024-08-27**|**PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing**|Xinyi Chen et.al.|[2408.14917](http://arxiv.org/abs/2408.14917)|null|
 |**2024-08-27**|**SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models**|Shuaijie Shen et.al.|[2408.14909](http://arxiv.org/abs/2408.14909)|null|
 |**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437](http://arxiv.org/abs/2408.14437)|null|
-|**2024-08-26**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996](http://arxiv.org/abs/2408.13996)|null|
+|**2024-08-28**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996](http://arxiv.org/abs/2408.13996)|null|
 |**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379](http://arxiv.org/abs/2408.13379)|null|
 |**2024-08-23**|**Towards Neuromorphic Processing for Next-Generation MU-MIMO Detection**|G. N. Katsaros et.al.|[2408.13128](http://arxiv.org/abs/2408.13128)|null|
 |**2024-08-23**|**Robust Iterative Value Conversion: Deep Reinforcement Learning for Neurochip-driven Edge Robots**|Yuki Kadokawa et.al.|[2408.13018](http://arxiv.org/abs/2408.13018)|null|
@@ -630,6 +632,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Emulating Brain-like Rapid Learning in Neuromorphic Edge Computing**|Kenneth Stewart et.al.|[2408.15800](http://arxiv.org/abs/2408.15800)|**[link](https://github.com/nmi-lab/snn_maml)**|
 |**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437](http://arxiv.org/abs/2408.14437)|null|
 |**2024-08-23**|**Towards Neuromorphic Processing for Next-Generation MU-MIMO Detection**|G. N. Katsaros et.al.|[2408.13128](http://arxiv.org/abs/2408.13128)|null|
 |**2024-08-22**|**Perpendicular-anisotropy artificial spin ice with spontaneous ordering: a platform for neuromorphic computing with flexible timescales**|Aleksandr Kurenkov et.al.|[2408.12182](http://arxiv.org/abs/2408.12182)|null|
@@ -943,6 +946,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Implicit Regularization Paths of Weighted Neural Representations**|Jin-Hong Du et.al.|[2408.15784](http://arxiv.org/abs/2408.15784)|null|
+|**2024-08-20**|**NeR-VCP: A Video Content Protection Method Based on Implicit Neural Representation**|Yangping Lin et.al.|[2408.15281](http://arxiv.org/abs/2408.15281)|null|
 |**2024-08-27**|**Few-Shot Unsupervised Implicit Neural Shape Representation Learning with Spatial Adversaries**|Amine Ouasfi et.al.|[2408.15114](http://arxiv.org/abs/2408.15114)|null|
 |**2024-08-27**|**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**|Ran Yu et.al.|[2408.14997](http://arxiv.org/abs/2408.14997)|null|
 |**2024-08-27**|**OctFusion: Octree-based Diffusion Models for 3D Shape Generation**|Bojun Xiong et.al.|[2408.14732](http://arxiv.org/abs/2408.14732)|**[link](https://github.com/octree-nn/octfusion)**|
@@ -1454,6 +1459,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**A parallel particle cluster algorithm using nearest neighbour graphs and passive target communication**|Matthias Frey et.al.|[2408.15348](http://arxiv.org/abs/2408.15348)|null|
 |**2024-08-13**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
 |**2024-07-29**|**Enabling Message Passing Interface Containers on the LUMI Supercomputer**|Alfio Lazzaro et.al.|[2407.19928](http://arxiv.org/abs/2407.19928)|null|
 |**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
@@ -1499,6 +1505,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**A parallel particle cluster algorithm using nearest neighbour graphs and passive target communication**|Matthias Frey et.al.|[2408.15348](http://arxiv.org/abs/2408.15348)|null|
 |**2024-08-13**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
 |**2024-07-29**|**Enabling Message Passing Interface Containers on the LUMI Supercomputer**|Alfio Lazzaro et.al.|[2407.19928](http://arxiv.org/abs/2407.19928)|null|
 |**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
