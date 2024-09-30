@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-09-29"
+date: "2024-09-30"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-09-29"
+publishdate: "2024-09-30"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -61,6 +61,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396](http://arxiv.org/abs/2409.18396)|null|
+|**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
 |**2024-09-26**|**Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics**|Cornelia Sheeran et.al.|[2409.17693](http://arxiv.org/abs/2409.17693)|null|
 |**2024-09-24**|**Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization**|Lucas Deckers et.al.|[2409.15849](http://arxiv.org/abs/2409.15849)|null|
 |**2024-09-24**|**Data Poisoning-based Backdoor Attack Framework against Supervised Learning Rules of Spiking Neural Networks**|Lingxin Jin et.al.|[2409.15670](http://arxiv.org/abs/2409.15670)|null|
@@ -89,7 +91,7 @@ categories: [""]
 |**2024-09-09**|**SpikingRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2409.05610](http://arxiv.org/abs/2409.05610)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386](http://arxiv.org/abs/2409.05386)|null|
 |**2024-09-08**|**Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks**|Hanqi Chen et.al.|[2409.04978](http://arxiv.org/abs/2409.04978)|**[link](https://github.com/chrazqee/mpe-psn)**|
-|**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|null|
+|**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|**[link](https://github.com/neurogeometry/sparse_learning)**|
 |**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428](http://arxiv.org/abs/2409.04428)|null|
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154](http://arxiv.org/abs/2409.04154)|null|
 |**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082](http://arxiv.org/abs/2409.04082)|**[link](https://github.com/yitian97/SDformerFlow)**|
@@ -684,6 +686,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
 |**2024-09-20**|**DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention**|Boxun Xu et.al.|[2409.15375](http://arxiv.org/abs/2409.15375)|null|
 |**2024-09-23**|**Learning in memristive electrical circuits**|Marieke Heidema et.al.|[2409.15136](http://arxiv.org/abs/2409.15136)|null|
 |**2024-09-23**|**A Diagonal Structured State Space Model on Loihi 2 for Efficient Streaming Sequence Processing**|Svea Marie Meyer et.al.|[2409.15022](http://arxiv.org/abs/2409.15022)|null|
@@ -1024,6 +1027,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
+|**2024-09-27**|**AM-MTEEG: Multi-task EEG classification based on impulsive associative memory**|Junyan Li et.al.|[2409.18375](http://arxiv.org/abs/2409.18375)|null|
+|**2024-09-26**|**PNR: Physics-informed Neural Representation for high-resolution LFM reconstruction**|Jiayin Zhao et.al.|[2409.18223](http://arxiv.org/abs/2409.18223)|null|
 |**2024-09-25**|**Implicit Neural Representations for Simultaneous Reduction and Continuous Reconstruction of Multi-Altitude Climate Data**|Alif Bin Abdul Qayyum et.al.|[2409.17367](http://arxiv.org/abs/2409.17367)|**[link](https://github.com/alifbinabdulqayyum/multi-altitude-inn)**|
 |**2024-09-25**|**Streaming Neural Images**|Marcos V. Conde et.al.|[2409.17134](http://arxiv.org/abs/2409.17134)|null|
 |**2024-09-25**|**Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation**|Qing Wu et.al.|[2409.16921](http://arxiv.org/abs/2409.16921)|null|
@@ -1077,7 +1083,7 @@ categories: [""]
 |**2024-08-08**|**Eliminating Backdoors in Neural Code Models via Trigger Inversion**|Weisong Sun et.al.|[2408.04683](http://arxiv.org/abs/2408.04683)|null|
 |**2024-08-08**|**Towards Linguistic Neural Representation Learning and Sentence Retrieval from Electroencephalogram Recordings**|Jinzhao Zhou et.al.|[2408.04679](http://arxiv.org/abs/2408.04679)|null|
 |**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|**[link](https://github.com/v587su/FDI)**|
-|**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|null|
+|**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|**[link](https://github.com/Felixduelmer/phocus)**|
 |**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
 |**2024-07-31**|**HINER: Neural Representation for Hyperspectral Image**|Junqi Shi et.al.|[2407.21395](http://arxiv.org/abs/2407.21395)|**[link](https://github.com/eric-qi/hiner)**|
 |**2024-07-30**|**Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging**|Simone Garzia et.al.|[2407.20728](http://arxiv.org/abs/2407.20728)|null|
