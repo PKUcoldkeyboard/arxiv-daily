@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-10-03"
+date: "2024-10-04"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-10-03"
+publishdate: "2024-10-04"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -61,6 +61,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Laser induced transition in Cerium Oxide thin film**|Mousri Paul et.al.|[2410.02517](http://arxiv.org/abs/2410.02517)|null|
+|**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
+|**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249](http://arxiv.org/abs/2410.02249)|null|
 |**2024-10-01**|**An Intrinsically Knowledge-Transferring Developmental Spiking Neural Network for Tactile Classification**|Jiaqi Xing et.al.|[2410.00745](http://arxiv.org/abs/2410.00745)|null|
 |**2024-10-01**|**Deep activity propagation via weight initialization in spiking neural networks**|Aurora Micheli et.al.|[2410.00580](http://arxiv.org/abs/2410.00580)|null|
 |**2024-10-01**|**NeuroVM: Dynamic Neuromorphic Hardware Virtualization**|Murat Isik et.al.|[2410.00295](http://arxiv.org/abs/2410.00295)|null|
@@ -691,6 +694,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Laser induced transition in Cerium Oxide thin film**|Mousri Paul et.al.|[2410.02517](http://arxiv.org/abs/2410.02517)|null|
+|**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
 |**2024-10-01**|**Deep activity propagation via weight initialization in spiking neural networks**|Aurora Micheli et.al.|[2410.00580](http://arxiv.org/abs/2410.00580)|null|
 |**2024-10-01**|**NeuroVM: Dynamic Neuromorphic Hardware Virtualization**|Murat Isik et.al.|[2410.00295](http://arxiv.org/abs/2410.00295)|null|
 |**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
@@ -1034,7 +1039,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-02**|**Unleashing Parameter Potential of Neural Representation for Efficient Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
+|**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
 |**2024-10-02**|**Coordinate-Based Neural Representation Enabling Zero-Shot Learning for 3D Multiparametric Quantitative MRI**|Guoyan Lao et.al.|[2410.01577](http://arxiv.org/abs/2410.01577)|null|
 |**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
 |**2024-10-01**|**Modeling Neural Switching via Drift-Diffusion Models**|Nicholas Marco et.al.|[2410.00781](http://arxiv.org/abs/2410.00781)|null|
