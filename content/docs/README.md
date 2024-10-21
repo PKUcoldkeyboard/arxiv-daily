@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-10-20"
+date: "2024-10-21"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-10-20"
+publishdate: "2024-10-21"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -19,7 +19,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|null|
+|**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
 |**2024-09-19**|**Model calibration using a parallel differential evolution algorithm in computational neuroscience: simulation of stretch induced nerve deficit**|Antonio LaTorre et.al.|[2409.12567](http://arxiv.org/abs/2409.12567)|null|
 |**2024-09-12**|**A White-Box Deep-Learning Method for Electrical Energy System Modeling Based on Kolmogorov-Arnold Network**|Zhenghao Zhou et.al.|[2409.08044](http://arxiv.org/abs/2409.08044)|null|
@@ -292,7 +292,7 @@ categories: [""]
 |**2024-05-28**|**Mutual Information Analysis of Neuromorphic Coding for Distributed Wireless Spiking Neural Networks**|Pietro Savazzi et.al.|[2405.18019](http://arxiv.org/abs/2405.18019)|null|
 |**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|**[link](https://github.com/GuoLab-UESTC/MMHT)**|
 |**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851](http://arxiv.org/abs/2405.16851)|**[link](https://github.com/pkuxmq/grsnn)**|
-|**2024-05-26**|**High-Performance Temporal Reversible Spiking Neural Networks with $O(L)$ Training Memory and $O(1)$ Inference Cost**|JiaKui Hu et.al.|[2405.16466](http://arxiv.org/abs/2405.16466)|null|
+|**2024-05-26**|**High-Performance Temporal Reversible Spiking Neural Networks with $O(L)$ Training Memory and $O(1)$ Inference Cost**|JiaKui Hu et.al.|[2405.16466](http://arxiv.org/abs/2405.16466)|**[link](https://github.com/biclab/t-revsnn)**|
 |**2024-05-25**|**Spiking Neural Network Phase Encoding for Cognitive Computing**|Lei Zhang et.al.|[2405.16023](http://arxiv.org/abs/2405.16023)|null|
 |**2024-05-24**|**Neuromorphic dreaming: A pathway to efficient learning in artificial agents**|Ingo Blakowski et.al.|[2405.15616](http://arxiv.org/abs/2405.15616)|**[link](https://github.com/blakeyy/neuromorphic_dreaming)**|
 |**2024-05-24**|**A generalized neural tangent kernel for surrogate gradient learning**|Luke Eilers et.al.|[2405.15539](http://arxiv.org/abs/2405.15539)|null|
@@ -1061,6 +1061,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Convergence of Manifold Filter-Combine Networks**|David R. Johnson et.al.|[2410.14639](http://arxiv.org/abs/2410.14639)|**[link](https://github.com/dj408/mfcn)**|
 |**2024-10-17**|**Artificial Kuramoto Oscillatory Neurons**|Takeru Miyato et.al.|[2410.13821](http://arxiv.org/abs/2410.13821)|**[link](https://github.com/autonomousvision/akorn)**|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465](http://arxiv.org/abs/2410.13465)|null|
 |**2024-10-17**|**Inductive Gradient Adjustment For Spectral Bias In Implicit Neural Representations**|Kexuan Shi et.al.|[2410.13271](http://arxiv.org/abs/2410.13271)|null|
@@ -1643,7 +1644,7 @@ categories: [""]
 |**2024-09-20**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|null|
 |**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294](http://arxiv.org/abs/2409.02294)|null|
 |**2024-08-27**|**A parallel particle cluster algorithm using nearest neighbour graphs and passive target communication**|Matthias Frey et.al.|[2408.15348](http://arxiv.org/abs/2408.15348)|null|
-|**2024-08-13**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
+|**2024-10-18**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
 |**2024-07-29**|**Enabling Message Passing Interface Containers on the LUMI Supercomputer**|Alfio Lazzaro et.al.|[2407.19928](http://arxiv.org/abs/2407.19928)|null|
 |**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
@@ -1693,7 +1694,7 @@ categories: [""]
 |**2024-09-04**|**Accelerating Large Language Model Training with Hybrid GPU-based Compression**|Lang Xu et.al.|[2409.02423](http://arxiv.org/abs/2409.02423)|null|
 |**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294](http://arxiv.org/abs/2409.02294)|null|
 |**2024-08-27**|**A parallel particle cluster algorithm using nearest neighbour graphs and passive target communication**|Matthias Frey et.al.|[2408.15348](http://arxiv.org/abs/2408.15348)|null|
-|**2024-08-13**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
+|**2024-10-18**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
 |**2024-07-29**|**Enabling Message Passing Interface Containers on the LUMI Supercomputer**|Alfio Lazzaro et.al.|[2407.19928](http://arxiv.org/abs/2407.19928)|null|
 |**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
