@@ -1,4 +1,4 @@
-baseURL = 'https://cuterwrite.top/arxiv-daily'
+baseURL = 'https://arxiv.cuterwrite.top'
 languageCode = 'zh-cn'
 title = 'Arxiv 每日推送'
 enableEmoji = true
