@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Arxiv 每日推送</title>
-    <link>https://cuterwrite.top/arxiv-daily/categories/</link>
+    <link>https://arxiv.cuterwrite.top/categories/</link>
     <description>Recent content in Categories on Arxiv 每日推送</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://cuterwrite.top/arxiv-daily/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://arxiv.cuterwrite.top/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
