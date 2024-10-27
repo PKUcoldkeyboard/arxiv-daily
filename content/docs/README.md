@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-10-26"
+date: "2024-10-27"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-10-26"
+publishdate: "2024-10-27"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.10.26
+## Updated on 2024.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -65,7 +65,7 @@ categories: [""]
 |**2024-10-24**|**Spatial-Temporal Search for Spiking Neural Networks**|Kaiwei Che et.al.|[2410.18580](http://arxiv.org/abs/2410.18580)|null|
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066](http://arxiv.org/abs/2410.17066)|null|
 |**2024-10-22**|**Neuromorphic information processing using ultrafast heat dynamics and quench switching of an antiferromagnet**|Jan Zubáč et.al.|[2410.16909](http://arxiv.org/abs/2410.16909)|null|
-|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746](http://arxiv.org/abs/2410.16746)|null|
+|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746](http://arxiv.org/abs/2410.16746)|**[link](https://github.com/typistchen/spikmamba)**|
 |**2024-10-22**|**Real-time Sub-milliwatt Epilepsy Detection Implemented on a Spiking Neural Network Edge Inference Processor**|Ruixin Lia et.al.|[2410.16613](http://arxiv.org/abs/2410.16613)|null|
 |**2024-10-21**|**Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition**|Wei Xie et.al.|[2410.16524](http://arxiv.org/abs/2410.16524)|**[link](https://github.com/wxie2013/gdfree-supervised-snn-mnist)**|
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175](http://arxiv.org/abs/2410.16175)|null|
