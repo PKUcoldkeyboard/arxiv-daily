@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-10-27"
+date: "2024-10-28"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-10-27"
+publishdate: "2024-10-28"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -62,6 +62,11 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**An Ultra-low-loss Compact Phase-Change Material-based Hybrid-mode Interferometer for Photonic Memories**|Ranjeet Dwivedi et.al.|[2410.19587](http://arxiv.org/abs/2410.19587)|null|
+|**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
+|**2024-10-25**|**Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing**|Tommaso Boccato et.al.|[2410.19403](http://arxiv.org/abs/2410.19403)|null|
+|**2024-10-25**|**A prescriptive theory for brain-like inference**|Hadi Vafaii et.al.|[2410.19315](http://arxiv.org/abs/2410.19315)|null|
+|**2024-10-25**|**Tunneling current-controlled spin states in few-layer van der Waals magnets**|ZhuangEn Fu et.al.|[2410.19255](http://arxiv.org/abs/2410.19255)|null|
 |**2024-10-24**|**Spatial-Temporal Search for Spiking Neural Networks**|Kaiwei Che et.al.|[2410.18580](http://arxiv.org/abs/2410.18580)|null|
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066](http://arxiv.org/abs/2410.17066)|null|
 |**2024-10-22**|**Neuromorphic information processing using ultrafast heat dynamics and quench switching of an antiferromagnet**|Jan Zubáč et.al.|[2410.16909](http://arxiv.org/abs/2410.16909)|null|
@@ -719,6 +724,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**An Ultra-low-loss Compact Phase-Change Material-based Hybrid-mode Interferometer for Photonic Memories**|Ranjeet Dwivedi et.al.|[2410.19587](http://arxiv.org/abs/2410.19587)|null|
+|**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
+|**2024-10-25**|**Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing**|Tommaso Boccato et.al.|[2410.19403](http://arxiv.org/abs/2410.19403)|null|
+|**2024-10-25**|**Tunneling current-controlled spin states in few-layer van der Waals magnets**|ZhuangEn Fu et.al.|[2410.19255](http://arxiv.org/abs/2410.19255)|null|
 |**2024-10-22**|**On the Sampling Sparsity of Neuromorphic Analog-to-Spike Conversion based on Leaky Integrate-and-Fire**|Bernhard A. Moser et.al.|[2410.17441](http://arxiv.org/abs/2410.17441)|null|
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066](http://arxiv.org/abs/2410.17066)|null|
 |**2024-10-22**|**High-Order Associative Learning Based on Memristive Circuits for Efficient Learning**|Shengbo Wang et.al.|[2410.16734](http://arxiv.org/abs/2410.16734)|null|
@@ -1077,6 +1086,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**ST-NeRP: Spatial-Temporal Neural Representation Learning with Prior Embedding for Patient-specific Imaging Study**|Liang Qiu et.al.|[2410.19283](http://arxiv.org/abs/2410.19283)|null|
 |**2024-10-24**|**Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions**|Antonio D'Orazio et.al.|[2410.18622](http://arxiv.org/abs/2410.18622)|null|
 |**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464](http://arxiv.org/abs/2410.17464)|**[link](https://github.com/aliaaz99/SIGL)**|
 |**2024-10-22**|**Klein Model for Hyperbolic Neural Networks**|Yidan Mao et.al.|[2410.16813](http://arxiv.org/abs/2410.16813)|null|
@@ -1350,7 +1360,7 @@ categories: [""]
 |**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
 |**2024-02-13**|**RBF-PINN: Non-Fourier Positional Embedding in Physics-Informed Neural Networks**|Chengxi Zeng et.al.|[2402.08367](http://arxiv.org/abs/2402.08367)|**[link](https://github.com/SimonZeng7108/RBF-PINN)**|
 |**2024-02-13**|**Pix2Code: Learning to Compose Neural Visual Concepts as Programs**|Antonia Wüst et.al.|[2402.08280](http://arxiv.org/abs/2402.08280)|**[link](https://github.com/ml-research/pix2code)**|
-|**2024-02-10**|**Training dynamics in Physics-Informed Neural Networks with feature mapping**|Chengxi Zeng et.al.|[2402.06955](http://arxiv.org/abs/2402.06955)|null|
+|**2024-02-10**|**Training dynamics in Physics-Informed Neural Networks with feature mapping**|Chengxi Zeng et.al.|[2402.06955](http://arxiv.org/abs/2402.06955)|**[link](https://github.com/SimonZeng7108/RBF-PINN)**|
 |**2024-02-05**|**Hybrid Neural Representations for Spherical Data**|Hyomin Kim et.al.|[2402.05965](http://arxiv.org/abs/2402.05965)|null|
 |**2024-02-08**|**Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**|Onur G. Guleryuz et.al.|[2402.05887](http://arxiv.org/abs/2402.05887)|**[link](https://github.com/google/sandwiched_compression)**|
 |**2024-02-08**|**FuncGrasp: Learning Object-Centric Neural Grasp Functions from Single Annotated Example Object**|Hanzhi Chen et.al.|[2402.05644](http://arxiv.org/abs/2402.05644)|null|
