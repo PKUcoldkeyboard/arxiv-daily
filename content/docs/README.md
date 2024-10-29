@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-10-28"
+date: "2024-10-29"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-10-28"
+publishdate: "2024-10-29"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -62,6 +62,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Coevolutionary Control of a Neuromorphic Network through a Mixed-Feedback Architecture**|Luis Guillermo Venegas-Pineda et.al.|[2410.19857](http://arxiv.org/abs/2410.19857)|null|
 |**2024-10-25**|**An Ultra-low-loss Compact Phase-Change Material-based Hybrid-mode Interferometer for Photonic Memories**|Ranjeet Dwivedi et.al.|[2410.19587](http://arxiv.org/abs/2410.19587)|null|
 |**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
 |**2024-10-25**|**Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing**|Tommaso Boccato et.al.|[2410.19403](http://arxiv.org/abs/2410.19403)|null|
@@ -724,6 +725,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Coevolutionary Control of a Neuromorphic Network through a Mixed-Feedback Architecture**|Luis Guillermo Venegas-Pineda et.al.|[2410.19857](http://arxiv.org/abs/2410.19857)|null|
 |**2024-10-25**|**An Ultra-low-loss Compact Phase-Change Material-based Hybrid-mode Interferometer for Photonic Memories**|Ranjeet Dwivedi et.al.|[2410.19587](http://arxiv.org/abs/2410.19587)|null|
 |**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
 |**2024-10-25**|**Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing**|Tommaso Boccato et.al.|[2410.19403](http://arxiv.org/abs/2410.19403)|null|
@@ -1086,6 +1088,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|null|
+|**2024-10-26**|**CodePurify: Defend Backdoor Attacks on Neural Code Models via Entropy-based Purification**|Fangwen Mu et.al.|[2410.20136](http://arxiv.org/abs/2410.20136)|null|
 |**2024-10-25**|**ST-NeRP: Spatial-Temporal Neural Representation Learning with Prior Embedding for Patient-specific Imaging Study**|Liang Qiu et.al.|[2410.19283](http://arxiv.org/abs/2410.19283)|null|
 |**2024-10-24**|**Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions**|Antonio D'Orazio et.al.|[2410.18622](http://arxiv.org/abs/2410.18622)|null|
 |**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464](http://arxiv.org/abs/2410.17464)|**[link](https://github.com/aliaaz99/SIGL)**|
