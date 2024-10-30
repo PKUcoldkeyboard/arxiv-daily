@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-10-29"
+date: "2024-10-30"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-10-29"
+publishdate: "2024-10-30"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1088,6 +1088,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Neural network representation of microflows with BGK model**|Pei Zhang et.al.|[2410.21935](http://arxiv.org/abs/2410.21935)|null|
+|**2024-10-29**|**Predicting the Encoding Error of SIRENs**|Jeremy Vonderfecht et.al.|[2410.21645](http://arxiv.org/abs/2410.21645)|null|
+|**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643](http://arxiv.org/abs/2410.21643)|null|
 |**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|null|
 |**2024-10-26**|**CodePurify: Defend Backdoor Attacks on Neural Code Models via Entropy-based Purification**|Fangwen Mu et.al.|[2410.20136](http://arxiv.org/abs/2410.20136)|null|
 |**2024-10-25**|**ST-NeRP: Spatial-Temporal Neural Representation Learning with Prior Embedding for Patient-specific Imaging Study**|Liang Qiu et.al.|[2410.19283](http://arxiv.org/abs/2410.19283)|null|
