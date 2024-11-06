@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-11-05"
+date: "2024-11-06"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-11-05"
+publishdate: "2024-11-06"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -62,6 +62,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras**|Roberto Riaño et.al.|[2411.03022](http://arxiv.org/abs/2411.03022)|null|
+|**2024-11-05**|**Dynamic switching of ferrocene and plasmonic interactions in Au/self-assembled monolayer/single Ag nanocube molecular junctions**|Mariem Ben Youssef et.al.|[2411.02927](http://arxiv.org/abs/2411.02927)|null|
+|**2024-11-05**|**SpiDR: A Reconfigurable Digital Compute-in-Memory Spiking Neural Network Accelerator for Event-based Perception**|Deepika Sharma et.al.|[2411.02854](http://arxiv.org/abs/2411.02854)|null|
 |**2024-11-04**|**Braided interferometer mesh for robust photonic matrix-vector multiplications with non-ideal components**|Federico Marchesin et.al.|[2411.02243](http://arxiv.org/abs/2411.02243)|null|
 |**2024-11-03**|**Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons**|Asmer Hamid Ali et.al.|[2411.01628](http://arxiv.org/abs/2411.01628)|null|
 |**2024-11-01**|**Differentiable architecture search with multi-dimensional attention for spiking neural networks**|Yilei Man et.al.|[2411.00902](http://arxiv.org/abs/2411.00902)|null|
@@ -738,6 +741,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Dynamic switching of ferrocene and plasmonic interactions in Au/self-assembled monolayer/single Ag nanocube molecular junctions**|Mariem Ben Youssef et.al.|[2411.02927](http://arxiv.org/abs/2411.02927)|null|
 |**2024-11-04**|**Braided interferometer mesh for robust photonic matrix-vector multiplications with non-ideal components**|Federico Marchesin et.al.|[2411.02243](http://arxiv.org/abs/2411.02243)|null|
 |**2024-10-31**|**Injection locking in DC-driven spintronic vortex oscillators via surface acoustic wave modulation**|R. Moukhader et.al.|[2410.24045](http://arxiv.org/abs/2410.24045)|null|
 |**2024-10-31**|**Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins**|Chen Shang et.al.|[2410.23639](http://arxiv.org/abs/2410.23639)|null|
@@ -1106,7 +1110,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-04**|**Learning predictable and robust neural representations by straightening image sequences**|Xueyan Niu et.al.|[2411.01777](http://arxiv.org/abs/2411.01777)|null|
+|**2024-11-04**|**Learning predictable and robust neural representations by straightening image sequences**|Xueyan Niu et.al.|[2411.01777](http://arxiv.org/abs/2411.01777)|**[link](https://github.com/xyniu1/learning-by-straightening)**|
 |**2024-11-03**|**DreamPolish: Domain Score Distillation With Progressive Geometry Generation**|Yean Cheng et.al.|[2411.01602](http://arxiv.org/abs/2411.01602)|null|
 |**2024-10-31**|**Graph Neural Networks Uncover Geometric Neural Representations in Reinforcement-Based Motor Learning**|Federico Nardi et.al.|[2410.23812](http://arxiv.org/abs/2410.23812)|null|
 |**2024-10-31**|**MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction**|Ziqi Gao et.al.|[2410.23577](http://arxiv.org/abs/2410.23577)|**[link](https://github.com/z7gao/msglance)**|
@@ -1752,6 +1756,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Configurable Non-uniform All-to-all Algorithms**|Ke Fan et.al.|[2411.02581](http://arxiv.org/abs/2411.02581)|null|
 |**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
 |**2024-09-20**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|null|
 |**2024-09-04**|**Accelerating Large Language Model Training with Hybrid GPU-based Compression**|Lang Xu et.al.|[2409.02423](http://arxiv.org/abs/2409.02423)|null|
