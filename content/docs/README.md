@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-11-17"
+date: "2024-11-18"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-11-17"
+publishdate: "2024-11-18"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -62,6 +62,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model**|Qianhao Wang et.al.|[2411.09953](http://arxiv.org/abs/2411.09953)|null|
 |**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et.al.|[2411.09093](http://arxiv.org/abs/2411.09093)|null|
 |**2024-11-12**|**Spike Talk in Power Electronic Grids -- Leveraging Post Moore's Computing Laws**|Yubo Song et.al.|[2411.07654](http://arxiv.org/abs/2411.07654)|null|
 |**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397](http://arxiv.org/abs/2411.07397)|null|
@@ -753,6 +754,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Recent Advances on Machine Learning-aided DSP for Short-reach and Long-haul Optical Communications**|Laurent Schmalen et.al.|[2411.10101](http://arxiv.org/abs/2411.10101)|null|
 |**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et.al.|[2411.09093](http://arxiv.org/abs/2411.09093)|null|
 |**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397](http://arxiv.org/abs/2411.07397)|null|
 |**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057](http://arxiv.org/abs/2411.07057)|null|
@@ -1131,6 +1133,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Towards Neural Foundation Models for Vision: Aligning EEG, MEG, and fMRI Representations for Decoding, Encoding, and Modality Conversion**|Matteo Ferrante et.al.|[2411.09723](http://arxiv.org/abs/2411.09723)|null|
 |**2024-11-13**|**Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli**|Christopher Wang et.al.|[2411.08343](http://arxiv.org/abs/2411.08343)|null|
 |**2024-11-12**|**What Representational Similarity Measures Imply about Decodable Information**|Sarah E. Harvey et.al.|[2411.08197](http://arxiv.org/abs/2411.08197)|null|
 |**2024-11-13**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
@@ -1743,7 +1746,7 @@ categories: [""]
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
-|**2024-11-12**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|null|
+|**2024-11-12**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|**[link](https://github.com/hipersimlab/pecann-ddm)**|
 |**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294](http://arxiv.org/abs/2409.02294)|null|
 |**2024-08-27**|**A parallel particle cluster algorithm using nearest neighbour graphs and passive target communication**|Matthias Frey et.al.|[2408.15348](http://arxiv.org/abs/2408.15348)|null|
 |**2024-10-18**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
@@ -1793,7 +1796,7 @@ categories: [""]
 |---|---|---|---|---|
 |**2024-11-04**|**Configurable Non-uniform All-to-all Algorithms**|Ke Fan et.al.|[2411.02581](http://arxiv.org/abs/2411.02581)|null|
 |**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
-|**2024-11-12**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|null|
+|**2024-11-12**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|**[link](https://github.com/hipersimlab/pecann-ddm)**|
 |**2024-09-04**|**Accelerating Large Language Model Training with Hybrid GPU-based Compression**|Lang Xu et.al.|[2409.02423](http://arxiv.org/abs/2409.02423)|null|
 |**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294](http://arxiv.org/abs/2409.02294)|null|
 |**2024-08-27**|**A parallel particle cluster algorithm using nearest neighbour graphs and passive target communication**|Matthias Frey et.al.|[2408.15348](http://arxiv.org/abs/2408.15348)|null|
