@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-11-24"
+date: "2024-11-25"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-11-24"
+publishdate: "2024-11-25"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -62,6 +62,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Enhancement of dynamical coupling in artificial spin-ice systems by incorporating perpendicularly magnetized ferromagnetic matrix**|Syamlal Sankaran Kunnath et.al.|[2411.14918](http://arxiv.org/abs/2411.14918)|null|
+|**2024-11-22**|**Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology**|Qian Liang et.al.|[2411.14773](http://arxiv.org/abs/2411.14773)|null|
 |**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196](http://arxiv.org/abs/2411.14196)|**[link](https://github.com/awakermhy/mnn_wm_uq)**|
 |**2024-11-21**|**Spiking neural networks: Towards bio-inspired multimodal perception in robotics**|Katerina Maria Oikonomou et.al.|[2411.14147](http://arxiv.org/abs/2411.14147)|null|
 |**2024-11-21**|**Hybrid-Neuromorphic Approach for Underwater Robotics Applications: A Conceptual Framework**|Vidya Sudevan et.al.|[2411.13962](http://arxiv.org/abs/2411.13962)|null|
@@ -307,7 +309,7 @@ categories: [""]
 |**2024-06-19**|**Hardware Realization of Neuromorphic Computing with a 4-Port Photonic Reservoir for Modulation Format Identification**|Enes Şeker et.al.|[2406.13549](http://arxiv.org/abs/2406.13549)|null|
 |**2024-06-19**|**Measurement of the Crystallization and Phase Transition of Niobium Dioxide Thin-Films for Neuromorphic Computing Applications Using a Tube Furnace Optical Transmission System**|Zachary R. Robinson et.al.|[2406.13523](http://arxiv.org/abs/2406.13523)|null|
 |**2024-06-19**|**Global-Local Convolution with Spiking Neural Networks for Energy-efficient Keyword Spotting**|Shuai Wang et.al.|[2406.13179](http://arxiv.org/abs/2406.13179)|null|
-|**2024-06-14**|**ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting**|Zeyang Song et.al.|[2406.12726](http://arxiv.org/abs/2406.12726)|null|
+|**2024-06-14**|**ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting**|Zeyang Song et.al.|[2406.12726](http://arxiv.org/abs/2406.12726)|**[link](https://github.com/Pooookeman/ED-sKWS)**|
 |**2024-06-18**|**Evolutionary Spiking Neural Networks: A Survey**|Shuaijie Shen et.al.|[2406.12552](http://arxiv.org/abs/2406.12552)|null|
 |**2024-06-18**|**SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning**|Qiugang Zhan et.al.|[2406.12200](http://arxiv.org/abs/2406.12200)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778](http://arxiv.org/abs/2406.11778)|null|
@@ -763,6 +765,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Enhancement of dynamical coupling in artificial spin-ice systems by incorporating perpendicularly magnetized ferromagnetic matrix**|Syamlal Sankaran Kunnath et.al.|[2411.14918](http://arxiv.org/abs/2411.14918)|null|
+|**2024-11-21**|**Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net**|Sanaz Mahmoodi Takaghaj et.al.|[2411.14585](http://arxiv.org/abs/2411.14585)|null|
 |**2024-11-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945](http://arxiv.org/abs/2411.13945)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
 |**2024-11-19**|**Variability in Resistive Memories**|Juan B. Roldán et.al.|[2411.12369](http://arxiv.org/abs/2411.12369)|null|
 |**2024-11-18**|**Analysis of Generalized Hebbian Learning Algorithm for Neuromorphic Hardware Using Spinnaker**|Shivani Sharma et.al.|[2411.11575](http://arxiv.org/abs/2411.11575)|null|
@@ -1145,6 +1149,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Large Multi-modal Models Can Interpret Features in Large Multi-modal Models**|Kaichen Zhang et.al.|[2411.14982](http://arxiv.org/abs/2411.14982)|**[link](https://github.com/EvolvingLMMs-Lab/multimodal-sae)**|
 |**2024-11-21**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
 |**2024-11-21**|**Neuro-3D: Towards 3D Visual Decoding from EEG Signals**|Zhanqiang Guo et.al.|[2411.12248](http://arxiv.org/abs/2411.12248)|null|
 |**2024-11-18**|**Compression of Higher Order Ambisonics with Multichannel RVQGAN**|Toni Hirvonen et.al.|[2411.12008](http://arxiv.org/abs/2411.12008)|null|
@@ -1768,6 +1773,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**RAMSES-yOMP: Performance Optimizations for the Astrophysical Hydrodynamic Simulation Code RAMSES**|San Han et.al.|[2411.14631](http://arxiv.org/abs/2411.14631)|null|
 |**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
 |**2024-11-12**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|**[link](https://github.com/hipersimlab/pecann-ddm)**|
 |**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294](http://arxiv.org/abs/2409.02294)|null|
@@ -1817,6 +1823,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**RAMSES-yOMP: Performance Optimizations for the Astrophysical Hydrodynamic Simulation Code RAMSES**|San Han et.al.|[2411.14631](http://arxiv.org/abs/2411.14631)|null|
 |**2024-11-04**|**Configurable Non-uniform All-to-all Algorithms**|Ke Fan et.al.|[2411.02581](http://arxiv.org/abs/2411.02581)|null|
 |**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
 |**2024-11-12**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|**[link](https://github.com/hipersimlab/pecann-ddm)**|
