@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-11-26"
+date: "2024-11-27"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-11-26"
+publishdate: "2024-11-27"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -62,8 +62,14 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485](http://arxiv.org/abs/2411.17485)|null|
+|**2024-11-26**|**SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing**|Wangdan Liao et.al.|[2411.17439](http://arxiv.org/abs/2411.17439)|null|
+|**2024-11-26**|**Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion**|Chen Li et.al.|[2411.17431](http://arxiv.org/abs/2411.17431)|null|
+|**2024-11-26**|**Reservoir computing with all-optical non-fading memory in a self-pulsing microresonator network**|Alessio Lugnan et.al.|[2411.17272](http://arxiv.org/abs/2411.17272)|null|
+|**2024-11-26**|**Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation**|Craig Iaboni et.al.|[2411.17006](http://arxiv.org/abs/2411.17006)|**[link](https://github.com/radlab-sketch/Event-SNN-Resources)**|
+|**2024-11-22**|**TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks**|Prajna G. Malettira et.al.|[2411.16711](http://arxiv.org/abs/2411.16711)|null|
 |**2024-11-25**|**Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training**|Man Yao et.al.|[2411.16061](http://arxiv.org/abs/2411.16061)|**[link](https://github.com/biclab/spike-driven-transformer-v3)**|
-|**2024-11-23**|**Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture**|Ilkin Aliyev et.al.|[2411.15409](http://arxiv.org/abs/2411.15409)|null|
+|**2024-11-23**|**Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture**|Ilkin Aliyev et.al.|[2411.15409](http://arxiv.org/abs/2411.15409)|**[link](https://github.com/githubofaliyev/snn-dse)**|
 |**2024-11-22**|**Identification of large polarons and exciton polarons in rutile and anatase polymorphs of titanium dioxide**|Zhenbang Dai et.al.|[2411.15344](http://arxiv.org/abs/2411.15344)|null|
 |**2024-11-22**|**Enhancement of dynamical coupling in artificial spin-ice systems by incorporating perpendicularly magnetized ferromagnetic matrix**|Syamlal Sankaran Kunnath et.al.|[2411.14918](http://arxiv.org/abs/2411.14918)|null|
 |**2024-11-22**|**Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology**|Qian Liang et.al.|[2411.14773](http://arxiv.org/abs/2411.14773)|null|
@@ -768,6 +774,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing**|Wangdan Liao et.al.|[2411.17439](http://arxiv.org/abs/2411.17439)|null|
+|**2024-11-26**|**Reservoir computing with all-optical non-fading memory in a self-pulsing microresonator network**|Alessio Lugnan et.al.|[2411.17272](http://arxiv.org/abs/2411.17272)|null|
+|**2024-11-26**|**Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation**|Craig Iaboni et.al.|[2411.17006](http://arxiv.org/abs/2411.17006)|**[link](https://github.com/radlab-sketch/Event-SNN-Resources)**|
 |**2024-11-22**|**Identification of large polarons and exciton polarons in rutile and anatase polymorphs of titanium dioxide**|Zhenbang Dai et.al.|[2411.15344](http://arxiv.org/abs/2411.15344)|null|
 |**2024-11-22**|**Enhancement of dynamical coupling in artificial spin-ice systems by incorporating perpendicularly magnetized ferromagnetic matrix**|Syamlal Sankaran Kunnath et.al.|[2411.14918](http://arxiv.org/abs/2411.14918)|null|
 |**2024-11-21**|**Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net**|Sanaz Mahmoodi Takaghaj et.al.|[2411.14585](http://arxiv.org/abs/2411.14585)|null|
@@ -1153,6 +1162,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485](http://arxiv.org/abs/2411.17485)|null|
 |**2024-11-25**|**Geometry Distributions**|Biao Zhang et.al.|[2411.16076](http://arxiv.org/abs/2411.16076)|null|
 |**2024-11-22**|**Large Multi-modal Models Can Interpret Features in Large Multi-modal Models**|Kaichen Zhang et.al.|[2411.14982](http://arxiv.org/abs/2411.14982)|**[link](https://github.com/EvolvingLMMs-Lab/multimodal-sae)**|
 |**2024-11-21**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
