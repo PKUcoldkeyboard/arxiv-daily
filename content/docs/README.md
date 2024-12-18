@@ -1,13 +1,13 @@
 ---
 weight: 2
-date: "2024-12-17"
+date: "2024-12-18"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-12-17"
+publishdate: "2024-12-18"
 tags: ["Beginners"]
 categories: [""]
 ---
