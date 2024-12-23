@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2024-12-22"
+date: "2024-12-23"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2024-12-22"
+publishdate: "2024-12-23"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -64,6 +64,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111](http://arxiv.org/abs/2412.16111)|null|
+|**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897](http://arxiv.org/abs/2412.15897)|null|
+|**2024-12-20**|**Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model**|Xin Du et.al.|[2412.15634](http://arxiv.org/abs/2412.15634)|null|
 |**2024-12-19**|**Creating currents of electric bubbles**|Jorge Íñiguez-González et.al.|[2412.15074](http://arxiv.org/abs/2412.15074)|null|
 |**2024-12-19**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Béna Gabriel et.al.|[2412.15021](http://arxiv.org/abs/2412.15021)|null|
 |**2024-12-19**|**Accessing the topological properties of human brain functional sub-circuits in Echo State Networks**|Bach Nguyen et.al.|[2412.14999](http://arxiv.org/abs/2412.14999)|null|
@@ -89,7 +92,7 @@ categories: [""]
 |**2024-12-11**|**Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding**|Ahmad El Ferdaoussi et.al.|[2412.08816](http://arxiv.org/abs/2412.08816)|null|
 |**2024-12-11**|**Online training and pruning of photonic neural networks**|Jiawei Zhang et.al.|[2412.08184](http://arxiv.org/abs/2412.08184)|null|
 |**2024-12-10**|**Electron-Ion Coupling Breaks Energy Symmetry in Organic Electrochemical Transistors**|Lukas M. Bongartz et.al.|[2412.07921](http://arxiv.org/abs/2412.07921)|null|
-|**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|null|
+|**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|**[link](https://github.com/bollossom/e-3dsnn)**|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching**|Yifan Huang et.al.|[2412.06355](http://arxiv.org/abs/2412.06355)|null|
 |**2024-12-09**|**Energy Efficient Stochastic Signal Manipulation in Superparamagnetic Tunnel Junctions via Voltage-Controlled Exchange Coupling**|Qi Jia et.al.|[2412.06256](http://arxiv.org/abs/2412.06256)|null|
@@ -843,7 +846,7 @@ categories: [""]
 |**2024-12-11**|**Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding**|Ahmad El Ferdaoussi et.al.|[2412.08816](http://arxiv.org/abs/2412.08816)|null|
 |**2024-12-11**|**Online training and pruning of photonic neural networks**|Jiawei Zhang et.al.|[2412.08184](http://arxiv.org/abs/2412.08184)|null|
 |**2024-12-10**|**Electron-Ion Coupling Breaks Energy Symmetry in Organic Electrochemical Transistors**|Lukas M. Bongartz et.al.|[2412.07921](http://arxiv.org/abs/2412.07921)|null|
-|**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|null|
+|**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|**[link](https://github.com/bollossom/e-3dsnn)**|
 |**2024-12-09**|**Energy Efficient Stochastic Signal Manipulation in Superparamagnetic Tunnel Junctions via Voltage-Controlled Exchange Coupling**|Qi Jia et.al.|[2412.06256](http://arxiv.org/abs/2412.06256)|null|
 |**2024-12-07**|**Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search**|Boxun Xu et.al.|[2412.05505](http://arxiv.org/abs/2412.05505)|null|
 |**2024-12-05**|**Mixed Delay/Nondelay Embeddings Based Neuromorphic Computing with Patterned Nanomagnet Arrays**|Changpeng Ti et.al.|[2412.04622](http://arxiv.org/abs/2412.04622)|null|
@@ -892,7 +895,7 @@ categories: [""]
 |**2024-10-25**|**Tunneling current-controlled spin states in few-layer van der Waals magnets**|ZhuangEn Fu et.al.|[2410.19255](http://arxiv.org/abs/2410.19255)|null|
 |**2024-10-22**|**On the Sampling Sparsity of Neuromorphic Analog-to-Spike Conversion based on Leaky Integrate-and-Fire**|Bernhard A. Moser et.al.|[2410.17441](http://arxiv.org/abs/2410.17441)|null|
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066](http://arxiv.org/abs/2410.17066)|null|
-|**2024-10-22**|**High-Order Associative Learning Based on Memristive Circuits for Efficient Learning**|Shengbo Wang et.al.|[2410.16734](http://arxiv.org/abs/2410.16734)|null|
+|**2024-10-22**|**High-Order Associative Learning Based on Memristive Circuits for Efficient Learning**|Shengbo Wang et.al.|[2410.16734](http://arxiv.org/abs/2410.16734)|**[link](https://github.com/rtcartist/High-order-memristive-associative-learning)**|
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175](http://arxiv.org/abs/2410.16175)|null|
 |**2024-10-21**|**The role of spike-timing-dependent plasticity and random inputs in neurodegenerative diseases and neuromorphic systems**|Thoa Thieu et.al.|[2410.16123](http://arxiv.org/abs/2410.16123)|null|
 |**2024-10-21**|**TEXEL: A neuromorphic processor with on-chip learning for beyond-CMOS device integration**|Hugh Greatorex et.al.|[2410.15854](http://arxiv.org/abs/2410.15854)|null|
@@ -1248,6 +1251,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Cross-System Software Log-based Anomaly Detection Using Meta-Learning**|Yuqing Wang et.al.|[2412.15445](http://arxiv.org/abs/2412.15445)|null|
 |**2024-12-19**|**Analysis and Visualization of Linguistic Structures in Large Language Models: Neural Representations of Verb-Particle Constructions in BERT**|Hassane Kissane et.al.|[2412.14670](http://arxiv.org/abs/2412.14670)|null|
 |**2024-12-19**|**Comparing noisy neural population dynamics using optimal transport distances**|Amin Nejatbakhsh et.al.|[2412.14421](http://arxiv.org/abs/2412.14421)|null|
 |**2024-12-18**|**Representational Drift and Learning-Induced Stabilization in the Olfactory Cortex**|Guillermo B. Morales et.al.|[2412.13713](http://arxiv.org/abs/2412.13713)|null|
