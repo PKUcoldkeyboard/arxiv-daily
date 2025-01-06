@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-01-05"
+date: "2025-01-06"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-01-05"
+publishdate: "2025-01-06"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -64,6 +64,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Reconfigurable Filamentary Conduction in Thermally Stable Zeolitic Imidazolate Framework (ZIF-8) Resistive Switching Devices**|Divya Kaushik et.al.|[2501.01822](http://arxiv.org/abs/2501.01822)|null|
+|**2025-01-03**|**Molecular Mechanism Enabling Linearity and Symmetry in Neuromorphic Elements**|Bidyabhusan Kundu et.al.|[2501.01729](http://arxiv.org/abs/2501.01729)|null|
 |**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|null|
 |**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038](http://arxiv.org/abs/2501.01038)|null|
 |**2025-01-01**|**Strain Mediated Voltage Control of Magnetic Anisotropy and Magnetization Reversal in Bismuth Substituted Yttrium Iron Garnet Films and Meso-structures**|Walid Al Misba et.al.|[2501.00980](http://arxiv.org/abs/2501.00980)|null|
@@ -846,6 +848,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Reconfigurable Filamentary Conduction in Thermally Stable Zeolitic Imidazolate Framework (ZIF-8) Resistive Switching Devices**|Divya Kaushik et.al.|[2501.01822](http://arxiv.org/abs/2501.01822)|null|
+|**2025-01-03**|**Molecular Mechanism Enabling Linearity and Symmetry in Neuromorphic Elements**|Bidyabhusan Kundu et.al.|[2501.01729](http://arxiv.org/abs/2501.01729)|null|
 |**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|null|
 |**2025-01-01**|**Strain Mediated Voltage Control of Magnetic Anisotropy and Magnetization Reversal in Bismuth Substituted Yttrium Iron Garnet Films and Meso-structures**|Walid Al Misba et.al.|[2501.00980](http://arxiv.org/abs/2501.00980)|null|
 |**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813](http://arxiv.org/abs/2501.00813)|null|
@@ -853,7 +857,7 @@ categories: [""]
 |**2024-12-24**|**All-electric mimicking synaptic plasticity based on the noncollinear antiferromagnetic device**|Cuimei Cao et.al.|[2412.18418](http://arxiv.org/abs/2412.18418)|null|
 |**2024-12-21**|**Development of a Neuromorphic Network Using BioSFQ Circuits**|Evan B. Golden et.al.|[2412.16804](http://arxiv.org/abs/2412.16804)|null|
 |**2024-12-19**|**Creating currents of electric bubbles**|Jorge Íñiguez-González et.al.|[2412.15074](http://arxiv.org/abs/2412.15074)|null|
-|**2024-12-19**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Béna Gabriel et.al.|[2412.15021](http://arxiv.org/abs/2412.15021)|null|
+|**2025-01-03**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Gabriel Béna et.al.|[2412.15021](http://arxiv.org/abs/2412.15021)|null|
 |**2024-12-19**|**Accessing the topological properties of human brain functional sub-circuits in Echo State Networks**|Bach Nguyen et.al.|[2412.14999](http://arxiv.org/abs/2412.14999)|null|
 |**2024-12-17**|**Electrically driven non-volatile resistance switching between charge density wave states at room temperature**|R. Venturini et.al.|[2412.13094](http://arxiv.org/abs/2412.13094)|null|
 |**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858](http://arxiv.org/abs/2412.12858)|null|
@@ -1272,6 +1276,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**SNeRV: Spectra-preserving Neural Representation for Video**|Jina Kim et.al.|[2501.01681](http://arxiv.org/abs/2501.01681)|null|
+|**2025-01-03**|**Few-shot Implicit Function Generation via Equivariance**|Suizhi Huang et.al.|[2501.01601](http://arxiv.org/abs/2501.01601)|null|
 |**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013](http://arxiv.org/abs/2501.01013)|null|
 |**2025-01-01**|**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation**|Daniel Silver et.al.|[2501.00975](http://arxiv.org/abs/2501.00975)|null|
 |**2024-12-30**|**Tackling Cognitive Impairment Detection from Speech: A submission to the PROCESS Challenge**|Catarina Botelho et.al.|[2501.00145](http://arxiv.org/abs/2501.00145)|null|
