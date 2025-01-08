@@ -6,15 +6,15 @@
     <description>Recent content in Beginners on Arxiv 每日推送</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://arxiv.cuterwrite.top/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://arxiv.cuterwrite.top/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arxiv每日推送</title>
       <link>https://arxiv.cuterwrite.top/docs/readme/</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://arxiv.cuterwrite.top/docs/readme/</guid>
-      <description>Updated on 2025.01.07 link Usage instructions: here
-Brain Simulation link Publish Date Title Authors PDF Code 2024-12-17 Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions Kees Koenders et.al. 2412.12783 null 2024-12-11 Gradient Diffusion: Enhancing Multicompartmental Neuron Models for Gradient-Based Self-Tuning and Homeostatic Control Lennart P. L. Landsmeer et.al. 2412.07327 null 2024-10-16 Learning Differentiable Tensegrity Dynamics using Graph Neural Networks Nelson Chen et.al. 2410.12216 link 2024-09-23 A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures Fernando M.</description>
+      <description>Updated on 2025.01.08 link Usage instructions: here
+Brain Simulation link Publish Date Title Authors PDF Code 2024-12-17 Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions Kees Koenders et.al. 2412.12783 null 2025-01-07 Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning Lennart P. L. Landsmeer et.al. 2412.07327 null 2024-10-16 Learning Differentiable Tensegrity Dynamics using Graph Neural Networks Nelson Chen et.al. 2410.12216 link 2024-09-23 A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures Fernando M.</description>
     </item>
     
   </channel>
