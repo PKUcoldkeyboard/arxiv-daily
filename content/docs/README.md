@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-01-15"
+date: "2025-01-16"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-01-15"
+publishdate: "2025-01-16"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -64,9 +64,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|Joshua Nardone et.al.|[2501.08645](http://arxiv.org/abs/2501.08645)|null|
 |**2025-01-14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|Di Hong et.al.|[2501.08049](http://arxiv.org/abs/2501.08049)|null|
 |**2025-01-14**|**Spiking Neural Network Accelerator Architecture for Differential-Time Representation using Learned Encoding**|Daniel Windhager et.al.|[2501.07952](http://arxiv.org/abs/2501.07952)|null|
-|**2025-01-13**|**Efficient Event-based Delay Learning in Spiking Neural Networks**|Balázs Mészáros et.al.|[2501.07331](http://arxiv.org/abs/2501.07331)|null|
+|**2025-01-13**|**Efficient Event-based Delay Learning in Spiking Neural Networks**|Balázs Mészáros et.al.|[2501.07331](http://arxiv.org/abs/2501.07331)|**[link](https://github.com/mbalazs98/deventprop)**|
 |**2025-01-12**|**Temporal-Aware Spiking Transformer Hashing Based on 3D-DWT**|Zihao Mei et.al.|[2501.06786](http://arxiv.org/abs/2501.06786)|null|
 |**2025-01-10**|**Binary Event-Driven Spiking Transformer**|Honglin Cao et.al.|[2501.05904](http://arxiv.org/abs/2501.05904)|null|
 |**2025-01-10**|**Biorealistic response in a technology-compatible graphene synaptic transistor**|Anastasia Chouprik et.al.|[2501.05877](http://arxiv.org/abs/2501.05877)|null|
