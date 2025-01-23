@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-01-22"
+date: "2025-01-23"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-01-22"
+publishdate: "2025-01-23"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -66,6 +66,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593](http://arxiv.org/abs/2501.12593)|null|
+|**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482](http://arxiv.org/abs/2501.12482)|null|
 |**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554](http://arxiv.org/abs/2501.11554)|null|
 |**2025-01-20**|**Integrate-and-Fire from a Mathematical and Signal Processing Perspective**|Bernhard A. Moser et.al.|[2501.11453](http://arxiv.org/abs/2501.11453)|null|
 |**2025-01-10**|**Delay Neural Networks (DeNN) for exploiting temporal information in event-based datasets**|Alban Gattepaille et.al.|[2501.10425](http://arxiv.org/abs/2501.10425)|null|
@@ -867,6 +869,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593](http://arxiv.org/abs/2501.12593)|null|
 |**2025-01-20**|**Integrate-and-Fire from a Mathematical and Signal Processing Perspective**|Bernhard A. Moser et.al.|[2501.11453](http://arxiv.org/abs/2501.11453)|null|
 |**2025-01-17**|**Solving Sparse Finite Element Problems on Neuromorphic Hardware**|Bradley H. Theilman et.al.|[2501.10526](http://arxiv.org/abs/2501.10526)|null|
 |**2025-01-16**|**AR-SFQ: Asynchronous Reset Library Using α-Cell Design**|Yasemin Kopur et.al.|[2501.09449](http://arxiv.org/abs/2501.09449)|null|
