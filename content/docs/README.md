@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-01-29"
+date: "2025-01-30"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-01-29"
+publishdate: "2025-01-30"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -24,6 +24,7 @@ categories: [""]
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
 |**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
+|**2025-01-29**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
 |**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
 |**2024-09-19**|**Model calibration using a parallel differential evolution algorithm in computational neuroscience: simulation of stretch induced nerve deficit**|Antonio LaTorre et.al.|[2409.12567](http://arxiv.org/abs/2409.12567)|null|
@@ -67,13 +68,14 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|Ahmed Sharshar et.al.|[2501.17699](http://arxiv.org/abs/2501.17699)|**[link](https://github.com/ahmed-sharshar/respirodynamics)**|
 |**2025-01-28**|**Optical neuromorphic computing based on chaotic frequency combs in nonlinear microresonators**|Negar Shaabani Shishavan et.al.|[2501.17113](http://arxiv.org/abs/2501.17113)|null|
 |**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745](http://arxiv.org/abs/2501.16745)|null|
 |**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604](http://arxiv.org/abs/2501.16604)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
 |**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925](http://arxiv.org/abs/2501.15925)|null|
 |**2025-01-27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|Xiaopeng Lin et.al.|[2501.15808](http://arxiv.org/abs/2501.15808)|null|
-|**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|null|
+|**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|**[link](https://github.com/bakhromtjk/mgd_scaling)**|
 |**2025-01-25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|Farah Baracat et.al.|[2501.15347](http://arxiv.org/abs/2501.15347)|null|
 |**2025-01-28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|Yimeng Fan et.al.|[2501.15151](http://arxiv.org/abs/2501.15151)|**[link](https://github.com/yimeng-fan/spikssd)**|
 |**2025-01-24**|**A Recurrent Spiking Network with Hierarchical Intrinsic Excitability Modulation for Schema Learning**|Yingchao Yu et.al.|[2501.14539](http://arxiv.org/abs/2501.14539)|null|
@@ -883,12 +885,13 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|Daniel Casanueva-Morato et.al.|[2501.17172](http://arxiv.org/abs/2501.17172)|null|
 |**2025-01-28**|**Optical neuromorphic computing based on chaotic frequency combs in nonlinear microresonators**|Negar Shaabani Shishavan et.al.|[2501.17113](http://arxiv.org/abs/2501.17113)|null|
 |**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604](http://arxiv.org/abs/2501.16604)|null|
 |**2025-01-20**|**Influence of Humidity on the Resistive Switching of Hexagonal Boron Nitride-Based Memristors**|Lukas Völkel et.al.|[2501.16359](http://arxiv.org/abs/2501.16359)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
 |**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925](http://arxiv.org/abs/2501.15925)|null|
-|**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|null|
+|**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|**[link](https://github.com/bakhromtjk/mgd_scaling)**|
 |**2025-01-24**|**Ultrafast neural sampling with spiking nanolasers**|Ivan K. Boikov et.al.|[2501.14446](http://arxiv.org/abs/2501.14446)|null|
 |**2025-01-23**|**Continuous signal sparse encoding using analog neuromorphic variability**|Filippo Costa et.al.|[2501.13504](http://arxiv.org/abs/2501.13504)|null|
 |**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593](http://arxiv.org/abs/2501.12593)|null|
