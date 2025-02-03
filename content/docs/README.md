@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-02-02"
+date: "2025-02-03"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-02-02"
+publishdate: "2025-02-03"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -68,6 +68,11 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259](http://arxiv.org/abs/2501.19259)|null|
+|**2025-01-31**|**Novel Magnetic Materials for Spintronic Device Technology**|A. Sud et.al.|[2501.19087](http://arxiv.org/abs/2501.19087)|null|
+|**2025-01-31**|**Improving vision-language alignment with graph spiking hybrid Networks**|Siyu Zhang et.al.|[2501.19069](http://arxiv.org/abs/2501.19069)|null|
+|**2025-01-31**|**Nonlinear Inference Capacity of Fiber-Optical Extreme Learning Machines**|Sobhi Saeed et.al.|[2501.18894](http://arxiv.org/abs/2501.18894)|null|
+|**2025-01-30**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|MHD Anas Alsakkal et.al.|[2501.18799](http://arxiv.org/abs/2501.18799)|null|
 |**2025-01-29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|Donghwa Kang et.al.|[2501.18412](http://arxiv.org/abs/2501.18412)|null|
 |**2025-01-30**|**Simulation of the crystallization kinetics of Ge $_2$Sb$_2$Te$_5$ nanoconfined in superlattice geometries for phase change memories**|Debdipto Acharya et.al.|[2501.18370](http://arxiv.org/abs/2501.18370)|null|
 |**2025-01-30**|**Ultra-large mutually synchronized networks of 10 nm spin Hall nano-oscillators**|Nilamani Behera et.al.|[2501.18321](http://arxiv.org/abs/2501.18321)|null|
@@ -770,7 +775,7 @@ categories: [""]
 |**2023-09-28**|**FireFly v2: Advancing Hardware Support for High-Performance Spiking Neural Network with a Spatiotemporal FPGA Accelerator**|Jindong Li et.al.|[2309.16158](http://arxiv.org/abs/2309.16158)|null|
 |**2023-09-27**|**Highly Efficient SNNs for High-speed Object Detection**|Nemin Qiu et.al.|[2309.15883](http://arxiv.org/abs/2309.15883)|null|
 |**2023-09-27**|**Low Latency of object detection for spikng neural network**|Nemin Qiu et.al.|[2309.15555](http://arxiv.org/abs/2309.15555)|null|
-|**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|null|
+|**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|**[link](https://github.com/chklos/spikegd)**|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
 |**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|**[link](https://github.com/bahadirkesgin/ML_w_Chaos)**|
 |**2023-09-28**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302](http://arxiv.org/abs/2309.13302)|null|
@@ -889,6 +894,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Novel Magnetic Materials for Spintronic Device Technology**|A. Sud et.al.|[2501.19087](http://arxiv.org/abs/2501.19087)|null|
+|**2025-01-31**|**Nonlinear Inference Capacity of Fiber-Optical Extreme Learning Machines**|Sobhi Saeed et.al.|[2501.18894](http://arxiv.org/abs/2501.18894)|null|
+|**2025-01-30**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|MHD Anas Alsakkal et.al.|[2501.18799](http://arxiv.org/abs/2501.18799)|null|
 |**2025-01-30**|**Simulation of the crystallization kinetics of Ge $_2$Sb$_2$Te$_5$ nanoconfined in superlattice geometries for phase change memories**|Debdipto Acharya et.al.|[2501.18370](http://arxiv.org/abs/2501.18370)|null|
 |**2025-01-30**|**Ultra-large mutually synchronized networks of 10 nm spin Hall nano-oscillators**|Nilamani Behera et.al.|[2501.18321](http://arxiv.org/abs/2501.18321)|null|
 |**2025-01-23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|Daniel Casanueva-Morato et.al.|[2501.17172](http://arxiv.org/abs/2501.17172)|null|
@@ -1391,7 +1399,7 @@ categories: [""]
 |**2024-12-02**|**Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling**|Xihaier Luo et.al.|[2412.01754](http://arxiv.org/abs/2412.01754)|**[link](https://github.com/Xihaier/INR-TPC-Compression)**|
 |**2024-12-02**|**Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax**|Elliot Murphy et.al.|[2412.01276](http://arxiv.org/abs/2412.01276)|null|
 |**2024-12-02**|**SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics**|Qingtian Zhu et.al.|[2412.01124](http://arxiv.org/abs/2412.01124)|null|
-|**2024-12-02**|**CantorNet: A Sandbox for Testing Geometrical and Topological Complexity Measures**|Michal Lewandowski et.al.|[2411.19713](http://arxiv.org/abs/2411.19713)|null|
+|**2024-12-02**|**CantorNet: A Sandbox for Testing Geometrical and Topological Complexity Measures**|Michal Lewandowski et.al.|[2411.19713](http://arxiv.org/abs/2411.19713)|**[link](https://github.com/michalmariuszlewandowski/cantornet)**|
 |**2024-11-28**|**Upsampling Improvement for Overfitted Neural Coding**|Pierrick Philippe et.al.|[2411.19249](http://arxiv.org/abs/2411.19249)|null|
 |**2024-11-27**|**Towards Lensless Image Deblurring with Prior-Embedded Implicit Neural Representations in the Low-Data Regime**|Abeer Banerjee et.al.|[2411.18189](http://arxiv.org/abs/2411.18189)|null|
 |**2024-11-27**|**MeltpoolINR: Predicting temperature field, melt pool geometry, and their rate of change in laser powder bed fusion**|Manav Manav et.al.|[2411.18048](http://arxiv.org/abs/2411.18048)|null|
@@ -1405,7 +1413,7 @@ categories: [""]
 |**2024-11-20**|**TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**|Mengxuan Li et.al.|[2411.11641](http://arxiv.org/abs/2411.11641)|**[link](https://github.com/Leanna97/TSINR)**|
 |**2024-11-18**|**Superpixel-informed Implicit Neural Representation for Multi-Dimensional Data**|Jiayi Li et.al.|[2411.11356](http://arxiv.org/abs/2411.11356)|null|
 |**2024-11-18**|**Continuous K-space Recovery Network with Image Guidance for Fast MRI Reconstruction**|Yucong Meng et.al.|[2411.11282](http://arxiv.org/abs/2411.11282)|null|
-|**2024-11-17**|**BVI-CR: A Multi-View Human Dataset for Volumetric Video Compression**|Ge Gao et.al.|[2411.11199](http://arxiv.org/abs/2411.11199)|null|
+|**2024-11-17**|**BVI-CR: A Multi-View Human Dataset for Volumetric Video Compression**|Ge Gao et.al.|[2411.11199](http://arxiv.org/abs/2411.11199)|**[link](https://github.com/fan-aaron-zhang/bvi-cr)**|
 |**2024-11-17**|**VeGaS: Video Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2411.11024](http://arxiv.org/abs/2411.11024)|**[link](https://github.com/gmum/vegas)**|
 |**2024-11-16**|**Brain-to-Text Decoding with Context-Aware Neural Representations and Large Language Models**|Jingyuan Li et.al.|[2411.10657](http://arxiv.org/abs/2411.10657)|null|
 |**2024-11-15**|**A minimalistic representation model for head direction system**|Minglu Zhao et.al.|[2411.10596](http://arxiv.org/abs/2411.10596)|null|
@@ -1466,7 +1474,7 @@ categories: [""]
 |**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
 |**2024-10-02**|**Coordinate-Based Neural Representation Enabling Zero-Shot Learning for 3D Multiparametric Quantitative MRI**|Guoyan Lao et.al.|[2410.01577](http://arxiv.org/abs/2410.01577)|null|
 |**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
-|**2024-10-01**|**Modeling Neural Switching via Drift-Diffusion Models**|Nicholas Marco et.al.|[2410.00781](http://arxiv.org/abs/2410.00781)|null|
+|**2024-10-01**|**Modeling Neural Switching via Drift-Diffusion Models**|Nicholas Marco et.al.|[2410.00781](http://arxiv.org/abs/2410.00781)|**[link](https://github.com/ndmarco/neuralcomp)**|
 |**2024-09-30**|**WildFusion: Multimodal Implicit 3D Reconstructions in the Wild**|Yanbaihui Liu et.al.|[2409.19904](http://arxiv.org/abs/2409.19904)|null|
 |**2024-09-28**|**Towards Croppable Implicit Neural Representations**|Maor Ashkenazi et.al.|[2409.19472](http://arxiv.org/abs/2409.19472)|**[link](https://github.com/maorash/local-global-inrs)**|
 |**2024-09-28**|**Fast Encoding and Decoding for Implicit Video Representation**|Hao Chen et.al.|[2409.19429](http://arxiv.org/abs/2409.19429)|null|
@@ -2112,7 +2120,7 @@ categories: [""]
 |**2023-12-28**|**Optimized Parallelization of Boundary Integral Poisson-Boltzmann Solvers**|Xin Yang et.al.|[2312.10044](http://arxiv.org/abs/2312.10044)|null|
 |**2023-10-25**|**PartRePer-MPI: Combining Fault Tolerance and Performance for MPI Applications**|Sarthak Joshi et.al.|[2310.16370](http://arxiv.org/abs/2310.16370)|null|
 |**2023-10-19**|**Accurate Coarse Residual for Two-Level Asynchronous Domain Decomposition Methods**|Guillaume Gbikpi-Benissan et.al.|[2310.12605](http://arxiv.org/abs/2310.12605)|null|
-|**2023-09-27**|**Advancing the distributed Multi-GPU ChASE library through algorithm optimization and NCCL library**|Xinzhe Wu et.al.|[2309.15595](http://arxiv.org/abs/2309.15595)|null|
+|**2023-09-27**|**Advancing the distributed Multi-GPU ChASE library through algorithm optimization and NCCL library**|Xinzhe Wu et.al.|[2309.15595](http://arxiv.org/abs/2309.15595)|**[link](https://github.com/ChASE-library/ChASE)**|
 |**2023-09-21**|**Unlocking massively parallel spectral proper orthogonal decompositions in the PySPOD package**|Marcin Rogowski et.al.|[2309.11808](http://arxiv.org/abs/2309.11808)|**[link](https://github.com/mathexlab/pyspod)**|
 |**2023-09-13**|**MPI Advance : Open-Source Message Passing Optimizations**|Amanda Bienz et.al.|[2309.07337](http://arxiv.org/abs/2309.07337)|null|
 |**2023-10-05**|**Particle-resolved thermal lattice Boltzmann simulation using OpenACC on multi-GPUs**|Ao Xu et.al.|[2308.16597](http://arxiv.org/abs/2308.16597)|null|
@@ -2128,6 +2136,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Swift: Rethinking RDMA Control Plane for Elastic Computing**|Junxue Zhang et.al.|[2501.19051](http://arxiv.org/abs/2501.19051)|null|
 |**2024-09-12**|**External Memories of PDP Switches for In-Network Implementable Functions Placement: Deep Learning Based Reconfiguration of SFCs**|Somayeh Kianpisheh et.al.|[2409.08043](http://arxiv.org/abs/2409.08043)|null|
 |**2024-08-15**|**P/D-Serve: Serving Disaggregated Large Language Model at Scale**|Yibo Jin et.al.|[2408.08147](http://arxiv.org/abs/2408.08147)|null|
 |**2024-07-13**|**SeqBalance: Congestion-Aware Load Balancing with no Reordering for RoCE**|Huimin Luo et.al.|[2407.09808](http://arxiv.org/abs/2407.09808)|null|
