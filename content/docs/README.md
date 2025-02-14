@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-02-13"
+date: "2025-02-14"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-02-13"
+publishdate: "2025-02-14"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -68,6 +68,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|Chenxiang Ma et.al.|[2502.09449](http://arxiv.org/abs/2502.09449)|null|
+|**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 |**2025-02-12**|**Full-cycle device-scale simulations of memory materials with a tailored atomic-cluster-expansion potential**|Yuxing Zhou et.al.|[2502.08393](http://arxiv.org/abs/2502.08393)|null|
 |**2025-02-12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|Reza Ahmadvand et.al.|[2502.08115](http://arxiv.org/abs/2502.08115)|null|
 |**2025-02-10**|**Adaptive Central Frequencies Locally Competitive Algorithm for Speech**|Soufiyan Bahadi et.al.|[2502.06989](http://arxiv.org/abs/2502.06989)|null|
@@ -1370,16 +1372,18 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Unsupervised Anomaly Detection on Implicit Shape representations for Sarcopenia Detection**|Louise Piecuch et.al.|[2502.09088](http://arxiv.org/abs/2502.09088)|null|
+|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|null|
 |**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634](http://arxiv.org/abs/2502.08634)|null|
 |**2025-02-11**|**From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production**|Mingfang et.al.|[2502.07429](http://arxiv.org/abs/2502.07429)|null|
 |**2025-02-12**|**A Relativistic Theory of Consciousness (shorten version)**|Nir Lahav et.al.|[2502.07247](http://arxiv.org/abs/2502.07247)|null|
 |**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
 |**2025-02-10**|**Causal Lifting of Neural Representations: Zero-Shot Generalization for Causal Inferences**|Riccardo Cadei et.al.|[2502.06343](http://arxiv.org/abs/2502.06343)|null|
-|**2025-02-10**|**CANeRV: Content Adaptive Neural Representation for Video Compression**|Lv Tang et.al.|[2502.06181](http://arxiv.org/abs/2502.06181)|null|
+|**2025-02-13**|**CANeRV: Content Adaptive Neural Representation for Video Compression**|Lv Tang et.al.|[2502.06181](http://arxiv.org/abs/2502.06181)|null|
 |**2025-02-09**|**Neural Shortest Path for Surface Reconstruction from Point Clouds**|Yesom Park et.al.|[2502.06047](http://arxiv.org/abs/2502.06047)|null|
 |**2025-02-09**|**Structural Perturbation in Large Language Model Representations through Recursive Symbolic Regeneration**|Kathlyn Eaglewood et.al.|[2502.05794](http://arxiv.org/abs/2502.05794)|null|
 |**2025-02-08**|**Robustifying Fourier Features Embeddings for Implicit Neural Representations**|Mingze Ma et.al.|[2502.05482](http://arxiv.org/abs/2502.05482)|null|
-|**2025-02-08**|**Unsupervised Self-Prior Embedding Neural Representation for Iterative Sparse-View CT Reconstruction**|Xuanyu Tian et.al.|[2502.05445](http://arxiv.org/abs/2502.05445)|null|
+|**2025-02-08**|**Unsupervised Self-Prior Embedding Neural Representation for Iterative Sparse-View CT Reconstruction**|Xuanyu Tian et.al.|[2502.05445](http://arxiv.org/abs/2502.05445)|**[link](https://github.com/meijitian/spener)**|
 |**2025-02-06**|**Localization of Vibrotactile Stimuli on the Face**|Shivani Guptasarma et.al.|[2502.04569](http://arxiv.org/abs/2502.04569)|null|
 |**2025-02-05**|**INST-Sculpt: Interactive Stroke-based Neural SDF Sculpting**|Fizza Rubab et.al.|[2502.02891](http://arxiv.org/abs/2502.02891)|null|
 |**2025-02-01**|**MIND: Microstructure INverse Design with Generative Hybrid Neural Representation**|Tianyang Xue et.al.|[2502.02607](http://arxiv.org/abs/2502.02607)|null|
@@ -2200,8 +2204,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|null|
-|**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|null|
+|**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
+|**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|**[link](https://github.com/opensparsellms/linear-moe)**|
 |**2025-01-30**|**Chip-to-chip photonic connectivity in multi-accelerator servers for ML**|Abhishek Vijaya Kumar et.al.|[2501.18169](http://arxiv.org/abs/2501.18169)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-07**|**mFabric: An Efficient and Scalable Fabric for Mixture-of-Experts Training**|Xudong Liao et.al.|[2501.03905](http://arxiv.org/abs/2501.03905)|null|
