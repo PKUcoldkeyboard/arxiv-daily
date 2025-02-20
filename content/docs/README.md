@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-02-19"
+date: "2025-02-20"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-02-19"
+publishdate: "2025-02-20"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -24,7 +24,7 @@ categories: [""]
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
 |**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
-|**2025-01-29**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
+|**2025-02-19**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
 |**2025-02-16**|**Convergence proofs and strong error bounds for forward-backward stochastic differential equations using neural network simulations**|Oliver Sheridan-Methven et.al.|[2411.01306](http://arxiv.org/abs/2411.01306)|null|
 |**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
@@ -69,6 +69,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Memristor Applications: Nanodevices Redefining Technological Landscapes**|Nikolaos Vasileiadis et.al.|[2502.13835](http://arxiv.org/abs/2502.13835)|null|
+|**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
+|**2025-02-19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|Naichuan Zheng et.al.|[2502.13385](http://arxiv.org/abs/2502.13385)|null|
+|**2025-02-18**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|Junyi Guan et.al.|[2502.13191](http://arxiv.org/abs/2502.13191)|null|
 |**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791](http://arxiv.org/abs/2502.12791)|null|
 |**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693](http://arxiv.org/abs/2502.12693)|null|
 |**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677](http://arxiv.org/abs/2502.12677)|null|
@@ -920,6 +924,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Memristor Applications: Nanodevices Redefining Technological Landscapes**|Nikolaos Vasileiadis et.al.|[2502.13835](http://arxiv.org/abs/2502.13835)|null|
+|**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
 |**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693](http://arxiv.org/abs/2502.12693)|null|
 |**2025-02-17**|**Phase-change materials for volatile threshold resistive switching and neuronal device applications**|Huandong Chen et.al.|[2502.11685](http://arxiv.org/abs/2502.11685)|null|
 |**2025-02-16**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
@@ -1386,9 +1392,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Herglotz-NET: Implicit Neural Representation of Spherical~Data with Harmonic Positional Encoding**|Théo Hanon et.al.|[2502.13777](http://arxiv.org/abs/2502.13777)|null|
 |**2025-02-18**|**PartSDF: Part-Based Implicit Neural Representation for Composite 3D Shape Parametrization and Optimization**|Nicolas Talabot et.al.|[2502.12985](http://arxiv.org/abs/2502.12985)|null|
 |**2025-02-18**|**Multi Image Super Resolution Modeling for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.12427](http://arxiv.org/abs/2502.12427)|null|
-|**2025-02-17**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
+|**2025-02-18**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
 |**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|null|
 |**2025-02-15**|**Implicit Neural Representations of Molecular Vector-Valued Functions**|Jirka Lhotka et.al.|[2502.10848](http://arxiv.org/abs/2502.10848)|null|
 |**2025-02-15**|**Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy**|Mingyang Zhao et.al.|[2502.10704](http://arxiv.org/abs/2502.10704)|null|
