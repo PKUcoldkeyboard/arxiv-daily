@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-02-23"
+date: "2025-02-24"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-02-23"
+publishdate: "2025-02-24"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -19,6 +19,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Ultrasound Phase Aberrated Point Spread Function Estimation with Convolutional Neural Network: Simulation Study**|Wei-Hsiang Shen et.al.|[2502.15298](http://arxiv.org/abs/2502.15298)|null|
 |**2025-01-19**|**Dissertation Machine Learning in Materials Science -- A case study in Carbon Nanotube field effect transistors**|Shulin Tan et.al.|[2501.14813](http://arxiv.org/abs/2501.14813)|null|
 |**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
@@ -69,7 +70,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**Temporal Misalignment and Probabilistic Neurons**|Velibor Bojković et.al.|[2502.14487](http://arxiv.org/abs/2502.14487)|null|
+|**2025-02-20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|Amlan Basu et.al.|[2502.15056](http://arxiv.org/abs/2502.15056)|null|
+|**2025-02-21**|**Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons**|Velibor Bojković et.al.|[2502.14487](http://arxiv.org/abs/2502.14487)|null|
 |**2025-02-20**|**Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism**|Yu Liang et.al.|[2502.14344](http://arxiv.org/abs/2502.14344)|null|
 |**2025-02-20**|**Rethinking Spiking Neural Networks from an Ensemble Learning Perspective**|Yongqi Ding et.al.|[2502.14218](http://arxiv.org/abs/2502.14218)|null|
 |**2025-02-19**|**Dynamic Activation with Knowledge Distillation for Energy-Efficient Spiking NN Ensembles**|Orestis Konstantaropoulos et.al.|[2502.14023](http://arxiv.org/abs/2502.14023)|null|
@@ -80,7 +82,7 @@ categories: [""]
 |**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791](http://arxiv.org/abs/2502.12791)|null|
 |**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693](http://arxiv.org/abs/2502.12693)|null|
 |**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677](http://arxiv.org/abs/2502.12677)|null|
-|**2025-02-18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|Xiang He et.al.|[2502.12488](http://arxiv.org/abs/2502.12488)|null|
+|**2025-02-18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|Xiang He et.al.|[2502.12488](http://arxiv.org/abs/2502.12488)|**[link](https://github.com/brain-cog-lab/s-cmrl)**|
 |**2025-02-17**|**Phase-change materials for volatile threshold resistive switching and neuronal device applications**|Huandong Chen et.al.|[2502.11685](http://arxiv.org/abs/2502.11685)|null|
 |**2025-02-16**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
 |**2025-02-16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|Marumitsu Ikeda et.al.|[2502.10946](http://arxiv.org/abs/2502.10946)|null|
@@ -928,11 +930,12 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|Amlan Basu et.al.|[2502.15056](http://arxiv.org/abs/2502.15056)|null|
 |**2025-02-19**|**Memristor Applications: Nanodevices Redefining Technological Landscapes**|Nikolaos Vasileiadis et.al.|[2502.13835](http://arxiv.org/abs/2502.13835)|null|
 |**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
 |**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693](http://arxiv.org/abs/2502.12693)|null|
 |**2025-02-17**|**Phase-change materials for volatile threshold resistive switching and neuronal device applications**|Huandong Chen et.al.|[2502.11685](http://arxiv.org/abs/2502.11685)|null|
-|**2025-02-16**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
+|**2025-02-21**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
 |**2025-02-14**|**Nonreciprocal Control of the Speed of Light Using Cavity Magnonics**|Jiguang Yao et.al.|[2502.10595](http://arxiv.org/abs/2502.10595)|null|
 |**2025-02-05**|**DA-LIF: Dual Adaptive Leaky Integrate-and-Fire Model for Deep Spiking Neural Networks**|Tianqing Zhang et.al.|[2502.10422](http://arxiv.org/abs/2502.10422)|null|
 |**2025-02-12**|**Full-cycle device-scale simulations of memory materials with a tailored atomic-cluster-expansion potential**|Yuxing Zhou et.al.|[2502.08393](http://arxiv.org/abs/2502.08393)|null|
@@ -1396,6 +1399,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Estimating Neural Representation Alignment from Limited Inputs and Features**|Chanwoo Chun et.al.|[2502.15104](http://arxiv.org/abs/2502.15104)|null|
 |**2025-02-20**|**Herglotz-NET: Implicit Neural Representation of Spherical Data with Harmonic Positional Encoding**|Théo Hanon et.al.|[2502.13777](http://arxiv.org/abs/2502.13777)|null|
 |**2025-02-18**|**PartSDF: Part-Based Implicit Neural Representation for Composite 3D Shape Parametrization and Optimization**|Nicolas Talabot et.al.|[2502.12985](http://arxiv.org/abs/2502.12985)|**[link](https://github.com/cvlab-epfl/partsdf)**|
 |**2025-02-18**|**Multi Image Super Resolution Modeling for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.12427](http://arxiv.org/abs/2502.12427)|null|
@@ -1496,7 +1500,7 @@ categories: [""]
 |**2024-11-14**|**Towards Neural Foundation Models for Vision: Aligning EEG, MEG, and fMRI Representations for Decoding, Encoding, and Modality Conversion**|Matteo Ferrante et.al.|[2411.09723](http://arxiv.org/abs/2411.09723)|null|
 |**2024-11-13**|**Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli**|Christopher Wang et.al.|[2411.08343](http://arxiv.org/abs/2411.08343)|null|
 |**2024-11-12**|**What Representational Similarity Measures Imply about Decodable Information**|Sarah E. Harvey et.al.|[2411.08197](http://arxiv.org/abs/2411.08197)|null|
-|**2024-11-13**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
+|**2024-11-13**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|**[link](https://github.com/mtkresearch/exact_GN_revNN)**|
 |**2024-11-12**|**Numerical Homogenization by Continuous Super-Resolution**|Zhi-Song Liu et.al.|[2411.07576](http://arxiv.org/abs/2411.07576)|null|
 |**2024-11-11**|**High-Frequency Enhanced Hybrid Neural Representation for Video Compression**|Li Yu et.al.|[2411.06685](http://arxiv.org/abs/2411.06685)|null|
 |**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442](http://arxiv.org/abs/2411.06442)|**[link](https://github.com/dmhdmhdmh/liwt)**|
@@ -1690,7 +1694,7 @@ categories: [""]
 |**2024-05-25**|**N-BVH: Neural ray queries with bounding volume hierarchies**|Philippe Weier et.al.|[2405.16237](http://arxiv.org/abs/2405.16237)|**[link](https://github.com/WeiPhil/nbvh)**|
 |**2024-05-24**|**CPT-Interp: Continuous sPatial and Temporal Motion Modeling for 4D Medical Image Interpolation**|Xia Li et.al.|[2405.15385](http://arxiv.org/abs/2405.15385)|null|
 |**2024-05-22**|**NeurCross: A Self-Supervised Neural Approach for Representing Cross Fields in Quad Mesh Generation**|Qiujie Dong et.al.|[2405.13745](http://arxiv.org/abs/2405.13745)|null|
-|**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|null|
+|**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|**[link](https://github.com/yunfanlu/hr-inr)**|
 |**2024-05-20**|**ASMR: Activation-sharing Multi-resolution Coordinate Networks For Efficient Inference**|Jason Chun Lok Li et.al.|[2405.12398](http://arxiv.org/abs/2405.12398)|**[link](https://github.com/stevolopolis/asmr)**|
 |**2024-05-20**|**The Projective Wave Theory of Consciousness**|Robert Worden et.al.|[2405.12071](http://arxiv.org/abs/2405.12071)|null|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
