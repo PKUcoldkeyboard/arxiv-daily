@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-03-09"
+date: "2025-03-10"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-03-09"
+publishdate: "2025-03-10"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -71,6 +71,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
+|**2025-03-07**|**TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting**|Shibo Feng et.al.|[2503.05108](http://arxiv.org/abs/2503.05108)|null|
 |**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418](http://arxiv.org/abs/2503.04418)|null|
 |**2025-03-06**|**Eventprop training for efficient neuromorphic applications**|Thomas Shoesmith et.al.|[2503.04341](http://arxiv.org/abs/2503.04341)|null|
 |**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223](http://arxiv.org/abs/2503.04223)|null|
@@ -1442,6 +1444,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**|Mufan Liu et.al.|[2503.05600](http://arxiv.org/abs/2503.05600)|null|
+|**2025-03-07**|**Accelerated Patient-specific Non-Cartesian MRI Reconstruction using Implicit Neural Representations**|Di Xu et.al.|[2503.05051](http://arxiv.org/abs/2503.05051)|null|
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
 |**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
 |**2025-03-05**|**Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis**|Awais Nizamani et.al.|[2503.03132](http://arxiv.org/abs/2503.03132)|null|
@@ -1501,7 +1505,7 @@ categories: [""]
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277](http://arxiv.org/abs/2501.09277)|null|
 |**2025-01-15**|**Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction**|Dayoung Baik et.al.|[2501.09049](http://arxiv.org/abs/2501.09049)|null|
 |**2025-01-13**|**Implicit Neural Representations for Registration of Left Ventricle Myocardium During a Cardiac Cycle**|Mathias Micheelsen Lowes et.al.|[2501.07248](http://arxiv.org/abs/2501.07248)|**[link](https://github.com/mmlowes/inr_reg_lvmyo)**|
-|**2025-01-14**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838](http://arxiv.org/abs/2501.06838)|null|
+|**2025-01-14**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838](http://arxiv.org/abs/2501.06838)|**[link](https://github.com/chrisdud0257/gsasr)**|
 |**2025-01-08**|**GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting**|Andrew Bond et.al.|[2501.04782](http://arxiv.org/abs/2501.04782)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-17**|**MetaNeRV: Meta Neural Representations for Videos with Spatial-Temporal Guidance**|Jialong Guo et.al.|[2501.02427](http://arxiv.org/abs/2501.02427)|null|
@@ -2087,7 +2091,7 @@ categories: [""]
 |**2025-03-02**|**Personalizing the meshed SPL/NAC Brain Atlas for patient-specific scientific computing using SynthMorph**|Andy Huynh et.al.|[2503.00931](http://arxiv.org/abs/2503.00931)|null|
 |**2025-02-22**|**Brain-Model Evaluations Need the NeuroAI Turing Test**|Jenelle Feather et.al.|[2502.16238](http://arxiv.org/abs/2502.16238)|null|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
-|**2024-10-23**|**Holistic structure of neural pathways underlies brain perceptual rivalry: A physical perspective of auditory stream segregation**|Yuxuan Wu et.al.|[2410.17620](http://arxiv.org/abs/2410.17620)|null|
+|**2025-03-07**|**Holistic structure of neural pathways underlies brain perceptual rivalry: Physical mechanism of auditory stream segregation**|Yuxuan Wu et.al.|[2410.17620](http://arxiv.org/abs/2410.17620)|null|
 |**2024-08-21**|**HDN:Hybrid Deep-learning and Non-line-of-sight Reconstruction Framework for Photoacoustic Brain Imaging**|Pengcheng Wan et.al.|[2408.11885](http://arxiv.org/abs/2408.11885)|null|
 |**2024-06-17**|**Brain Dialogue Interface (BDI): A User-Friendly fMRI Model for Interactive Brain Decoding**|Heng Huang et.al.|[2407.09509](http://arxiv.org/abs/2407.09509)|null|
 |**2024-09-25**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
