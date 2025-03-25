@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-03-24"
+date: "2025-03-25"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-03-24"
+publishdate: "2025-03-25"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -72,6 +72,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|null|
 |**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132](http://arxiv.org/abs/2503.17132)|null|
 |**2025-03-21**|**A Digital Machine Learning Algorithm Simulating Spiking Neural Network CoLaNET**|Mikhail Kiselev et.al.|[2503.17111](http://arxiv.org/abs/2503.17111)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
@@ -986,6 +987,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|null|
+|**2025-03-13**|**2D Spintronics for Neuromorphic Computing with Scalability and Energy Efficiency**|Douglas Z. Plummer et.al.|[2503.17376](http://arxiv.org/abs/2503.17376)|null|
 |**2025-03-21**|**Region Masking to Accelerate Video Processing on Neuromorphic Hardware**|Sreetama Sarkar et.al.|[2503.16775](http://arxiv.org/abs/2503.16775)|null|
 |**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492](http://arxiv.org/abs/2503.13492)|null|
 |**2025-03-17**|**Neuromorphic Computing with Microfluidic Memristors**|Nico C. X. Stuhlmüller et.al.|[2503.13386](http://arxiv.org/abs/2503.13386)|null|
@@ -1479,13 +1482,16 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars**|Jiacheng Wu et.al.|[2503.18408](http://arxiv.org/abs/2503.18408)|null|
+|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
+|**2025-03-23**|**Feature Learning beyond the Lazy-Rich Dichotomy: Insights from Representational Geometry**|Chi-Ning Chou et.al.|[2503.18114](http://arxiv.org/abs/2503.18114)|null|
 |**2025-03-21**|**HyperNVD: Accelerating Neural Video Decomposition via Hypernetworks**|Maria Pilligua et.al.|[2503.17276](http://arxiv.org/abs/2503.17276)|null|
 |**2025-03-20**|**GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations**|Zeping Liu et.al.|[2503.16683](http://arxiv.org/abs/2503.16683)|null|
 |**2025-03-20**|**Exploring Deep Learning Models for EEG Neural Decoding**|Laurits Dixen et.al.|[2503.16567](http://arxiv.org/abs/2503.16567)|null|
 |**2025-03-19**|**LIFT: Latent Implicit Functions for Task- and Data-Agnostic Encoding**|Amirhossein Kazerouni et.al.|[2503.15420](http://arxiv.org/abs/2503.15420)|null|
 |**2025-03-19**|**ARC: Anchored Representation Clouds for High-Resolution INR Classification**|Joost Luijmes et.al.|[2503.15156](http://arxiv.org/abs/2503.15156)|**[link](https://github.com/jluij/anchored_representation_clouds)**|
 |**2025-03-19**|**Decompositional Neural Scene Reconstruction with Generative Diffusion Prior**|Junfeng Ni et.al.|[2503.14830](http://arxiv.org/abs/2503.14830)|null|
-|**2025-03-17**|**Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey**|Liewen Liao et.al.|[2503.14537](http://arxiv.org/abs/2503.14537)|null|
+|**2025-03-22**|**Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey**|Liewen Liao et.al.|[2503.14537](http://arxiv.org/abs/2503.14537)|null|
 |**2025-03-19**|**Advances in 4D Generation: A Survey**|Qiaowei Miao et.al.|[2503.14501](http://arxiv.org/abs/2503.14501)|**[link](https://github.com/miaoqiaowei/awesome-4d)**|
 |**2025-03-18**|**Weakly Supervised Spatial Implicit Neural Representation Learning for 3D MRI-Ultrasound Deformable Image Registration in HDR Prostate Brachytherapy**|Jing Wang et.al.|[2503.14395](http://arxiv.org/abs/2503.14395)|null|
 |**2025-03-18**|**Revealing higher-order neural representations with generative artificial intelligence**|Hojjat Azimi Asrari et.al.|[2503.14333](http://arxiv.org/abs/2503.14333)|null|
@@ -2379,7 +2385,7 @@ categories: [""]
 |---|---|---|---|---|
 |**2025-03-14**|**Thunder: Harnessing Unused GPU Cycles in Large-Scale Training via Opportunistic Execution**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-02-25**|**ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**|Jiajun Huang et.al.|[2502.18554](http://arxiv.org/abs/2502.18554)|null|
-|**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
+|**2025-03-21**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
 |**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|**[link](https://github.com/opensparsellms/linear-moe)**|
 |**2025-01-30**|**Chip-to-chip photonic connectivity in multi-accelerator servers for ML**|Abhishek Vijaya Kumar et.al.|[2501.18169](http://arxiv.org/abs/2501.18169)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
