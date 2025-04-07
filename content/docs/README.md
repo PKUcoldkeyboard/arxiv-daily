@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-04-06"
+date: "2025-04-07"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-04-06"
+publishdate: "2025-04-07"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -179,7 +179,7 @@ categories: [""]
 |**2025-02-08**|**Do Spikes Protect Privacy? Investigating Black-Box Model Inversion Attacks in Spiking Neural Networks**|Hamed Poursiami et.al.|[2502.05509](http://arxiv.org/abs/2502.05509)|null|
 |**2025-02-05**|**STEM: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287](http://arxiv.org/abs/2502.03287)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
-|**2025-02-03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2502.01837](http://arxiv.org/abs/2502.01837)|null|
+|**2025-02-03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2502.01837](http://arxiv.org/abs/2502.01837)|**[link](https://github.com/mapolinario94/TESS)**|
 |**2025-02-02**|**Ultrafast electrical control of dipolaritonic circuits with a few femto-joul per bit power consumption**|Dror Liran et.al.|[2502.00878](http://arxiv.org/abs/2502.00878)|null|
 |**2025-01-31**|**Electrically induced negative differential resistance states mediated by oxygen octahedra coupling in manganites for neuronaldynamics**|Azminul Jaman et.al.|[2502.00137](http://arxiv.org/abs/2502.00137)|null|
 |**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074](http://arxiv.org/abs/2502.00074)|**[link](https://github.com/kaist-avelab/k-radar)**|
@@ -1013,7 +1013,7 @@ categories: [""]
 |**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957](http://arxiv.org/abs/2504.00957)|null|
 |**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679](http://arxiv.org/abs/2504.00679)|null|
 |**2025-03-31**|**Noise-based reward-modulated learning**|Jesús García Fernández et.al.|[2503.23972](http://arxiv.org/abs/2503.23972)|null|
-|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
+|**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-28**|**Harnessing uncertainty when learning through Equilibrium Propagation in neural networks**|Jonathan Peters et.al.|[2503.22810](http://arxiv.org/abs/2503.22810)|null|
 |**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604](http://arxiv.org/abs/2503.22604)|null|
 |**2025-03-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
@@ -1517,6 +1517,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Steerable Anatomical Shape Synthesis with Implicit Neural Representations**|Bram de Wilde et.al.|[2504.03313](http://arxiv.org/abs/2504.03313)|null|
 |**2025-04-02**|**Representing Flow Fields with Divergence-Free Kernels for Reconstruction**|Xingyu Ni et.al.|[2504.01913](http://arxiv.org/abs/2504.01913)|null|
 |**2025-04-02**|**A topology-preserving three-stage framework for fully-connected coronary artery extraction**|Yuehui Qiu et.al.|[2504.01597](http://arxiv.org/abs/2504.01597)|null|
 |**2025-03-28**|**Mesh Compression with Quantized Neural Displacement Fields**|Sai Karthikey Pentapati et.al.|[2504.01027](http://arxiv.org/abs/2504.01027)|null|
@@ -2294,6 +2295,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Performance Analysis of HPC applications on the Aurora Supercomputer: Exploring the Impact of HBM-Enabled Intel Xeon Max CPUs**|Huda Ibeid et.al.|[2504.03632](http://arxiv.org/abs/2504.03632)|null|
 |**2025-03-21**|**HEART: A New X-Ray Tracing Code for Mosaic Crystal Spectrometers**|Thomas Gawne et.al.|[2503.16955](http://arxiv.org/abs/2503.16955)|**[link](https://gitlab.com/heart-ray-tracing/HEART)**|
 |**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
 |**2025-02-25**|**Advanced Attacks On Qubit-Ensemble Based Quantum Coins**|Bernd Bauerhenne et.al.|[2412.20243](http://arxiv.org/abs/2412.20243)|**[link](https://github.com/bauerhenne/diqtok-forge)**|
