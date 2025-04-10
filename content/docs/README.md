@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-04-09"
+date: "2025-04-10"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-04-09"
+publishdate: "2025-04-10"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -25,7 +25,7 @@ categories: [""]
 |**2025-01-19**|**Dissertation Machine Learning in Materials Science -- A case study in Carbon Nanotube field effect transistors**|Shulin Tan et.al.|[2501.14813](http://arxiv.org/abs/2501.14813)|null|
 |**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
-|**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
+|**2025-04-09**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2025-02-19**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
 |**2025-02-16**|**Convergence proofs and strong error bounds for forward-backward stochastic differential equations using neural network simulations**|Oliver Sheridan-Methven et.al.|[2411.01306](http://arxiv.org/abs/2411.01306)|null|
@@ -72,6 +72,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Learning in Spiking Neural Networks with a Calcium-based Hebbian Rule for Spike-timing-dependent Plasticity**|Willian Soares Girão et.al.|[2504.06796](http://arxiv.org/abs/2504.06796)|null|
+|**2025-04-09**|**Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using Neuromorphic Intermediate Representation**|Sirine Arfa et.al.|[2504.06748](http://arxiv.org/abs/2504.06748)|null|
+|**2025-04-09**|**PETNet -- Coincident Particle Event Detection using Spiking Neural Networks**|Jan Debus et.al.|[2504.06730](http://arxiv.org/abs/2504.06730)|null|
+|**2025-04-09**|**Artificial Spin Ice: A Tutorial on Design and Control of Geometry, Microstate, Magnon Dynamics & Neuromorphic Computing**|Rawnak Sultana et.al.|[2504.06548](http://arxiv.org/abs/2504.06548)|null|
 |**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134](http://arxiv.org/abs/2504.06134)|null|
 |**2025-04-06**|**Three-Factor Learning in Spiking Neural Networks: An Overview of Methods and Trends from a Machine Learning Perspective**|Szymon Mazurek et.al.|[2504.05341](http://arxiv.org/abs/2504.05341)|null|
 |**2025-04-04**|**Decision SpikeFormer: Spike-Driven Transformer for Decision Making**|Wei Huang et.al.|[2504.03800](http://arxiv.org/abs/2504.03800)|null|
@@ -1012,6 +1016,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using Neuromorphic Intermediate Representation**|Sirine Arfa et.al.|[2504.06748](http://arxiv.org/abs/2504.06748)|null|
+|**2025-04-09**|**Artificial Spin Ice: A Tutorial on Design and Control of Geometry, Microstate, Magnon Dynamics & Neuromorphic Computing**|Rawnak Sultana et.al.|[2504.06548](http://arxiv.org/abs/2504.06548)|null|
 |**2025-04-08**|**Rhythmic neuromorphic control of a pendulum: A hybrid systems analysis**|E. Petri et.al.|[2504.06046](http://arxiv.org/abs/2504.06046)|null|
 |**2025-04-06**|**Three-Factor Learning in Spiking Neural Networks: An Overview of Methods and Trends from a Machine Learning Perspective**|Szymon Mazurek et.al.|[2504.05341](http://arxiv.org/abs/2504.05341)|null|
 |**2025-04-02**|**FLAMES: A Hybrid Spiking-State Space Model for Adaptive Memory Retention in Event-Based Learning**|Biswadeep Chakraborty et.al.|[2504.01257](http://arxiv.org/abs/2504.01257)|null|
@@ -1522,6 +1528,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755](http://arxiv.org/abs/2504.06755)|null|
+|**2025-04-09**|**ThoughtProbe: Classifier-Guided Thought Space Exploration Leveraging LLM Intrinsic Reasoning**|Zijian Wang et.al.|[2504.06650](http://arxiv.org/abs/2504.06650)|null|
 |**2025-04-07**|**Exploring Kernel Transformations for Implicit Neural Representations**|Sheng Zheng et.al.|[2504.04728](http://arxiv.org/abs/2504.04728)|null|
 |**2025-04-05**|**SDEIT: Semantic-Driven Electrical Impedance Tomography**|Dong Liu et.al.|[2504.04185](http://arxiv.org/abs/2504.04185)|null|
 |**2025-04-02**|**Decoding Covert Speech from EEG Using a Functional Areas Spatio-Temporal Transformer**|Muyun Jiang et.al.|[2504.03762](http://arxiv.org/abs/2504.03762)|null|
@@ -2417,6 +2425,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Low-latency control system for feedback experiments with optical tweezer arrays**|Amir H. Dadpour et.al.|[2504.06528](http://arxiv.org/abs/2504.06528)|null|
 |**2025-01-31**|**Swift: Rethinking RDMA Control Plane for Elastic Computing**|Junxue Zhang et.al.|[2501.19051](http://arxiv.org/abs/2501.19051)|null|
 |**2024-09-12**|**External Memories of PDP Switches for In-Network Implementable Functions Placement: Deep Learning Based Reconfiguration of SFCs**|Somayeh Kianpisheh et.al.|[2409.08043](http://arxiv.org/abs/2409.08043)|null|
 |**2024-08-15**|**P/D-Serve: Serving Disaggregated Large Language Model at Scale**|Yibo Jin et.al.|[2408.08147](http://arxiv.org/abs/2408.08147)|null|
