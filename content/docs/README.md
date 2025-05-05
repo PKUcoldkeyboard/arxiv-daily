@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-05-04"
+date: "2025-05-05"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-05-04"
+publishdate: "2025-05-05"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -74,6 +74,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Snakes in the Plane: Controllable Gliders in a Nanomagnetic Metamaterial**|Arthur Penty et.al.|[2505.01116](http://arxiv.org/abs/2505.01116)|null|
 |**2025-04-29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445](http://arxiv.org/abs/2504.20445)|null|
 |**2025-04-29**|**Large-scale artificial intelligence with 41 million nanophotonic neurons on a metasurface**|Mingcheng Luo et.al.|[2504.20416](http://arxiv.org/abs/2504.20416)|null|
 |**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694](http://arxiv.org/abs/2504.18694)|null|
@@ -1043,6 +1044,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Snakes in the Plane: Controllable Gliders in a Nanomagnetic Metamaterial**|Arthur Penty et.al.|[2505.01116](http://arxiv.org/abs/2505.01116)|null|
+|**2025-05-02**|**In-Situ Growth and Ionic Switching Behavior of Single-Crystalline Silver Iodide Nanoflakes**|Amir Parsi et.al.|[2505.01062](http://arxiv.org/abs/2505.01062)|null|
 |**2025-04-29**|**Large-scale artificial intelligence with 41 million nanophotonic neurons on a metasurface**|Mingcheng Luo et.al.|[2504.20416](http://arxiv.org/abs/2504.20416)|null|
 |**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694](http://arxiv.org/abs/2504.18694)|null|
 |**2025-04-20**|**A Bio-inspired Asymmetric Double-Gate Ferroelectric FET for Emulating Astrocyte and Dendrite Dynamics in Neuromorphic Systems**|Zhouhang Jiang et.al.|[2504.14466](http://arxiv.org/abs/2504.14466)|null|
