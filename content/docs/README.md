@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-05-05"
+date: "2025-05-06"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-05-05"
+publishdate: "2025-05-06"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -74,6 +74,11 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
+|**2025-05-04**|**Closed-loop control of seizure activity via real-time seizure forecasting by reservoir neuromorphic computing**|Maryam Sadeghi et.al.|[2505.02003](http://arxiv.org/abs/2505.02003)|null|
+|**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821](http://arxiv.org/abs/2505.01821)|null|
+|**2025-05-03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|Eva Andrés et.al.|[2505.01735](http://arxiv.org/abs/2505.01735)|null|
+|**2025-05-03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|Pranav Ramesh et.al.|[2505.01730](http://arxiv.org/abs/2505.01730)|null|
 |**2025-05-02**|**Snakes in the Plane: Controllable Gliders in a Nanomagnetic Metamaterial**|Arthur Penty et.al.|[2505.01116](http://arxiv.org/abs/2505.01116)|null|
 |**2025-04-29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445](http://arxiv.org/abs/2504.20445)|null|
 |**2025-04-29**|**Large-scale artificial intelligence with 41 million nanophotonic neurons on a metasurface**|Mingcheng Luo et.al.|[2504.20416](http://arxiv.org/abs/2504.20416)|null|
@@ -1044,6 +1049,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
+|**2025-05-04**|**Closed-loop control of seizure activity via real-time seizure forecasting by reservoir neuromorphic computing**|Maryam Sadeghi et.al.|[2505.02003](http://arxiv.org/abs/2505.02003)|null|
+|**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821](http://arxiv.org/abs/2505.01821)|null|
+|**2025-05-02**|**Dendritic Computing with Multi-Gate Ferroelectric Field-Effect Transistors**|A N M Nafiul Islam et.al.|[2505.01635](http://arxiv.org/abs/2505.01635)|null|
 |**2025-05-02**|**Snakes in the Plane: Controllable Gliders in a Nanomagnetic Metamaterial**|Arthur Penty et.al.|[2505.01116](http://arxiv.org/abs/2505.01116)|null|
 |**2025-05-02**|**In-Situ Growth and Ionic Switching Behavior of Single-Crystalline Silver Iodide Nanoflakes**|Amir Parsi et.al.|[2505.01062](http://arxiv.org/abs/2505.01062)|null|
 |**2025-04-29**|**Large-scale artificial intelligence with 41 million nanophotonic neurons on a metasurface**|Mingcheng Luo et.al.|[2504.20416](http://arxiv.org/abs/2504.20416)|null|
@@ -1572,6 +1581,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
 |**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500](http://arxiv.org/abs/2505.00500)|null|
 |**2025-05-01**|**Efficient Neural Video Representation with Temporally Coherent Modulation**|Seungjun Shin et.al.|[2505.00335](http://arxiv.org/abs/2505.00335)|null|
 |**2025-04-30**|**SR-NeRV: Improving Embedding Efficiency of Neural Video Representation via Super-Resolution**|Taiga Hayami et.al.|[2505.00046](http://arxiv.org/abs/2505.00046)|null|
@@ -2541,7 +2551,7 @@ categories: [""]
 |**2025-04-07**|**Sparsity-Aware Communication for Distributed Graph Neural Network Training**|Ujjaini Mukhodopadhyay et.al.|[2504.04673](http://arxiv.org/abs/2504.04673)|null|
 |**2025-03-26**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-02-25**|**ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**|Jiajun Huang et.al.|[2502.18554](http://arxiv.org/abs/2502.18554)|null|
-|**2025-03-21**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
+|**2025-05-03**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
 |**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|**[link](https://github.com/opensparsellms/linear-moe)**|
 |**2025-01-30**|**Chip-to-chip photonic connectivity in multi-accelerator servers for ML**|Abhishek Vijaya Kumar et.al.|[2501.18169](http://arxiv.org/abs/2501.18169)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
