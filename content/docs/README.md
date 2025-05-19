@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-05-18"
+date: "2025-05-19"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-05-18"
+publishdate: "2025-05-19"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -74,6 +74,15 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|null|
+|**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433](http://arxiv.org/abs/2505.11433)|null|
+|**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418](http://arxiv.org/abs/2505.11418)|null|
+|**2025-05-16**|**Lightweight LIF-only SNN accelerator using differential time encoding**|Daniel Windhager et.al.|[2505.11252](http://arxiv.org/abs/2505.11252)|null|
+|**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151](http://arxiv.org/abs/2505.11151)|null|
+|**2025-05-16**|**Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection**|Desong Zhang et.al.|[2505.11134](http://arxiv.org/abs/2505.11134)|null|
+|**2025-05-16**|**Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks**|Chiyue Wei et.al.|[2505.10909](http://arxiv.org/abs/2505.10909)|null|
+|**2025-05-16**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771](http://arxiv.org/abs/2505.10771)|null|
+|**2025-05-15**|**Nonreciprocal spin waves in out-of-plane magnetized waveguides reconfigured by domain wall displacements**|H. Mortada et.al.|[2505.10654](http://arxiv.org/abs/2505.10654)|null|
 |**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371](http://arxiv.org/abs/2505.10371)|null|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352](http://arxiv.org/abs/2505.10352)|null|
 |**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176](http://arxiv.org/abs/2505.10176)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|
@@ -144,7 +153,7 @@ categories: [""]
 |**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604](http://arxiv.org/abs/2503.22604)|null|
 |**2025-03-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
-|**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846](http://arxiv.org/abs/2503.21846)|null|
+|**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846](http://arxiv.org/abs/2503.21846)|**[link](https://github.com/YesmineAbdennadher/LightSNN)**|
 |**2025-03-27**|**No-drift phase-change memory alloy for neuromorphic computing**|Xiaozhe Wang et.al.|[2503.21446](http://arxiv.org/abs/2503.21446)|null|
 |**2025-03-27**|**Spiking Rate and Latency Encoding with Resonant Tunnelling Diode Neuron Circuits and Design Influences**|Giovanni Donati et.al.|[2503.21342](http://arxiv.org/abs/2503.21342)|null|
 |**2025-03-27**|**A 71.2- $μ$ W Speech Recognition Accelerator with Recurrent Spiking Neural Network**|Chih-Chyau Yang et.al.|[2503.21337](http://arxiv.org/abs/2503.21337)|null|
@@ -1067,12 +1076,14 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771](http://arxiv.org/abs/2505.10771)|null|
+|**2025-05-15**|**Nonreciprocal spin waves in out-of-plane magnetized waveguides reconfigured by domain wall displacements**|H. Mortada et.al.|[2505.10654](http://arxiv.org/abs/2505.10654)|null|
 |**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634](http://arxiv.org/abs/2505.07634)|**[link](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 |**2025-05-10**|**Nonlinearity Modulation of Auto-oscillations in Three-terminal Magnetic Tunnel Junctions**|Zixi Wang et.al.|[2505.06547](http://arxiv.org/abs/2505.06547)|null|
 |**2025-05-09**|**Sigma-Delta Neural Network Conversion on Loihi 2**|Matthew Brehove et.al.|[2505.06417](http://arxiv.org/abs/2505.06417)|null|
 |**2025-05-09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375](http://arxiv.org/abs/2505.05375)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
 |**2025-05-08**|**Report on Neural-like Criticality in Ag-based Nanoparticle Networks**|Blessing Adejube et.al.|[2505.05164](http://arxiv.org/abs/2505.05164)|null|
-|**2025-05-13**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
+|**2025-05-16**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
 |**2025-05-06**|**From Neurons to Computation: Biological Reservoir Computing for Pattern Recognition**|Ludovico Iannello et.al.|[2505.03510](http://arxiv.org/abs/2505.03510)|null|
 |**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
 |**2025-05-04**|**Closed-loop control of seizure activity via real-time seizure forecasting by reservoir neuromorphic computing**|Maryam Sadeghi et.al.|[2505.02003](http://arxiv.org/abs/2505.02003)|null|
@@ -1606,6 +1617,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**ImputeINR: Time Series Imputation via Implicit Neural Representations for Disease Diagnosis with Missing Data**|Mengxuan Li et.al.|[2505.10856](http://arxiv.org/abs/2505.10856)|null|
 |**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
 |**2025-05-14**|**Implicit Neural Representation of Waveform Measurements in Power Systems Waveform Data Analysis**|Narges Ehsani et.al.|[2505.09789](http://arxiv.org/abs/2505.09789)|null|
 |**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565](http://arxiv.org/abs/2505.09565)|null|
@@ -2585,6 +2597,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Roman Observations Time Allocation Committee: Final Report and Recommendations**|Gail Zasowski et.al.|[2505.10574](http://arxiv.org/abs/2505.10574)|null|
 |**2025-04-25**|**The Big Send-off: High Performance Collectives on GPU-based Supercomputers**|Siddharth Singh et.al.|[2504.18658](http://arxiv.org/abs/2504.18658)|null|
 |**2025-04-24**|**An Extensible Software Transport Layer for GPU Networking**|Yang Zhou et.al.|[2504.17307](http://arxiv.org/abs/2504.17307)|null|
 |**2025-04-20**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|**[link](https://github.com/microsoft/mscclpp)**|
