@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-06-02"
+date: "2025-06-03"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-06-02"
+publishdate: "2025-06-03"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -81,7 +81,7 @@ categories: [""]
 |**2025-05-28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|Erbing Hua et.al.|[2505.22789](http://arxiv.org/abs/2505.22789)|null|
 |**2025-05-28**|**Toward Fully Neuromorphic Receivers for Ultra-Power Efficient Communications**|George N. Katsaros et.al.|[2505.22508](http://arxiv.org/abs/2505.22508)|null|
 |**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035](http://arxiv.org/abs/2505.22035)|null|
-|**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185](http://arxiv.org/abs/2505.21185)|null|
+|**2025-06-02**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185](http://arxiv.org/abs/2505.21185)|null|
 |**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835](http://arxiv.org/abs/2505.20835)|**[link](https://github.com/AmazingDD/ECC-SNN)**|
 |**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834](http://arxiv.org/abs/2505.20834)|null|
 |**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442](http://arxiv.org/abs/2505.20442)|null|
@@ -1114,7 +1114,7 @@ categories: [""]
 |**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
 |**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
 |**2025-05-28**|**Toward Fully Neuromorphic Receivers for Ultra-Power Efficient Communications**|George N. Katsaros et.al.|[2505.22508](http://arxiv.org/abs/2505.22508)|null|
-|**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185](http://arxiv.org/abs/2505.21185)|null|
+|**2025-06-02**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185](http://arxiv.org/abs/2505.21185)|null|
 |**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442](http://arxiv.org/abs/2505.20442)|null|
 |**2025-05-21**|**Neuromorphic Mimicry Attacks Exploiting Brain-Inspired Computing for Covert Cyber Intrusions**|Hemanth Ravipati et.al.|[2505.17094](http://arxiv.org/abs/2505.17094)|null|
 |**2025-05-22**|**Magnetic vortex writing and local reversal seeding in artificial spin-vortex ice via all-optical and surface-probe control**|Holly Holder et.al.|[2505.16874](http://arxiv.org/abs/2505.16874)|null|
@@ -1677,7 +1677,7 @@ categories: [""]
 |**2025-05-27**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425](http://arxiv.org/abs/2505.21425)|null|
 |**2025-05-26**|**CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code Evaluation**|Guang Yang et.al.|[2505.19502](http://arxiv.org/abs/2505.19502)|null|
 |**2025-05-24**|**Neural Coding Is Not Always Semantic: Towards The Standardized Coding Workflow in Semantic Communications**|Hai-Long Qin et.al.|[2505.18637](http://arxiv.org/abs/2505.18637)|null|
-|**2025-05-27**|**Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain**|Trinity Chung et.al.|[2505.18361](http://arxiv.org/abs/2505.18361)|null|
+|**2025-05-31**|**Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain**|Trinity Chung et.al.|[2505.18361](http://arxiv.org/abs/2505.18361)|null|
 |**2025-05-23**|**The Origins of Representation Manifolds in Large Language Models**|Alexander Modell et.al.|[2505.18235](http://arxiv.org/abs/2505.18235)|**[link](https://github.com/alexandermodell/representation-manifolds)**|
 |**2025-05-23**|**Shaping freeform nanophotonic devices with geometric neural parameterization**|Tianxiang Dai et.al.|[2505.17499](http://arxiv.org/abs/2505.17499)|null|
 |**2025-05-22**|**Implicit Neural Shape Optimization for 3D High-Contrast Electrical Impedance Tomography**|Junqing Chen et.al.|[2505.16487](http://arxiv.org/abs/2505.16487)|null|
