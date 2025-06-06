@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-06-05"
+date: "2025-06-06"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-06-05"
+publishdate: "2025-06-06"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -75,6 +75,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini. Federico Becattini et.al.|[2506.04817](http://arxiv.org/abs/2506.04817)|null|
+|**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526](http://arxiv.org/abs/2506.04526)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996](http://arxiv.org/abs/2506.03996)|null|
 |**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918](http://arxiv.org/abs/2506.03918)|null|
 |**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|null|
@@ -84,7 +86,7 @@ categories: [""]
 |**2025-06-01**|**Spatio-Temporal Decoupled Learning for Spiking Neural Networks**|Chenxiang Ma et.al.|[2506.01117](http://arxiv.org/abs/2506.01117)|null|
 |**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
 |**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
-|**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
+|**2025-06-05**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
 |**2025-05-28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|Erbing Hua et.al.|[2505.22789](http://arxiv.org/abs/2505.22789)|null|
 |**2025-05-28**|**Toward Fully Neuromorphic Receivers for Ultra-Power Efficient Communications**|George N. Katsaros et.al.|[2505.22508](http://arxiv.org/abs/2505.22508)|null|
 |**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035](http://arxiv.org/abs/2505.22035)|null|
@@ -1118,11 +1120,12 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Analog dual classifier via a time-modulated neuromorphic metasurface**|M. Mousa et.al.|[2506.04629](http://arxiv.org/abs/2506.04629)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996](http://arxiv.org/abs/2506.03996)|null|
 |**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|null|
 |**2025-06-02**|**The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives**|Hemanth Sabbella et.al.|[2506.01737](http://arxiv.org/abs/2506.01737)|null|
 |**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
-|**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
+|**2025-06-05**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
 |**2025-05-28**|**Toward Fully Neuromorphic Receivers for Ultra-Power Efficient Communications**|George N. Katsaros et.al.|[2505.22508](http://arxiv.org/abs/2505.22508)|null|
 |**2025-06-02**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185](http://arxiv.org/abs/2505.21185)|null|
 |**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442](http://arxiv.org/abs/2505.20442)|null|
@@ -1680,6 +1683,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Evaluating Sparse Autoencoders: From Shallow Design to Matching Pursuit**|Valérie Costa et.al.|[2506.05239](http://arxiv.org/abs/2506.05239)|null|
 |**2025-06-04**|**A Few Moments Please: Scalable Graphon Learning via Moment Matching**|Reza Ramezanpour et.al.|[2506.04206](http://arxiv.org/abs/2506.04206)|null|
 |**2025-06-03**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088](http://arxiv.org/abs/2506.03088)|null|
 |**2025-06-02**|**LibriBrain: Over 50 Hours of Within-Subject MEG to Improve Speech Decoding Methods at Scale**|Miran Özdogan et.al.|[2506.02098](http://arxiv.org/abs/2506.02098)|null|
