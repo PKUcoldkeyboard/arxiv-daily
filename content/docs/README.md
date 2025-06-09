@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-06-08"
+date: "2025-06-09"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-06-08"
+publishdate: "2025-06-09"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1734,7 +1734,7 @@ categories: [""]
 |**2025-04-30**|**LSNIF: Locally-Subdivided Neural Intersection Function**|Shin Fujieda et.al.|[2504.21627](http://arxiv.org/abs/2504.21627)|null|
 |**2025-04-29**|**Exploring internal representation of self-supervised networks: few-shot learning abilities and comparison with human semantics and recognition of objects**|Asaki Kataoka et.al.|[2504.20364](http://arxiv.org/abs/2504.20364)|null|
 |**2025-04-28**|**Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations**|Khoa Tuan Nguyen et.al.|[2504.19402](http://arxiv.org/abs/2504.19402)|null|
-|**2025-04-27**|**Neurosymbolic Association Rule Mining from Tabular Data**|Erkan Karabulut et.al.|[2504.19354](http://arxiv.org/abs/2504.19354)|null|
+|**2025-04-27**|**Neurosymbolic Association Rule Mining from Tabular Data**|Erkan Karabulut et.al.|[2504.19354](http://arxiv.org/abs/2504.19354)|**[link](https://github.com/DiTEC-project/pyaerial)**|
 |**2025-04-27**|**VI3NR: Variance Informed Initialization for Implicit Neural Representations**|Chamin Hewa Koneputugodage et.al.|[2504.19270](http://arxiv.org/abs/2504.19270)|null|
 |**2025-04-26**|**QFGN: A Quantum Approach to High-Fidelity Implicit Neural Representations**|Hongni Jin et.al.|[2504.19053](http://arxiv.org/abs/2504.19053)|null|
 |**2025-04-26**|**Frequency-Integrated Transformer for Arbitrary-Scale Super-Resolution**|Xufei Wang et.al.|[2504.18818](http://arxiv.org/abs/2504.18818)|null|
