@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-06-17"
+date: "2025-06-18"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-06-17"
+publishdate: "2025-06-18"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -76,6 +76,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
+|**2025-06-17**|**Reconfigurable three dimensional magnetic nanoarchitectures**|Sabri Koraltan et.al.|[2506.14383](http://arxiv.org/abs/2506.14383)|null|
+|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
+|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
 |**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416](http://arxiv.org/abs/2506.13416)|null|
 |**2025-06-16**|**Training Neural Networks by Optimizing Neuron Positions**|Laura Erb et.al.|[2506.13410](http://arxiv.org/abs/2506.13410)|null|
 |**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400](http://arxiv.org/abs/2506.13400)|null|
@@ -1143,6 +1147,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
+|**2025-06-17**|**Reconfigurable three dimensional magnetic nanoarchitectures**|Sabri Koraltan et.al.|[2506.14383](http://arxiv.org/abs/2506.14383)|null|
+|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
+|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
 |**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416](http://arxiv.org/abs/2506.13416)|null|
 |**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
 |**2025-06-13**|**Synaptic plasticity in Co/Nb:STO memristive devices: The role of oxygen vacancies**|Walter Quiñonez et.al.|[2506.11965](http://arxiv.org/abs/2506.11965)|null|
@@ -2595,6 +2603,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Resource Optimization with MPI Process Malleability for Dynamic Workloads in HPC Clusters**|Sergio Iserte et.al.|[2506.14743](http://arxiv.org/abs/2506.14743)|null|
+|**2025-06-17**|**Concepts for designing modern C++ interfaces for MPI**|C. Nicole Avans et.al.|[2506.14610](http://arxiv.org/abs/2506.14610)|null|
 |**2025-06-03**|**Scalable Distributed Memory Implementation of the Quasi-Adiabatic Propagator Path Integral**|Roman Ovcharenko et.al.|[2506.03127](http://arxiv.org/abs/2506.03127)|null|
 |**2025-04-30**|**Coalescing MPI communication in 6D Vlasov simulations: solving ghost domains in Vlasiator**|Markus Battarbee et.al.|[2504.21450](http://arxiv.org/abs/2504.21450)|null|
 |**2025-04-21**|**An island-parallel ensemble metaheuristic algorithm for large graph coloring problems**|Tansel Dokeroglu et.al.|[2504.15082](http://arxiv.org/abs/2504.15082)|null|
@@ -2656,6 +2666,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Concepts for designing modern C++ interfaces for MPI**|C. Nicole Avans et.al.|[2506.14610](http://arxiv.org/abs/2506.14610)|null|
 |**2025-06-03**|**Exploring metrics for analyzing dynamic behavior in MPI programs via a coupled-oscillator model**|Ayesha Afzal et.al.|[2506.02792](http://arxiv.org/abs/2506.02792)|null|
 |**2025-04-30**|**Coalescing MPI communication in 6D Vlasov simulations: solving ghost domains in Vlasiator**|Markus Battarbee et.al.|[2504.21450](http://arxiv.org/abs/2504.21450)|null|
 |**2025-04-21**|**An island-parallel ensemble metaheuristic algorithm for large graph coloring problems**|Tansel Dokeroglu et.al.|[2504.15082](http://arxiv.org/abs/2504.15082)|null|
