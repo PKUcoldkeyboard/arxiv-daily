@@ -1,13 +1,13 @@
 ---
 weight: 2
-date: "2025-06-18"
+date: "2025-06-19"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-06-18"
+publishdate: "2025-06-19"
 tags: ["Beginners"]
 categories: [""]
 ---
