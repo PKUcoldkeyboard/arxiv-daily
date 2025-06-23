@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-06-22"
+date: "2025-06-23"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-06-22"
+publishdate: "2025-06-23"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -76,6 +76,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni et.al.|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
+|**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169](http://arxiv.org/abs/2506.17169)|null|
 |**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984](http://arxiv.org/abs/2506.14984)|**[link](https://github.com/mdominijanni/dsstdp-results)**|
 |**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
 |**2025-06-17**|**Reconfigurable three dimensional magnetic nanoarchitectures**|Sabri Koraltan et.al.|[2506.14383](http://arxiv.org/abs/2506.14383)|null|
@@ -87,12 +89,12 @@ categories: [""]
 |**2025-06-16**|**Probabilistic Modeling of Spiking Neural Networks with Contract-Based Verification**|Zhen Yao et.al.|[2506.13340](http://arxiv.org/abs/2506.13340)|null|
 |**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
 |**2025-06-13**|**Synaptic plasticity in Co/Nb:STO memristive devices: The role of oxygen vacancies**|Walter Quiñonez et.al.|[2506.11965](http://arxiv.org/abs/2506.11965)|null|
-|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760](http://arxiv.org/abs/2506.11760)|null|
+|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760](http://arxiv.org/abs/2506.11760)|**[link](https://github.com/neworderofjamie/riscv_ise)**|
 |**2025-06-12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|Phu Khanh Huynh et.al.|[2506.11286](http://arxiv.org/abs/2506.11286)|null|
 |**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695](http://arxiv.org/abs/2506.09695)|**[link](https://github.com/wuchangw/fastersnn)**|
 |**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599](http://arxiv.org/abs/2506.09599)|null|
 |**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194](http://arxiv.org/abs/2506.09194)|**[link](https://github.com/vnd-ogrenme/ongorusel-kodlama)**|
-|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087](http://arxiv.org/abs/2506.09087)|null|
+|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087](http://arxiv.org/abs/2506.09087)|**[link](https://github.com/sophiejaffard/mel)**|
 |**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842](http://arxiv.org/abs/2506.08842)|null|
 |**2025-06-10**|**Frequency as a Clock: Synchronization and Intrinsic Recovery in Graphene Transistor Dynamics**|Victor Lopez-Richard et.al.|[2506.08728](http://arxiv.org/abs/2506.08728)|null|
 |**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138](http://arxiv.org/abs/2506.08138)|**[link](https://github.com/naclab/snndynamicspracticalguide)**|
@@ -132,7 +134,7 @@ categories: [""]
 |**2025-05-22**|**Magnetic vortex writing and local reversal seeding in artificial spin-vortex ice via all-optical and surface-probe control**|Holly Holder et.al.|[2505.16874](http://arxiv.org/abs/2505.16874)|null|
 |**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649](http://arxiv.org/abs/2505.16649)|**[link](https://github.com/zhichaozhu/stochasticforwardforward)**|
 |**2025-05-22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|El-ghazali Talbi et.al.|[2505.16362](http://arxiv.org/abs/2505.16362)|null|
-|**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719](http://arxiv.org/abs/2505.14719)|null|
+|**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719](http://arxiv.org/abs/2505.14719)|**[link](https://github.com/nanhu-ai-lab/msvit)**|
 |**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
 |**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533](http://arxiv.org/abs/2505.14533)|null|
 |**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741](http://arxiv.org/abs/2505.13741)|null|
@@ -1148,6 +1150,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni et.al.|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
 |**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984](http://arxiv.org/abs/2506.14984)|**[link](https://github.com/mdominijanni/dsstdp-results)**|
 |**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
 |**2025-06-17**|**Reconfigurable three dimensional magnetic nanoarchitectures**|Sabri Koraltan et.al.|[2506.14383](http://arxiv.org/abs/2506.14383)|null|
@@ -1725,6 +1728,12 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
+|**2025-06-19**|**Data Compression with Relative Entropy Coding**|Gergely Flamich et.al.|[2506.16309](http://arxiv.org/abs/2506.16309)|null|
+|**2025-06-19**|**From Coarse to Continuous: Progressive Refinement Implicit Neural Representation for Motion-Robust Anisotropic MRI Reconstruction**|Zhenxuan Zhang et.al.|[2506.16210](http://arxiv.org/abs/2506.16210)|null|
+|**2025-06-19**|**Information-computation trade-offs in non-linear transforms**|Connor Ding et.al.|[2506.15948](http://arxiv.org/abs/2506.15948)|null|
+|**2025-06-18**|**GratNet: A Photorealistic Neural Shader for Diffractive Surfaces**|Narayan Kandel et.al.|[2506.15815](http://arxiv.org/abs/2506.15815)|null|
+|**2025-06-18**|**Implicit neural representations for accurate estimation of the standard model of white matter**|Tom Hendriks et.al.|[2506.15762](http://arxiv.org/abs/2506.15762)|null|
 |**2025-06-18**|**The Compositional Architecture of Regret in Large Language Models**|Xiangxiang Cui et.al.|[2506.15617](http://arxiv.org/abs/2506.15617)|null|
 |**2025-06-18**|**MSNeRV: Neural Video Representation with Multi-Scale Feature Fusion**|Jun Zhu et.al.|[2506.15276](http://arxiv.org/abs/2506.15276)|null|
 |**2025-06-16**|**Vector Ontologies as an LLM world view extraction method**|Kaspar Rothenfusser et.al.|[2506.13252](http://arxiv.org/abs/2506.13252)|**[link](https://github.com/Thoughtful-Oasis/LLM-Worldview-Extraction-using-vector-ontologies)**|
@@ -1734,7 +1743,7 @@ categories: [""]
 |**2025-06-14**|**Adaptive Multi-resolution Hash-Encoding Framework for INR-based Dental CBCT Reconstruction with Truncated FOV**|Hyoung Suk Park et.al.|[2506.12471](http://arxiv.org/abs/2506.12471)|null|
 |**2025-06-13**|**FieldFormer: Self-supervised Reconstruction of Physical Fields via Tensor Attention Prior**|Panqi Chen et.al.|[2506.11629](http://arxiv.org/abs/2506.11629)|null|
 |**2025-06-11**|**Brain-wide interpolation and conditioning of gene expression in the human brain using Implicit Neural Representations**|Xizheng Yu et.al.|[2506.11158](http://arxiv.org/abs/2506.11158)|null|
-|**2025-06-10**|**Grids Often Outperform Implicit Neural Representations**|Namhoon Kim et.al.|[2506.11139](http://arxiv.org/abs/2506.11139)|null|
+|**2025-06-10**|**Grids Often Outperform Implicit Neural Representations**|Namhoon Kim et.al.|[2506.11139](http://arxiv.org/abs/2506.11139)|**[link](https://github.com/voilalab/inr-benchmark)**|
 |**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|**[link](https://github.com/boazlavon/eg_cfg)**|
 |**2025-06-11**|**HiKO: A Hierarchical Framework for Beyond-Second-Order KO Codes**|Shubham Srivastava et.al.|[2506.10121](http://arxiv.org/abs/2506.10121)|null|
 |**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|**[link](https://github.com/gregongie/super_inrs)**|
@@ -2765,6 +2774,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**ViFusion: In-Network Tensor Fusion for Scalable Video Feature Indexing**|Yisu Wang et.al.|[2506.16258](http://arxiv.org/abs/2506.16258)|null|
 |**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|**[link](https://github.com/gensyn-ai/noloco)**|
 |**2025-06-03**|**DiOMP-Offloading: Toward Portable Distributed Heterogeneous OpenMP**|Baodi Shan et.al.|[2506.02486](http://arxiv.org/abs/2506.02486)|null|
 |**2025-05-24**|**PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient Collective Communication in Distributed Deep Learning**|Yisu Wang et.al.|[2505.18563](http://arxiv.org/abs/2505.18563)|null|
