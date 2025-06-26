@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-06-25"
+date: "2025-06-26"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-06-25"
+publishdate: "2025-06-26"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -76,8 +76,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015](http://arxiv.org/abs/2506.20015)|null|
 |**2025-06-24**|**A Unified Platform to Evaluate STDP Learning Rule and Synapse Model using Pattern Recognition in a Spiking Neural Network**|Jaskirat Singh Maskeen et.al.|[2506.19377](http://arxiv.org/abs/2506.19377)|null|
-|**2025-06-24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256](http://arxiv.org/abs/2506.19256)|null|
+|**2025-06-24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256](http://arxiv.org/abs/2506.19256)|**[link](https://github.com/ZBX05/Temporal-Regularization-Training)**|
 |**2025-06-21**|**From Tiny Machine Learning to Tiny Deep Learning: A Survey**|Shriyank Somvanshi et.al.|[2506.18927](http://arxiv.org/abs/2506.18927)|null|
 |**2025-06-23**|**Embedded FPGA Acceleration of Brain-Like Neural Networks: Online Learning to Scalable Inference**|Muhammad Ihsan Al Hafiz et.al.|[2506.18530](http://arxiv.org/abs/2506.18530)|null|
 |**2025-06-23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|Andrey Derzhavin et.al.|[2506.18306](http://arxiv.org/abs/2506.18306)|null|
@@ -1155,6 +1156,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015](http://arxiv.org/abs/2506.20015)|null|
 |**2025-06-21**|**From Tiny Machine Learning to Tiny Deep Learning: A Survey**|Shriyank Somvanshi et.al.|[2506.18927](http://arxiv.org/abs/2506.18927)|null|
 |**2025-06-23**|**Embedded FPGA Acceleration of Brain-Like Neural Networks: Online Learning to Scalable Inference**|Muhammad Ihsan Al Hafiz et.al.|[2506.18530](http://arxiv.org/abs/2506.18530)|null|
 |**2025-06-23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|Andrey Derzhavin et.al.|[2506.18306](http://arxiv.org/abs/2506.18306)|null|
@@ -1736,12 +1738,14 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
+|**2025-06-25**|**Brains and language models converge on a shared conceptual space across different languages**|Zaid Zada et.al.|[2506.20489](http://arxiv.org/abs/2506.20489)|null|
+|**2025-06-24**|**Cross-Layer Discrete Concept Discovery for Interpreting Language Models**|Ankur Garg et.al.|[2506.20040](http://arxiv.org/abs/2506.20040)|null|
+|**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
 |**2025-06-22**|**The Relationship between Cognition and Computation: "Global-first" Cognition versus Local-first Computation**|Lin Chen et.al.|[2506.17970](http://arxiv.org/abs/2506.17970)|null|
 |**2025-06-17**|**Fine-Scale Soil Mapping in Alaska with Multimodal Machine Learning**|Yijun Lin et.al.|[2506.17302](http://arxiv.org/abs/2506.17302)|null|
 |**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
 |**2025-06-19**|**Data Compression with Relative Entropy Coding**|Gergely Flamich et.al.|[2506.16309](http://arxiv.org/abs/2506.16309)|null|
-|**2025-06-19**|**From Coarse to Continuous: Progressive Refinement Implicit Neural Representation for Motion-Robust Anisotropic MRI Reconstruction**|Zhenxuan Zhang et.al.|[2506.16210](http://arxiv.org/abs/2506.16210)|null|
+|**2025-06-24**|**From Coarse to Continuous: Progressive Refinement Implicit Neural Representation for Motion-Robust Anisotropic MRI Reconstruction**|Zhenxuan Zhang et.al.|[2506.16210](http://arxiv.org/abs/2506.16210)|null|
 |**2025-06-19**|**Information-computation trade-offs in non-linear transforms**|Connor Ding et.al.|[2506.15948](http://arxiv.org/abs/2506.15948)|null|
 |**2025-06-18**|**GratNet: A Photorealistic Neural Shader for Diffractive Surfaces**|Narayan Kandel et.al.|[2506.15815](http://arxiv.org/abs/2506.15815)|null|
 |**2025-06-18**|**Implicit neural representations for accurate estimation of the standard model of white matter**|Tom Hendriks et.al.|[2506.15762](http://arxiv.org/abs/2506.15762)|null|
