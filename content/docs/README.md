@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-06-30"
+date: "2025-07-01"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-06-30"
+publishdate: "2025-07-01"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -76,6 +76,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
+|**2025-06-30**|**Training of Spiking Neural Networks with Expectation-Propagation**|Dan Yao et.al.|[2506.23757](http://arxiv.org/abs/2506.23757)|null|
+|**2025-06-30**|**Towards Efficient and Accurate Spiking Neural Networks via Adaptive Bit Allocation**|Xingting Yao et.al.|[2506.23717](http://arxiv.org/abs/2506.23717)|null|
 |**2025-06-27**|**Unified Memcapacitor-Memristor Memory for Synaptic Weights and Neuron Temporal Dynamics**|Simone D'Agostino et.al.|[2506.22227](http://arxiv.org/abs/2506.22227)|null|
 |**2025-06-26**|**Analog Programmable-Photonic Information**|Andrés Macho Ortiz et.al.|[2506.21649](http://arxiv.org/abs/2506.21649)|null|
 |**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363](http://arxiv.org/abs/2506.21363)|null|
@@ -1161,6 +1164,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Sustainable operation of research infrastructure for novel computing**|Yannik Stradmann et.al.|[2506.23901](http://arxiv.org/abs/2506.23901)|null|
 |**2025-06-26**|**Analog Programmable-Photonic Information**|Andrés Macho Ortiz et.al.|[2506.21649](http://arxiv.org/abs/2506.21649)|null|
 |**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363](http://arxiv.org/abs/2506.21363)|null|
 |**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324](http://arxiv.org/abs/2506.21324)|null|
@@ -1747,11 +1751,16 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
+|**2025-06-30**|**Neural inference of fluid-structure interactions from sparse off-body measurements**|Rui Tang et.al.|[2506.23480](http://arxiv.org/abs/2506.23480)|null|
+|**2025-06-30**|**Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting**|Zhaojie Zeng et.al.|[2506.23479](http://arxiv.org/abs/2506.23479)|null|
+|**2025-06-29**|**SIEDD: Shared-Implicit Encoder with Discrete Decoders**|Vikram Rangarajan et.al.|[2506.23382](http://arxiv.org/abs/2506.23382)|null|
+|**2025-06-28**|**Neural Cellular Automata: From Cells to Pixels**|Ehsan Pajouheshgar et.al.|[2506.22899](http://arxiv.org/abs/2506.22899)|null|
 |**2025-06-27**|**Low-Rank Implicit Neural Representation via Schatten-p Quasi-Norm and Jacobian Regularization**|Zhengyun Cheng et.al.|[2506.22134](http://arxiv.org/abs/2506.22134)|null|
 |**2025-06-25**|**Brains and language models converge on a shared conceptual space across different languages**|Zaid Zada et.al.|[2506.20489](http://arxiv.org/abs/2506.20489)|null|
 |**2025-06-24**|**Cross-Layer Discrete Concept Discovery for Interpreting Language Models**|Ankur Garg et.al.|[2506.20040](http://arxiv.org/abs/2506.20040)|null|
 |**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
-|**2025-06-27**|**The Relationship between Cognition and Computation: "Global-first" Cognition versus Local-first Computation**|Lin Chen et.al.|[2506.17970](http://arxiv.org/abs/2506.17970)|null|
+|**2025-06-30**|**The Relationship between Cognition and Computation: "Global-first" Cognition versus Local-first Computation**|Lin Chen et.al.|[2506.17970](http://arxiv.org/abs/2506.17970)|null|
 |**2025-06-17**|**Fine-Scale Soil Mapping in Alaska with Multimodal Machine Learning**|Yijun Lin et.al.|[2506.17302](http://arxiv.org/abs/2506.17302)|null|
 |**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
 |**2025-06-19**|**Data Compression with Relative Entropy Coding**|Gergely Flamich et.al.|[2506.16309](http://arxiv.org/abs/2506.16309)|null|
@@ -2771,6 +2780,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**The Kubernetes Network Driver Model: A Composable Architecture for High-Performance Networking**|Antonio Ojea et.al.|[2506.23628](http://arxiv.org/abs/2506.23628)|null|
 |**2025-05-23**|**H2:Towards Efficient Large-Scale LLM Training on Hyper-Heterogeneous Cluster over 1,000 Chips**|Ding Tang et.al.|[2505.17548](http://arxiv.org/abs/2505.17548)|null|
 |**2025-05-09**|**Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients**|Jinsheng Yuan et.al.|[2505.06335](http://arxiv.org/abs/2505.06335)|null|
 |**2025-05-10**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366](http://arxiv.org/abs/2505.05366)|null|
