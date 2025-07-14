@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-07-13"
+date: "2025-07-14"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-07-13"
+publishdate: "2025-07-14"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -76,6 +76,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490](http://arxiv.org/abs/2507.08490)|null|
+|**2025-07-11**|**Electrothermally Modulated Nanophotonic Waveguide-integrated Ring Resonator**|Sujal Gupta et.al.|[2507.08332](http://arxiv.org/abs/2507.08332)|null|
+|**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320](http://arxiv.org/abs/2507.08320)|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
 |**2025-07-10**|**Phase-Space Framework for Noisy Intermediate-Scale Quantum Optical Neural Networks**|Stanisław Świerczewski et.al.|[2507.07684](http://arxiv.org/abs/2507.07684)|null|
 |**2025-07-10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396](http://arxiv.org/abs/2507.07396)|null|
@@ -1179,6 +1182,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490](http://arxiv.org/abs/2507.08490)|null|
+|**2025-07-11**|**Electrothermally Modulated Nanophotonic Waveguide-integrated Ring Resonator**|Sujal Gupta et.al.|[2507.08332](http://arxiv.org/abs/2507.08332)|null|
+|**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320](http://arxiv.org/abs/2507.08320)|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
 |**2025-07-10**|**Phase-Space Framework for Noisy Intermediate-Scale Quantum Optical Neural Networks**|Stanisław Świerczewski et.al.|[2507.07684](http://arxiv.org/abs/2507.07684)|null|
 |**2025-07-10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396](http://arxiv.org/abs/2507.07396)|null|
