@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-07-15"
+date: "2025-07-16"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-07-15"
+publishdate: "2025-07-16"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -77,6 +77,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-14**|**Bulk spin-orbit torque-driven spin Hall nano-oscillators using PtBi alloys**|Utkarsh Shashank et.al.|[2507.10219](http://arxiv.org/abs/2507.10219)|null|
 |**2025-07-14**|**Field-effect transistors based on charged domain walls in van der Waals ferroelectric α-In $_2$Se$_3$**|Shahriar Muhammad Nahid et.al.|[2507.09838](http://arxiv.org/abs/2507.09838)|null|
 |**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540](http://arxiv.org/abs/2507.09540)|null|
@@ -1188,6 +1189,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**LASANA: Large-scale Surrogate Modeling for Analog Neuromorphic Architecture Exploration**|Jason Ho et.al.|[2507.10748](http://arxiv.org/abs/2507.10748)|null|
+|**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-14**|**Bulk spin-orbit torque-driven spin Hall nano-oscillators using PtBi alloys**|Utkarsh Shashank et.al.|[2507.10219](http://arxiv.org/abs/2507.10219)|null|
 |**2025-07-14**|**Field-effect transistors based on charged domain walls in van der Waals ferroelectric α-In $_2$Se$_3$**|Shahriar Muhammad Nahid et.al.|[2507.09838](http://arxiv.org/abs/2507.09838)|null|
 |**2025-07-13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|Zainab Ali et.al.|[2507.09538](http://arxiv.org/abs/2507.09538)|null|
@@ -1795,8 +1798,12 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**COLI: A Hierarchical Efficient Compressor for Large Images**|Haoran Wang et.al.|[2507.11443](http://arxiv.org/abs/2507.11443)|null|
+|**2025-07-15**|**HANS-Net: Hyperbolic Convolution and Adaptive Temporal Attention for Accurate and Generalizable Liver and Tumor Segmentation in CT Imaging**|Arefin Ittesafun Abian et.al.|[2507.11325](http://arxiv.org/abs/2507.11325)|null|
+|**2025-07-15**|**Defining neurosymbolic AI**|Lennert De Smet et.al.|[2507.11127](http://arxiv.org/abs/2507.11127)|null|
+|**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
-|**2025-07-14**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
+|**2025-07-15**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
 |**2025-07-14**|**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**|Jiamin Wu et.al.|[2507.09882](http://arxiv.org/abs/2507.09882)|null|
 |**2025-07-13**|**BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings**|Dongyang Li et.al.|[2507.09747](http://arxiv.org/abs/2507.09747)|null|
 |**2025-07-11**|**CNeuroMod-THINGS, a densely-sampled fMRI dataset for visual neuroscience**|Marie St-Laurent et.al.|[2507.09024](http://arxiv.org/abs/2507.09024)|null|
