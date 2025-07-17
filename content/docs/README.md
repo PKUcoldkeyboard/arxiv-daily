@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-07-16"
+date: "2025-07-17"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-07-16"
+publishdate: "2025-07-17"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1189,6 +1189,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Simulated Language Acquisition in a Biologically Realistic Model of the Brain**|Daniel Mitropolsky et.al.|[2507.11788](http://arxiv.org/abs/2507.11788)|null|
 |**2025-07-14**|**LASANA: Large-scale Surrogate Modeling for Analog Neuromorphic Architecture Exploration**|Jason Ho et.al.|[2507.10748](http://arxiv.org/abs/2507.10748)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-14**|**Bulk spin-orbit torque-driven spin Hall nano-oscillators using PtBi alloys**|Utkarsh Shashank et.al.|[2507.10219](http://arxiv.org/abs/2507.10219)|null|
@@ -1798,6 +1799,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Einstein Fields: A Neural Perspective To Computational General Relativity**|Sandeep Suresh Cranganore et.al.|[2507.11589](http://arxiv.org/abs/2507.11589)|null|
 |**2025-07-15**|**COLI: A Hierarchical Efficient Compressor for Large Images**|Haoran Wang et.al.|[2507.11443](http://arxiv.org/abs/2507.11443)|null|
 |**2025-07-15**|**HANS-Net: Hyperbolic Convolution and Adaptive Temporal Attention for Accurate and Generalizable Liver and Tumor Segmentation in CT Imaging**|Arefin Ittesafun Abian et.al.|[2507.11325](http://arxiv.org/abs/2507.11325)|null|
 |**2025-07-15**|**Defining neurosymbolic AI**|Lennert De Smet et.al.|[2507.11127](http://arxiv.org/abs/2507.11127)|null|
