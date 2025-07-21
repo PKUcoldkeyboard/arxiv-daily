@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-07-20"
+date: "2025-07-21"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-07-20"
+publishdate: "2025-07-21"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -77,6 +77,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069](http://arxiv.org/abs/2507.14069)|null|
 |**2025-07-17**|**Geometrical Tailoring of Shockley-Ramo Bipolar Photocurrent in Self-powered GaAs Nanodevices**|Xiaoguo Fang et.al.|[2507.12794](http://arxiv.org/abs/2507.12794)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-14**|**Bulk spin-orbit torque-driven spin Hall nano-oscillators using PtBi alloys**|Utkarsh Shashank et.al.|[2507.10219](http://arxiv.org/abs/2507.10219)|null|
@@ -1190,9 +1191,11 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069](http://arxiv.org/abs/2507.14069)|null|
+|**2025-07-18**|**An End-to-End DNN Inference Framework for the SpiNNaker2 Neuromorphic MPSoC**|Matthias Jobst et.al.|[2507.13736](http://arxiv.org/abs/2507.13736)|null|
 |**2025-07-17**|**Geometrical Tailoring of Shockley-Ramo Bipolar Photocurrent in Self-powered GaAs Nanodevices**|Xiaoguo Fang et.al.|[2507.12794](http://arxiv.org/abs/2507.12794)|null|
 |**2025-07-15**|**Simulated Language Acquisition in a Biologically Realistic Model of the Brain**|Daniel Mitropolsky et.al.|[2507.11788](http://arxiv.org/abs/2507.11788)|null|
-|**2025-07-14**|**LASANA: Large-scale Surrogate Modeling for Analog Neuromorphic Architecture Exploration**|Jason Ho et.al.|[2507.10748](http://arxiv.org/abs/2507.10748)|null|
+|**2025-07-18**|**LASANA: Large-Scale Surrogate Modeling for Analog Neuromorphic Architecture Exploration**|Jason Ho et.al.|[2507.10748](http://arxiv.org/abs/2507.10748)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
 |**2025-07-14**|**Bulk spin-orbit torque-driven spin Hall nano-oscillators using PtBi alloys**|Utkarsh Shashank et.al.|[2507.10219](http://arxiv.org/abs/2507.10219)|null|
 |**2025-07-14**|**Field-effect transistors based on charged domain walls in van der Waals ferroelectric α-In $_2$Se$_3$**|Shahriar Muhammad Nahid et.al.|[2507.09838](http://arxiv.org/abs/2507.09838)|null|
@@ -1801,7 +1804,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
+|**2025-07-18**|**Spacecraft Safe Robust Control Using Implicit Neural Representation for Geometrically Complex Targets in Proximity Operations**|Hang Zhou et.al.|[2507.13672](http://arxiv.org/abs/2507.13672)|null|
+|**2025-07-18**|**State Space Models Naturally Produce Traveling Waves, Time Cells, and Scale to Abstract Cognitive Functions**|Sen Lu et.al.|[2507.13638](http://arxiv.org/abs/2507.13638)|null|
+|**2025-07-18**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
 |**2025-07-17**|**cIDIR: Conditioned Implicit Neural Representation for Regularized Deformable Image Registration**|Sidaty El Hadramy et.al.|[2507.12953](http://arxiv.org/abs/2507.12953)|null|
 |**2025-07-15**|**Einstein Fields: A Neural Perspective To Computational General Relativity**|Sandeep Suresh Cranganore et.al.|[2507.11589](http://arxiv.org/abs/2507.11589)|null|
 |**2025-07-15**|**COLI: A Hierarchical Efficient Compressor for Large Images**|Haoran Wang et.al.|[2507.11443](http://arxiv.org/abs/2507.11443)|null|
