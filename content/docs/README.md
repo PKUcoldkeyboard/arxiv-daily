@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-07-21"
+date: "2025-07-22"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-07-21"
+publishdate: "2025-07-22"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -77,6 +77,12 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734](http://arxiv.org/abs/2507.15734)|null|
+|**2025-07-21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|Haoxiong Ren et.al.|[2507.15603](http://arxiv.org/abs/2507.15603)|null|
+|**2025-07-21**|**Learning in Memristive Neural Networks**|H. M. Heidema et.al.|[2507.15324](http://arxiv.org/abs/2507.15324)|null|
+|**2025-07-20**|**Resonant-Tunnelling Diode Reservoir Computing System for Image Recognition**|A. H. Abbas et.al.|[2507.15158](http://arxiv.org/abs/2507.15158)|null|
+|**2025-07-19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|Szymon Mazurek et.al.|[2507.14757](http://arxiv.org/abs/2507.14757)|null|
+|**2025-07-14**|**Boosted Enhanced Quantile Regression Neural Networks with Spatiotemporal Permutation Entropy for Complex System Prognostics**|David J Poland et.al.|[2507.14194](http://arxiv.org/abs/2507.14194)|null|
 |**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069](http://arxiv.org/abs/2507.14069)|null|
 |**2025-07-17**|**Geometrical Tailoring of Shockley-Ramo Bipolar Photocurrent in Self-powered GaAs Nanodevices**|Xiaoguo Fang et.al.|[2507.12794](http://arxiv.org/abs/2507.12794)|null|
 |**2025-07-14**|**Bridging Brains and Machines: A Unified Frontier in Neuroscience, Artificial Intelligence, and Neuromorphic Systems**|Sohan Shankar et.al.|[2507.10722](http://arxiv.org/abs/2507.10722)|null|
@@ -1191,6 +1197,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Learning in Memristive Neural Networks**|H. M. Heidema et.al.|[2507.15324](http://arxiv.org/abs/2507.15324)|null|
+|**2025-07-20**|**Resonant-Tunnelling Diode Reservoir Computing System for Image Recognition**|A. H. Abbas et.al.|[2507.15158](http://arxiv.org/abs/2507.15158)|null|
+|**2025-07-19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|Szymon Mazurek et.al.|[2507.14757](http://arxiv.org/abs/2507.14757)|null|
 |**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069](http://arxiv.org/abs/2507.14069)|null|
 |**2025-07-18**|**An End-to-End DNN Inference Framework for the SpiNNaker2 Neuromorphic MPSoC**|Matthias Jobst et.al.|[2507.13736](http://arxiv.org/abs/2507.13736)|null|
 |**2025-07-17**|**Geometrical Tailoring of Shockley-Ramo Bipolar Photocurrent in Self-powered GaAs Nanodevices**|Xiaoguo Fang et.al.|[2507.12794](http://arxiv.org/abs/2507.12794)|null|
@@ -1804,6 +1813,9 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
+|**2025-07-19**|**Real-Time Scene Reconstruction using Light Field Probes**|Yaru Liu et.al.|[2507.14624](http://arxiv.org/abs/2507.14624)|null|
+|**2025-07-19**|**Uncovering the EEG Temporal Representation of Low-dimensional Object Properties**|Jiahua Tang et.al.|[2507.14537](http://arxiv.org/abs/2507.14537)|null|
 |**2025-07-18**|**Spacecraft Safe Robust Control Using Implicit Neural Representation for Geometrically Complex Targets in Proximity Operations**|Hang Zhou et.al.|[2507.13672](http://arxiv.org/abs/2507.13672)|null|
 |**2025-07-18**|**State Space Models Naturally Produce Traveling Waves, Time Cells, and Scale to Abstract Cognitive Functions**|Sen Lu et.al.|[2507.13638](http://arxiv.org/abs/2507.13638)|null|
 |**2025-07-18**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
@@ -1812,7 +1824,7 @@ categories: [""]
 |**2025-07-15**|**COLI: A Hierarchical Efficient Compressor for Large Images**|Haoran Wang et.al.|[2507.11443](http://arxiv.org/abs/2507.11443)|null|
 |**2025-07-15**|**HANS-Net: Hyperbolic Convolution and Adaptive Temporal Attention for Accurate and Generalizable Liver and Tumor Segmentation in CT Imaging**|Arefin Ittesafun Abian et.al.|[2507.11325](http://arxiv.org/abs/2507.11325)|null|
 |**2025-07-15**|**Defining neurosymbolic AI**|Lennert De Smet et.al.|[2507.11127](http://arxiv.org/abs/2507.11127)|null|
-|**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
+|**2025-07-21**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
 |**2025-07-15**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
 |**2025-07-14**|**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**|Jiamin Wu et.al.|[2507.09882](http://arxiv.org/abs/2507.09882)|null|
@@ -2742,6 +2754,7 @@ categories: [""]
 |**2025-02-26**|**PySEMTools: A library for post-processing hexahedral spectral element data**|Adalberto Perez et.al.|[2504.12301](http://arxiv.org/abs/2504.12301)|null|
 |**2025-04-04**|**Performance Analysis of HPC applications on the Aurora Supercomputer: Exploring the Impact of HBM-Enabled Intel Xeon Max CPUs**|Huda Ibeid et.al.|[2504.03632](http://arxiv.org/abs/2504.03632)|null|
 |**2025-03-21**|**HEART: A New X-Ray Tracing Code for Mosaic Crystal Spectrometers**|Thomas Gawne et.al.|[2503.16955](http://arxiv.org/abs/2503.16955)|**[link](https://gitlab.com/heart-ray-tracing/HEART)**|
+|**2025-07-21**|**Tensor-Product Bitstring Selected Configuration Interaction**|Enhua Xu et.al.|[2503.10335](http://arxiv.org/abs/2503.10335)|null|
 |**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
 |**2025-02-25**|**Advanced Attacks On Qubit-Ensemble Based Quantum Coins**|Bernd Bauerhenne et.al.|[2412.20243](http://arxiv.org/abs/2412.20243)|**[link](https://github.com/bauerhenne/diqtok-forge)**|
 |**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
@@ -2892,6 +2905,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need**|Michael Davies et.al.|[2507.14397](http://arxiv.org/abs/2507.14397)|null|
 |**2025-07-03**|**Collective Communication Profiling of Modern-day Machine Learning Workloads**|Jit Gupta et.al.|[2507.07117](http://arxiv.org/abs/2507.07117)|null|
 |**2025-07-07**|**Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms**|Zhiyi Hu et.al.|[2507.04786](http://arxiv.org/abs/2507.04786)|null|
 |**2025-07-03**|**An End-to-End Assurance Framework for AI/ML Workloads in Datacenters**|Jit Gupta et.al.|[2507.03158](http://arxiv.org/abs/2507.03158)|null|
