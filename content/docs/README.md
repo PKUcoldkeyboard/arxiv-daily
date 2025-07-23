@@ -1,17 +1,17 @@
 ---
 weight: 2
-date: "2025-07-22"
+date: "2025-07-23"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-07-22"
+publishdate: "2025-07-23"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -77,6 +77,10 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495](http://arxiv.org/abs/2507.16495)|null|
+|**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151](http://arxiv.org/abs/2507.16151)|null|
+|**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043](http://arxiv.org/abs/2507.16043)|null|
+|**2025-07-21**|**Quantization-Aware Neuromorphic Architecture for Efficient Skin Disease Classification on Resource-Constrained Devices**|Haitian Wang et.al.|[2507.15958](http://arxiv.org/abs/2507.15958)|null|
 |**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734](http://arxiv.org/abs/2507.15734)|null|
 |**2025-07-21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|Haoxiong Ren et.al.|[2507.15603](http://arxiv.org/abs/2507.15603)|null|
 |**2025-07-21**|**Learning in Memristive Neural Networks**|H. M. Heidema et.al.|[2507.15324](http://arxiv.org/abs/2507.15324)|null|
@@ -1197,6 +1201,8 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Reconfigurable qubit states and quantum trajectories in a synthetic artificial neuron network with a process to direct information generation from co-integrated burst-mode spiking under non-Markovianity**|Osama M. Nayfeh et.al.|[2507.16669](http://arxiv.org/abs/2507.16669)|null|
+|**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495](http://arxiv.org/abs/2507.16495)|null|
 |**2025-07-21**|**Learning in Memristive Neural Networks**|H. M. Heidema et.al.|[2507.15324](http://arxiv.org/abs/2507.15324)|null|
 |**2025-07-20**|**Resonant-Tunnelling Diode Reservoir Computing System for Image Recognition**|A. H. Abbas et.al.|[2507.15158](http://arxiv.org/abs/2507.15158)|null|
 |**2025-07-19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|Szymon Mazurek et.al.|[2507.14757](http://arxiv.org/abs/2507.14757)|null|
@@ -1813,6 +1819,7 @@ categories: [""]
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**From Flat to Round: Redefining Brain Decoding with Surface-Based fMRI and Cortex Structure**|Sijin Yu et.al.|[2507.16389](http://arxiv.org/abs/2507.16389)|null|
 |**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
 |**2025-07-19**|**Real-Time Scene Reconstruction using Light Field Probes**|Yaru Liu et.al.|[2507.14624](http://arxiv.org/abs/2507.14624)|null|
 |**2025-07-19**|**Uncovering the EEG Temporal Representation of Low-dimensional Object Properties**|Jiahua Tang et.al.|[2507.14537](http://arxiv.org/abs/2507.14537)|null|
