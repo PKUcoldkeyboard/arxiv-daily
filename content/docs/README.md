@@ -1,16 +1,16 @@
 ---
 weight: 2
-date: "2025-11-29"
+date: "2025-11-30"
 draft: false
 author: "cuterwrite"
 title: "Arxiv每日推送"
 icon: "menu_book"
 toc: true
 description: ""
-publishdate: "2025-11-29"
+publishdate: "2025-11-30"
 tags: ["Beginners"]
 categories: [""]
 ---
-## Updated on 2025.11.29
+## Updated on 2025.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
