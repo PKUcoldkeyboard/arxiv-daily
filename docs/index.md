@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Updated on 2026.01.01
+## Updated on 2026.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
